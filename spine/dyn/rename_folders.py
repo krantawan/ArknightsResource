@@ -3,7 +3,7 @@ import os
 import sys
 
 def process_atlas_files(folder_path):
-    """Process .atlas files in the folder and replace # with _ in line 2"""
+    """Process .atlas files in the folder and replace # with _ in all lines"""
     atlas_count = 0
     for file in os.listdir(folder_path):
         if file.endswith('.atlas'):
@@ -12,10 +12,15 @@ def process_atlas_files(folder_path):
                 with open(atlas_path, 'r', encoding='utf-8') as f:
                     lines = f.readlines()
 
-                if len(lines) >= 2 and '#' in lines[1]:
-                    # Replace # with _ in line 2 (index 1)
-                    lines[1] = lines[1].replace('#', '_')
+                # Check if any line contains #
+                has_changes = False
+                for i in range(len(lines)):
+                    if '#' in lines[i]:
+                        lines[i] = lines[i].replace('#', '_')
+                        has_changes = True
 
+                # Write back only if there were changes
+                if has_changes:
                     with open(atlas_path, 'w', encoding='utf-8') as f:
                         f.writelines(lines)
 
@@ -58,14 +63,22 @@ def rename_folders():
         # Check if it's a directory and starts with 'dyn_illust_'
         if os.path.isdir(item) and item.startswith('dyn_illust_'):
             folder_to_process = item
+            needs_rename = False
+            new_name = item
 
             # Check if it doesn't already have 'char_' in the name
             if not item.startswith('dyn_illust_char_'):
                 # Create new name by inserting 'char_' after 'dyn_illust_'
                 new_name = item.replace('dyn_illust_', 'dyn_illust_char_', 1)
-                # Replace # with _
-                new_name = new_name.replace('#', '_')
+                needs_rename = True
 
+            # Replace # with _ (always check, even if folder already has char_)
+            if '#' in new_name:
+                new_name = new_name.replace('#', '_')
+                needs_rename = True
+
+            # Rename if needed
+            if needs_rename:
                 try:
                     os.rename(item, new_name)
                     print(f"✓ Renamed folder: {item} -> {new_name}")
