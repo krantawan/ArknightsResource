@@ -206581,11 +206581,11 @@
                 },
                 {
                   "key": "init",
-                  "value": 0.0
+                  "value": 1.0
                 },
                 {
                   "key": "max",
-                  "value": 5.0
+                  "value": 6.0
                 }
               ]
             }
@@ -212450,6 +212450,14 @@
                 {
                   "key": "count",
                   "value": 1.0
+                },
+                {
+                  "key": "node",
+                  "valueStr": "BAT"
+                },
+                {
+                  "key": "node_sky",
+                  "valueStr": "BAT"
                 }
               ]
             }
@@ -212472,6 +212480,14 @@
                 {
                   "key": "count",
                   "value": 2.0
+                },
+                {
+                  "key": "node",
+                  "valueStr": "BAT"
+                },
+                {
+                  "key": "node_sky",
+                  "valueStr": "BAT"
                 }
               ]
             },
@@ -212511,6 +212527,14 @@
                 {
                   "key": "count",
                   "value": 1.0
+                },
+                {
+                  "key": "node",
+                  "valueStr": "BAT"
+                },
+                {
+                  "key": "node_sky",
+                  "valueStr": "BAT"
                 }
               ]
             },
@@ -216280,7 +216304,7 @@
               "blackboard": [
                 {
                   "key": "id",
-                  "valueStr": "pool_sacrifice_r"
+                  "valueStr": "pool_sacrifice_r_band_23_16"
                 },
                 {
                   "key": "count",
@@ -216297,7 +216321,7 @@
               "blackboard": [
                 {
                   "key": "id",
-                  "valueStr": "pool_sacrifice_r"
+                  "valueStr": "pool_sacrifice_r_band_23_16"
                 },
                 {
                   "key": "count",
@@ -276576,7 +276600,7 @@
           },
           "rogue_2_diceEve_9": {
             "dicePointMax": 12,
-            "diceResultClass": "BEST",
+            "diceResultClass": "GREAT",
             "diceGroupId": "rogue_2_dicegroup_5",
             "diceEventId": "rogue_2_diceEve_9",
             "resultDesc": "坎诺特愿意为你提供一点“高级货”",
@@ -276924,7 +276948,7 @@
           },
           "rogue_2_diceEve_44": {
             "dicePointMax": 12,
-            "diceResultClass": "GREAT",
+            "diceResultClass": "BEST",
             "diceGroupId": "rogue_2_dicegroup_21",
             "diceEventId": "rogue_2_diceEve_44",
             "resultDesc": "获得了<@ro2.virtue>启示<{0}></>",
@@ -310417,7 +310441,7 @@
             "bottomIconId": "rogue_5_grow_icon_extend_active",
             "effectType": "BUFF",
             "rawDesc": [
-              "洪陆楼、山水阁出现额外随机节点，始末陵必定出现“诡秘行商”和“指点迷津”"
+              "洪陆楼、山水阁出现额外随机节点，始末陵必定出现“诡意行商”和“指点迷津”"
             ],
             "buffDisplayInfo": [],
             "groupId": "group_1",
