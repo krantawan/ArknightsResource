@@ -538,7 +538,7 @@
       "char_4100_caper": {
         "charId": "char_4100_caper",
         "canBeFree": true,
-        "uniEquipId": null,
+        "uniEquipId": "uniequip_002_caper",
         "recruitType": "FREE"
       },
       "char_198_blackd": {
@@ -736,7 +736,7 @@
       "char_260_durnar": {
         "charId": "char_260_durnar",
         "canBeFree": true,
-        "uniEquipId": null,
+        "uniEquipId": "uniequip_002_durnar",
         "recruitType": "FREE"
       },
       "char_4130_luton": {
@@ -1456,7 +1456,7 @@
       "char_378_asbest": {
         "charId": "char_378_asbest",
         "canBeFree": true,
-        "uniEquipId": null,
+        "uniEquipId": "uniequip_002_asbest",
         "recruitType": "FREE"
       },
       "char_512_aprot": {
@@ -1468,13 +1468,13 @@
       "char_4025_aprot2": {
         "charId": "char_4025_aprot2",
         "canBeFree": true,
-        "uniEquipId": null,
+        "uniEquipId": "uniequip_002_aprot2",
         "recruitType": "FREE"
       },
       "char_4047_pianst": {
         "charId": "char_4047_pianst",
         "canBeFree": true,
-        "uniEquipId": null,
+        "uniEquipId": "uniequip_002_pianst",
         "recruitType": "FREE"
       },
       "char_431_ashlok": {
@@ -2332,7 +2332,7 @@
       "char_4138_narant": {
         "charId": "char_4138_narant",
         "canBeFree": true,
-        "uniEquipId": null,
+        "uniEquipId": "uniequip_002_narant",
         "recruitType": "FREE"
       },
       "char_4058_pepe": {
@@ -2476,7 +2476,7 @@
       "char_4177_brigid": {
         "charId": "char_4177_brigid",
         "canBeFree": true,
-        "uniEquipId": null,
+        "uniEquipId": "uniequip_002_brigid",
         "recruitType": "FREE"
       },
       "char_4171_wulfen": {
@@ -2578,7 +2578,7 @@
       "char_1044_hsgma2": {
         "charId": "char_1044_hsgma2",
         "canBeFree": true,
-        "uniEquipId": null,
+        "uniEquipId": "uniequip_002_hsgma2",
         "recruitType": "FREE"
       },
       "char_4199_makiri": {
@@ -2645,6 +2645,42 @@
         "charId": "char_4204_mantra",
         "canBeFree": true,
         "uniEquipId": "uniequip_002_mantra",
+        "recruitType": "FREE"
+      },
+      "char_4051_akkord": {
+        "charId": "char_4051_akkord",
+        "canBeFree": true,
+        "uniEquipId": "uniequip_002_akkord",
+        "recruitType": "FREE"
+      },
+      "char_1047_halo2": {
+        "charId": "char_1047_halo2",
+        "canBeFree": true,
+        "uniEquipId": "uniequip_002_halo2",
+        "recruitType": "FREE"
+      },
+      "char_4211_snhunt": {
+        "charId": "char_4211_snhunt",
+        "canBeFree": true,
+        "uniEquipId": "uniequip_002_snhunt",
+        "recruitType": "FREE"
+      },
+      "char_394_hadiya": {
+        "charId": "char_394_hadiya",
+        "canBeFree": true,
+        "uniEquipId": null,
+        "recruitType": "FREE"
+      },
+      "char_1046_sbell2": {
+        "charId": "char_1046_sbell2",
+        "canBeFree": true,
+        "uniEquipId": "uniequip_002_sbell2",
+        "recruitType": "FREE"
+      },
+      "char_1045_svash2": {
+        "charId": "char_1045_svash2",
+        "canBeFree": true,
+        "uniEquipId": null,
         "recruitType": "FREE"
       }
     }
@@ -32492,21 +32528,21 @@
         {
           "updateId": "rogue_2_update_5",
           "topicUpdateTime": 1675195200,
-          "topicEndTime": 1677614399
+          "topicEndTime": 1677614400
         },
         {
           "updateId": "rogue_2_update_6",
-          "topicUpdateTime": 1677614399,
-          "topicEndTime": 1680292799
+          "topicUpdateTime": 1677614400,
+          "topicEndTime": 1680292800
         },
         {
           "updateId": "rogue_2_update_7",
-          "topicUpdateTime": 1680292799,
-          "topicEndTime": 1682884799
+          "topicUpdateTime": 1680292800,
+          "topicEndTime": 1682884800
         },
         {
           "updateId": "rogue_2_update_8",
-          "topicUpdateTime": 1682884799,
+          "topicUpdateTime": 1682884800,
           "topicEndTime": 1685563200
         }
       ],
@@ -34433,27 +34469,27 @@
         },
         {
           "updateTime": 1675195200,
-          "endTime": 1677614399,
+          "endTime": 1677614400,
           "maxBpLevel": 125,
           "maxBpCount": 43000,
           "maxDisplayBpCount": 43000
         },
         {
-          "updateTime": 1677614399,
-          "endTime": 1680292799,
+          "updateTime": 1677614400,
+          "endTime": 1680292800,
           "maxBpLevel": 140,
           "maxBpCount": 49000,
           "maxDisplayBpCount": 49000
         },
         {
-          "updateTime": 1680292799,
-          "endTime": 1682884799,
+          "updateTime": 1680292800,
+          "endTime": 1682884800,
           "maxBpLevel": 155,
           "maxBpCount": 55000,
           "maxDisplayBpCount": 55000
         },
         {
-          "updateTime": 1682884799,
+          "updateTime": 1682884800,
           "endTime": -1,
           "maxBpLevel": 170,
           "maxBpCount": 61000,
@@ -35186,7 +35222,7 @@
             }
           ],
           "startTime": 1675195200,
-          "endTime": 1677614399,
+          "endTime": 1677614400,
           "taskDes": null
         },
         "month_team_6": {
@@ -35235,8 +35271,8 @@
               "type": "GOLD"
             }
           ],
-          "startTime": 1677614399,
-          "endTime": 1680292799,
+          "startTime": 1677614400,
+          "endTime": 1680292800,
           "taskDes": null
         },
         "month_team_7": {
@@ -35285,8 +35321,8 @@
               "type": "GOLD"
             }
           ],
-          "startTime": 1680292799,
-          "endTime": 1682884799,
+          "startTime": 1680292800,
+          "endTime": 1682884800,
           "taskDes": null
         },
         "month_team_8": {
@@ -35335,7 +35371,7 @@
               "type": "GOLD"
             }
           ],
-          "startTime": 1682884799,
+          "startTime": 1682884800,
           "endTime": 1685563200,
           "taskDes": null
         }
@@ -184727,6 +184763,11 @@
           "updateId": "rogue_5_update_4",
           "topicUpdateTime": 1759262400,
           "topicEndTime": 1761940800
+        },
+        {
+          "updateId": "rogue_5_update_5",
+          "topicUpdateTime": 1761940800,
+          "topicEndTime": 1764532800
         }
       ],
       "enrolls": {
@@ -185776,9 +185817,174 @@
           "id": "bp_level_95",
           "level": 95,
           "tokenNum": 31000,
-          "nextTokenNum": -1,
+          "nextTokenNum": 31400,
           "itemID": "char_1011_lava2@whirlwind#9",
           "itemType": "CHAR_SKIN",
+          "itemCount": 1,
+          "isGoodPrize": false,
+          "isGrandPrize": true
+        },
+        {
+          "id": "bp_level_96",
+          "level": 96,
+          "tokenNum": 31400,
+          "nextTokenNum": 31800,
+          "itemID": "4001",
+          "itemType": "GOLD",
+          "itemCount": 50000,
+          "isGoodPrize": false,
+          "isGrandPrize": false
+        },
+        {
+          "id": "bp_level_97",
+          "level": 97,
+          "tokenNum": 31800,
+          "nextTokenNum": 32200,
+          "itemID": "2004",
+          "itemType": "CARD_EXP",
+          "itemCount": 20,
+          "isGoodPrize": false,
+          "isGrandPrize": false
+        },
+        {
+          "id": "bp_level_98",
+          "level": 98,
+          "tokenNum": 32200,
+          "nextTokenNum": 32600,
+          "itemID": "31034",
+          "itemType": "MATERIAL",
+          "itemCount": 3,
+          "isGoodPrize": false,
+          "isGrandPrize": false
+        },
+        {
+          "id": "bp_level_99",
+          "level": 99,
+          "tokenNum": 32600,
+          "nextTokenNum": 33000,
+          "itemID": "3301",
+          "itemType": "MATERIAL",
+          "itemCount": 30,
+          "isGoodPrize": false,
+          "isGrandPrize": false
+        },
+        {
+          "id": "bp_level_100",
+          "level": 100,
+          "tokenNum": 33000,
+          "nextTokenNum": 33400,
+          "itemID": "30145",
+          "itemType": "MATERIAL",
+          "itemCount": 1,
+          "isGoodPrize": true,
+          "isGrandPrize": false
+        },
+        {
+          "id": "bp_level_101",
+          "level": 101,
+          "tokenNum": 33400,
+          "nextTokenNum": 33800,
+          "itemID": "4001",
+          "itemType": "GOLD",
+          "itemCount": 50000,
+          "isGoodPrize": false,
+          "isGrandPrize": false
+        },
+        {
+          "id": "bp_level_102",
+          "level": 102,
+          "tokenNum": 33800,
+          "nextTokenNum": 34200,
+          "itemID": "2004",
+          "itemType": "CARD_EXP",
+          "itemCount": 20,
+          "isGoodPrize": false,
+          "isGrandPrize": false
+        },
+        {
+          "id": "bp_level_103",
+          "level": 103,
+          "tokenNum": 34200,
+          "nextTokenNum": 34600,
+          "itemID": "31084",
+          "itemType": "MATERIAL",
+          "itemCount": 3,
+          "isGoodPrize": false,
+          "isGrandPrize": false
+        },
+        {
+          "id": "bp_level_104",
+          "level": 104,
+          "tokenNum": 34600,
+          "nextTokenNum": 35000,
+          "itemID": "3302",
+          "itemType": "MATERIAL",
+          "itemCount": 10,
+          "isGoodPrize": false,
+          "isGrandPrize": false
+        },
+        {
+          "id": "bp_level_105",
+          "level": 105,
+          "tokenNum": 35000,
+          "nextTokenNum": 35400,
+          "itemID": "uni_set_gardenFantasy_2",
+          "itemType": "UNI_COLLECTION",
+          "itemCount": 1,
+          "isGoodPrize": false,
+          "isGrandPrize": true
+        },
+        {
+          "id": "bp_level_106",
+          "level": 106,
+          "tokenNum": 35400,
+          "nextTokenNum": 35800,
+          "itemID": "4001",
+          "itemType": "GOLD",
+          "itemCount": 50000,
+          "isGoodPrize": false,
+          "isGrandPrize": false
+        },
+        {
+          "id": "bp_level_107",
+          "level": 107,
+          "tokenNum": 35800,
+          "nextTokenNum": 36200,
+          "itemID": "2004",
+          "itemType": "CARD_EXP",
+          "itemCount": 20,
+          "isGoodPrize": false,
+          "isGrandPrize": false
+        },
+        {
+          "id": "bp_level_108",
+          "level": 108,
+          "tokenNum": 36200,
+          "nextTokenNum": 36600,
+          "itemID": "30115",
+          "itemType": "MATERIAL",
+          "itemCount": 1,
+          "isGoodPrize": true,
+          "isGrandPrize": false
+        },
+        {
+          "id": "bp_level_109",
+          "level": 109,
+          "tokenNum": 36600,
+          "nextTokenNum": 37000,
+          "itemID": "3303",
+          "itemType": "MATERIAL",
+          "itemCount": 3,
+          "isGoodPrize": false,
+          "isGrandPrize": false
+        },
+        {
+          "id": "bp_level_110",
+          "level": 110,
+          "tokenNum": 37000,
+          "nextTokenNum": -1,
+          "itemID": "itempack_mod_6",
+          "itemType": "ITEM_PACK",
           "itemCount": 1,
           "isGoodPrize": false,
           "isGrandPrize": true
@@ -185812,6 +186018,13 @@
           "maxBpLevel": 95,
           "maxBpCount": 31000,
           "maxDisplayBpCount": 31000
+        },
+        {
+          "updateTime": 1761940800,
+          "endTime": 1764532800,
+          "maxBpLevel": 110,
+          "maxBpCount": 37000,
+          "maxDisplayBpCount": 37000
         }
       ],
       "grandPrizes": [
@@ -185930,14 +186143,9 @@
           "displayUnlockMonth": 12,
           "acquireTitle": "可获取老鲤形象时装",
           "purchaseTitle": "老鲤形象时装",
-          "displayName": "神秘时装",
+          "displayName": "鉴浮生",
           "displayDiscription": "人有七情，物承其念。\n鉴物实为窥人。\n萍水相逢，去留随缘。\n器物亦会择主。",
           "bpLevelId": "bp_level_125",
-          "itemBundle": {
-            "id": "char_311_mudrok@wild#10",
-            "count": 1,
-            "type": "CHAR_SKIN"
-          },
           "detailAnnounceTime": "2025/12/1 4:00:00"
         },
         {
@@ -186514,6 +186722,56 @@
           "startTime": 1759262400,
           "endTime": 1761940800,
           "taskDes": "累计使用20个令的召唤物"
+        },
+        "month_team_5": {
+          "id": "month_team_5",
+          "teamName": "塞下曲",
+          "teamSubName": null,
+          "teamFlavorDesc": "sai xia qu",
+          "teamDes": "塞下之曲，不止咏唱悲凉。",
+          "teamColor": "16bb9f",
+          "teamMonth": "11",
+          "teamYear": "2025",
+          "teamIndex": "5",
+          "teamChars": [
+            {
+              "teamCharId": "char_2024_chyue",
+              "teamTmplId": null
+            }
+          ],
+          "zoneId": null,
+          "chatId": "month_chat_rogue_5_5",
+          "tokenRewardNum": 1000,
+          "items": [
+            {
+              "id": "mod_unlock_token",
+              "count": 1,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "32001",
+              "count": 1,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "3252",
+              "count": 4,
+              "type": "MATERIAL"
+            },
+            {
+              "id": "2004",
+              "count": 15,
+              "type": "CARD_EXP"
+            },
+            {
+              "id": "4001",
+              "count": 30000,
+              "type": "GOLD"
+            }
+          ],
+          "startTime": 1761940800,
+          "endTime": 1764532800,
+          "taskDes": "累计开启20次重岳的“我无”"
         }
       },
       "challenges": {},
@@ -189198,6 +189456,29 @@
                   "chatZoneId": "zone_5",
                   "chatDesc": "把酒问天，一醉百年。",
                   "chatStoryId": "Obt/Rogue/rogue_5/MonthRecord/month_record_rogue_5_4_3"
+                }
+              ]
+            },
+            "month_chat_rogue_5_5": {
+              "sortId": 5,
+              "chatItemList": [
+                {
+                  "floor": 1,
+                  "chatZoneId": "zone_1",
+                  "chatDesc": "荒漠之上，有新枝发芽。",
+                  "chatStoryId": "Obt/Rogue/rogue_5/MonthRecord/month_record_rogue_5_5_1"
+                },
+                {
+                  "floor": 3,
+                  "chatZoneId": "zone_3",
+                  "chatDesc": "高垣有隙，城郭亦坚。",
+                  "chatStoryId": "Obt/Rogue/rogue_5/MonthRecord/month_record_rogue_5_5_2"
+                },
+                {
+                  "floor": 5,
+                  "chatZoneId": "zone_5",
+                  "chatDesc": "“历练”，并非只在战场。",
+                  "chatStoryId": "Obt/Rogue/rogue_5/MonthRecord/month_record_rogue_5_5_3"
                 }
               ]
             }
@@ -192781,6 +193062,34 @@
           ],
           "initialRecruitGroup": [
             "recruit_group_m4"
+          ],
+          "initialHp": 8,
+          "initialPopulation": 6,
+          "initialGold": 8,
+          "initialSquadCapacity": 6,
+          "initialShield": 0,
+          "initialMaxHp": 8,
+          "initialKey": 0
+        },
+        {
+          "modeId": "MONTH_TEAM",
+          "modeGrade": 0,
+          "predefinedId": "month_team_5",
+          "predefinedStyle": "rogue_5_style_default",
+          "initialBandRelic": [
+            "rogue_5_band_1",
+            "rogue_5_band_5",
+            "rogue_5_band_7",
+            "rogue_5_band_12",
+            "rogue_5_band_15",
+            "rogue_5_band_16",
+            "rogue_5_band_17",
+            "rogue_5_band_18",
+            "rogue_5_band_19",
+            "rogue_5_band_20"
+          ],
+          "initialRecruitGroup": [
+            "recruit_group_m5"
           ],
           "initialHp": 8,
           "initialPopulation": 6,
@@ -205826,7 +206135,7 @@
               "blackboard": [
                 {
                   "key": "key",
-                  "valueStr": "rogue_5_modify_cost[token&trap]"
+                  "valueStr": "rogue_5_modify_cost[trap]"
                 },
                 {
                   "key": "value",
@@ -205839,6 +206148,19 @@
                 {
                   "key": "selector.profession",
                   "valueStr": "trap"
+                }
+              ]
+            },
+            {
+              "key": "char_attribute_add",
+              "blackboard": [
+                {
+                  "key": "cost",
+                  "value": -10.0
+                },
+                {
+                  "key": "selector.profession",
+                  "valueStr": "token"
                 }
               ]
             }
@@ -251775,7 +252097,7 @@
           "id": "rogue_5_relic_explore_7",
           "name": "子武剑",
           "description": "岁兽残识第一个时辰入髓后凝聚的实物，形为刀兵。以厮杀洗砺，便可见其锋锐的怒意。",
-          "usage": "使当前或下次进入的岁兽残识中所有祸乱节点变为可探索状态，每完成一个祸乱节点，我方所有干员再部署时间-5%，最多叠加5层",
+          "usage": "使当前或下次进入的岁兽残识中所有祸乱节点变为可探索状态，我方所有干员再部署时间-5%，每完成一个祸乱节点叠加1层，最多6层",
           "obtainApproach": "在集成战略模式中获得",
           "iconId": "rogue_5_relic_explore_7",
           "itemIconGroupId": null,
@@ -251785,7 +252107,7 @@
           "sortId": 999,
           "canSacrifice": true,
           "unlockCondDesc": null,
-          "shortUsage": "使当前或下次进入的岁兽残识中所有祸乱节点变为可探索，每完成一个祸乱节点，干员再部署时间-5%，最多叠加5层"
+          "shortUsage": "使当前或下次进入的岁兽残识中所有祸乱节点变为可探索，干员再部署时间-5%，每完成一个祸乱叠加1层，最多6层"
         },
         "rogue_5_relic_explore_8": {
           "id": "rogue_5_relic_explore_8",
@@ -276948,7 +277270,7 @@
           },
           "rogue_2_diceEve_44": {
             "dicePointMax": 12,
-            "diceResultClass": "BEST",
+            "diceResultClass": "GREAT",
             "diceGroupId": "rogue_2_dicegroup_21",
             "diceEventId": "rogue_2_diceEve_44",
             "resultDesc": "获得了<@ro2.virtue>启示<{0}></>",
