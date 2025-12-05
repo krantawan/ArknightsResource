@@ -72537,6 +72537,520 @@
       }
     ]
   },
+  "skchr_skybx_1": {
+    "skillId": "skchr_skybx_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "源石火药驾临",
+        "rangeId": null,
+        "description": "下次攻击变为投掷源石炸弹，爆炸范围<@ba.vup>扩大</>，造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害\\n<@ba.rem>可充能1次</>",
+        "skillType": 2,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 11,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_skybx_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 1.8
+          }
+        ]
+      },
+      {
+        "name": "源石火药驾临",
+        "rangeId": null,
+        "description": "下次攻击变为投掷源石炸弹，爆炸范围<@ba.vup>扩大</>，造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害\\n<@ba.rem>可充能1次</>",
+        "skillType": 2,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 11,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_skybx_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 1.9
+          }
+        ]
+      },
+      {
+        "name": "源石火药驾临",
+        "rangeId": null,
+        "description": "下次攻击变为投掷源石炸弹，爆炸范围<@ba.vup>扩大</>，造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害\\n<@ba.rem>可充能1次</>",
+        "skillType": 2,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 11,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_skybx_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 2.0
+          }
+        ]
+      },
+      {
+        "name": "源石火药驾临",
+        "rangeId": null,
+        "description": "下次攻击变为投掷源石炸弹，爆炸范围<@ba.vup>扩大</>，造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害\\n<@ba.rem>可充能1次</>",
+        "skillType": 2,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_skybx_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 2.1
+          }
+        ]
+      },
+      {
+        "name": "源石火药驾临",
+        "rangeId": null,
+        "description": "下次攻击变为投掷源石炸弹，爆炸范围<@ba.vup>扩大</>，造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害\\n<@ba.rem>可充能1次</>",
+        "skillType": 2,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_skybx_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 2.2
+          }
+        ]
+      },
+      {
+        "name": "源石火药驾临",
+        "rangeId": null,
+        "description": "下次攻击变为投掷源石炸弹，爆炸范围<@ba.vup>扩大</>，造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害\\n<@ba.rem>可充能1次</>",
+        "skillType": 2,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_skybx_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 2.3
+          }
+        ]
+      },
+      {
+        "name": "源石火药驾临",
+        "rangeId": null,
+        "description": "下次攻击变为投掷源石炸弹，爆炸范围<@ba.vup>扩大</>，造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害\\n<@ba.rem>可充能2次</>",
+        "skillType": 2,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 9,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_skybx_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 2.4
+          }
+        ]
+      },
+      {
+        "name": "源石火药驾临",
+        "rangeId": null,
+        "description": "下次攻击变为投掷源石炸弹，爆炸范围<@ba.vup>扩大</>，造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害\\n<@ba.rem>可充能2次</>",
+        "skillType": 2,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 9,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_skybx_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 2.6
+          }
+        ]
+      },
+      {
+        "name": "源石火药驾临",
+        "rangeId": null,
+        "description": "下次攻击变为投掷源石炸弹，爆炸范围<@ba.vup>扩大</>，造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害\\n<@ba.rem>可充能2次</>",
+        "skillType": 2,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 9,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_skybx_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 2.8
+          }
+        ]
+      },
+      {
+        "name": "源石火药驾临",
+        "rangeId": null,
+        "description": "下次攻击变为投掷源石炸弹，爆炸范围<@ba.vup>扩大</>，造成相当于攻击力<@ba.vup>{atk_scale:0%}</>的物理伤害\\n<@ba.rem>可充能2次</>",
+        "skillType": 2,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 2,
+          "spCost": 8,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_skybx_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 3.0
+          }
+        ]
+      }
+    ]
+  },
+  "skchr_skybx_2": {
+    "skillId": "skchr_skybx_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "电磁脉冲恩宠",
+        "rangeId": "3-10",
+        "description": "攻击范围<@ba.vup>扩大</>，攻击时攻击力提升至<@ba.vup>{attack@atk_scale:0%}</>\\n<$ba.overdrive>过载</>：主动关闭时发射剩余全部弹药攻击随机敌人\\n<@ba.rem>技能拥有<@ba.vup>{attack@trigger_time}</>枚弹药，可随时主动关闭</>",
+        "skillType": 1,
+        "durationType": 1,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "initSp": 10,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_skybx_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "attack@atk_scale",
+            "value": 1.2
+          },
+          {
+            "key": "attack@trigger_time",
+            "value": 10.0
+          }
+        ]
+      },
+      {
+        "name": "电磁脉冲恩宠",
+        "rangeId": "3-10",
+        "description": "攻击范围<@ba.vup>扩大</>，攻击时攻击力提升至<@ba.vup>{attack@atk_scale:0%}</>\\n<$ba.overdrive>过载</>：主动关闭时发射剩余全部弹药攻击随机敌人\\n<@ba.rem>技能拥有<@ba.vup>{attack@trigger_time}</>枚弹药，可随时主动关闭</>",
+        "skillType": 1,
+        "durationType": 1,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "initSp": 11,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_skybx_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "attack@atk_scale",
+            "value": 1.3
+          },
+          {
+            "key": "attack@trigger_time",
+            "value": 10.0
+          }
+        ]
+      },
+      {
+        "name": "电磁脉冲恩宠",
+        "rangeId": "3-10",
+        "description": "攻击范围<@ba.vup>扩大</>，攻击时攻击力提升至<@ba.vup>{attack@atk_scale:0%}</>\\n<$ba.overdrive>过载</>：主动关闭时发射剩余全部弹药攻击随机敌人\\n<@ba.rem>技能拥有<@ba.vup>{attack@trigger_time}</>枚弹药，可随时主动关闭</>",
+        "skillType": 1,
+        "durationType": 1,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "initSp": 12,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_skybx_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "attack@atk_scale",
+            "value": 1.4
+          },
+          {
+            "key": "attack@trigger_time",
+            "value": 10.0
+          }
+        ]
+      },
+      {
+        "name": "电磁脉冲恩宠",
+        "rangeId": "3-10",
+        "description": "攻击范围<@ba.vup>扩大</>，攻击时攻击力提升至<@ba.vup>{attack@atk_scale:0%}</>\\n<$ba.overdrive>过载</>：主动关闭时发射剩余全部弹药攻击随机敌人\\n<@ba.rem>技能拥有<@ba.vup>{attack@trigger_time}</>枚弹药，可随时主动关闭</>",
+        "skillType": 1,
+        "durationType": 1,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "initSp": 13,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_skybx_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "attack@atk_scale",
+            "value": 1.5
+          },
+          {
+            "key": "attack@trigger_time",
+            "value": 10.0
+          }
+        ]
+      },
+      {
+        "name": "电磁脉冲恩宠",
+        "rangeId": "3-10",
+        "description": "攻击范围<@ba.vup>扩大</>，攻击时攻击力提升至<@ba.vup>{attack@atk_scale:0%}</>\\n<$ba.overdrive>过载</>：主动关闭时发射剩余全部弹药攻击随机敌人\\n<@ba.rem>技能拥有<@ba.vup>{attack@trigger_time}</>枚弹药，可随时主动关闭</>",
+        "skillType": 1,
+        "durationType": 1,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "initSp": 14,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_skybx_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "attack@atk_scale",
+            "value": 1.6
+          },
+          {
+            "key": "attack@trigger_time",
+            "value": 10.0
+          }
+        ]
+      },
+      {
+        "name": "电磁脉冲恩宠",
+        "rangeId": "3-10",
+        "description": "攻击范围<@ba.vup>扩大</>，攻击时攻击力提升至<@ba.vup>{attack@atk_scale:0%}</>\\n<$ba.overdrive>过载</>：主动关闭时发射剩余全部弹药攻击随机敌人\\n<@ba.rem>技能拥有<@ba.vup>{attack@trigger_time}</>枚弹药，可随时主动关闭</>",
+        "skillType": 1,
+        "durationType": 1,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "initSp": 15,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_skybx_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "attack@atk_scale",
+            "value": 1.7
+          },
+          {
+            "key": "attack@trigger_time",
+            "value": 10.0
+          }
+        ]
+      },
+      {
+        "name": "电磁脉冲恩宠",
+        "rangeId": "3-10",
+        "description": "攻击范围<@ba.vup>扩大</>，攻击时攻击力提升至<@ba.vup>{attack@atk_scale:0%}</>\\n<$ba.overdrive>过载</>：主动关闭时发射剩余全部弹药攻击随机敌人\\n<@ba.rem>技能拥有<@ba.vup>{attack@trigger_time}</>枚弹药，可随时主动关闭</>",
+        "skillType": 1,
+        "durationType": 1,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "initSp": 16,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_skybx_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "attack@atk_scale",
+            "value": 1.8
+          },
+          {
+            "key": "attack@trigger_time",
+            "value": 10.0
+          }
+        ]
+      },
+      {
+        "name": "电磁脉冲恩宠",
+        "rangeId": "3-10",
+        "description": "攻击范围<@ba.vup>扩大</>，攻击时攻击力提升至<@ba.vup>{attack@atk_scale:0%}</>\\n<$ba.overdrive>过载</>：主动关闭时发射剩余全部弹药攻击随机敌人\\n<@ba.rem>技能拥有<@ba.vup>{attack@trigger_time}</>枚弹药，可随时主动关闭</>",
+        "skillType": 1,
+        "durationType": 1,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 29,
+          "initSp": 17,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_skybx_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "attack@atk_scale",
+            "value": 2.0
+          },
+          {
+            "key": "attack@trigger_time",
+            "value": 10.0
+          }
+        ]
+      },
+      {
+        "name": "电磁脉冲恩宠",
+        "rangeId": "3-10",
+        "description": "攻击范围<@ba.vup>扩大</>，攻击时攻击力提升至<@ba.vup>{attack@atk_scale:0%}</>\\n<$ba.overdrive>过载</>：主动关闭时发射剩余全部弹药攻击随机敌人\\n<@ba.rem>技能拥有<@ba.vup>{attack@trigger_time}</>枚弹药，可随时主动关闭</>",
+        "skillType": 1,
+        "durationType": 1,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "initSp": 18,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_skybx_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "attack@atk_scale",
+            "value": 2.2
+          },
+          {
+            "key": "attack@trigger_time",
+            "value": 10.0
+          }
+        ]
+      },
+      {
+        "name": "电磁脉冲恩宠",
+        "rangeId": "3-10",
+        "description": "攻击范围<@ba.vup>扩大</>，攻击时攻击力提升至<@ba.vup>{attack@atk_scale:0%}</>\\n<$ba.overdrive>过载</>：主动关闭时发射剩余全部弹药攻击随机敌人\\n<@ba.rem>技能拥有<@ba.vup>{attack@trigger_time}</>枚弹药，可随时主动关闭</>",
+        "skillType": 1,
+        "durationType": 1,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "initSp": 20,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_skybx_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "attack@atk_scale",
+            "value": 2.4
+          },
+          {
+            "key": "attack@trigger_time",
+            "value": 10.0
+          }
+        ]
+      }
+    ]
+  },
   "skchr_serum_1": {
     "skillId": "skchr_serum_1",
     "iconId": null,
@@ -100209,6 +100723,283 @@
       }
     ]
   },
+  "skchr_pithst_1": {
+    "skillId": "skchr_pithst_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "战术咏唱·双型",
+        "rangeId": null,
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，同时攻击{attack@max_target}个目标",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 2,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 23,
+          "initSp": 8,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_pithst_1",
+        "duration": 30.0,
+        "blackboard": [
+          {
+            "key": "attack_speed",
+            "value": 60.0
+          },
+          {
+            "key": "attack@max_target",
+            "value": 2.0
+          }
+        ]
+      },
+      {
+        "name": "战术咏唱·双型",
+        "rangeId": null,
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，同时攻击{attack@max_target}个目标",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 2,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "initSp": 8,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_pithst_1",
+        "duration": 30.0,
+        "blackboard": [
+          {
+            "key": "attack_speed",
+            "value": 60.0
+          },
+          {
+            "key": "attack@max_target",
+            "value": 2.0
+          }
+        ]
+      },
+      {
+        "name": "战术咏唱·双型",
+        "rangeId": null,
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，同时攻击{attack@max_target}个目标",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 2,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 21,
+          "initSp": 8,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_pithst_1",
+        "duration": 30.0,
+        "blackboard": [
+          {
+            "key": "attack_speed",
+            "value": 60.0
+          },
+          {
+            "key": "attack@max_target",
+            "value": 2.0
+          }
+        ]
+      },
+      {
+        "name": "战术咏唱·双型",
+        "rangeId": null,
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，同时攻击{attack@max_target}个目标",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 2,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "initSp": 9,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_pithst_1",
+        "duration": 30.0,
+        "blackboard": [
+          {
+            "key": "attack_speed",
+            "value": 70.0
+          },
+          {
+            "key": "attack@max_target",
+            "value": 2.0
+          }
+        ]
+      },
+      {
+        "name": "战术咏唱·双型",
+        "rangeId": null,
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，同时攻击{attack@max_target}个目标",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 2,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 19,
+          "initSp": 9,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_pithst_1",
+        "duration": 30.0,
+        "blackboard": [
+          {
+            "key": "attack_speed",
+            "value": 70.0
+          },
+          {
+            "key": "attack@max_target",
+            "value": 2.0
+          }
+        ]
+      },
+      {
+        "name": "战术咏唱·双型",
+        "rangeId": null,
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，同时攻击{attack@max_target}个目标",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 2,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "initSp": 9,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_pithst_1",
+        "duration": 30.0,
+        "blackboard": [
+          {
+            "key": "attack_speed",
+            "value": 70.0
+          },
+          {
+            "key": "attack@max_target",
+            "value": 2.0
+          }
+        ]
+      },
+      {
+        "name": "战术咏唱·双型",
+        "rangeId": null,
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，同时攻击{attack@max_target}个目标",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 2,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 17,
+          "initSp": 10,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_pithst_1",
+        "duration": 30.0,
+        "blackboard": [
+          {
+            "key": "attack_speed",
+            "value": 80.0
+          },
+          {
+            "key": "attack@max_target",
+            "value": 2.0
+          }
+        ]
+      },
+      {
+        "name": "战术咏唱·双型",
+        "rangeId": null,
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，同时攻击{attack@max_target}个目标",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 2,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 16,
+          "initSp": 10,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_pithst_1",
+        "duration": 30.0,
+        "blackboard": [
+          {
+            "key": "attack_speed",
+            "value": 80.0
+          },
+          {
+            "key": "attack@max_target",
+            "value": 2.0
+          }
+        ]
+      },
+      {
+        "name": "战术咏唱·双型",
+        "rangeId": null,
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，同时攻击{attack@max_target}个目标",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 2,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "initSp": 10,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_pithst_1",
+        "duration": 30.0,
+        "blackboard": [
+          {
+            "key": "attack_speed",
+            "value": 80.0
+          },
+          {
+            "key": "attack@max_target",
+            "value": 2.0
+          }
+        ]
+      },
+      {
+        "name": "战术咏唱·双型",
+        "rangeId": null,
+        "description": "攻击速度<@ba.vup>+{attack_speed}</>，同时攻击{attack@max_target}个目标",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 2,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "initSp": 10,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_pithst_1",
+        "duration": 30.0,
+        "blackboard": [
+          {
+            "key": "attack_speed",
+            "value": 90.0
+          },
+          {
+            "key": "attack@max_target",
+            "value": 2.0
+          }
+        ]
+      }
+    ]
+  },
   "skchr_ethan_1": {
     "skillId": "skchr_ethan_1",
     "iconId": null,
@@ -115417,6 +116208,640 @@
           {
             "key": "max_hp",
             "value": 0.5
+          }
+        ]
+      }
+    ]
+  },
+  "skchr_cairn_1": {
+    "skillId": "skchr_cairn_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "覆盖式休整",
+        "rangeId": null,
+        "description": "生命上限<@ba.vup>+{max_hp:0%}</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "initSp": 5,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_cairn_1",
+        "duration": 30.0,
+        "blackboard": [
+          {
+            "key": "max_hp",
+            "value": 0.4
+          }
+        ]
+      },
+      {
+        "name": "覆盖式休整",
+        "rangeId": null,
+        "description": "生命上限<@ba.vup>+{max_hp:0%}</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 43,
+          "initSp": 7,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_cairn_1",
+        "duration": 30.0,
+        "blackboard": [
+          {
+            "key": "max_hp",
+            "value": 0.5
+          }
+        ]
+      },
+      {
+        "name": "覆盖式休整",
+        "rangeId": null,
+        "description": "生命上限<@ba.vup>+{max_hp:0%}</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "initSp": 9,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_cairn_1",
+        "duration": 30.0,
+        "blackboard": [
+          {
+            "key": "max_hp",
+            "value": 0.6
+          }
+        ]
+      },
+      {
+        "name": "覆盖式休整",
+        "rangeId": null,
+        "description": "生命上限<@ba.vup>+{max_hp:0%}</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "initSp": 11,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_cairn_1",
+        "duration": 30.0,
+        "blackboard": [
+          {
+            "key": "max_hp",
+            "value": 0.7
+          }
+        ]
+      },
+      {
+        "name": "覆盖式休整",
+        "rangeId": null,
+        "description": "生命上限<@ba.vup>+{max_hp:0%}</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "initSp": 13,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_cairn_1",
+        "duration": 30.0,
+        "blackboard": [
+          {
+            "key": "max_hp",
+            "value": 0.8
+          }
+        ]
+      },
+      {
+        "name": "覆盖式休整",
+        "rangeId": null,
+        "description": "生命上限<@ba.vup>+{max_hp:0%}</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "initSp": 15,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_cairn_1",
+        "duration": 30.0,
+        "blackboard": [
+          {
+            "key": "max_hp",
+            "value": 0.9
+          }
+        ]
+      },
+      {
+        "name": "覆盖式休整",
+        "rangeId": null,
+        "description": "生命上限<@ba.vup>+{max_hp:0%}</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "initSp": 16,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_cairn_1",
+        "duration": 30.0,
+        "blackboard": [
+          {
+            "key": "max_hp",
+            "value": 1.0
+          }
+        ]
+      },
+      {
+        "name": "覆盖式休整",
+        "rangeId": null,
+        "description": "生命上限<@ba.vup>+{max_hp:0%}</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "initSp": 17,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_cairn_1",
+        "duration": 30.0,
+        "blackboard": [
+          {
+            "key": "max_hp",
+            "value": 1.1
+          }
+        ]
+      },
+      {
+        "name": "覆盖式休整",
+        "rangeId": null,
+        "description": "生命上限<@ba.vup>+{max_hp:0%}</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 31,
+          "initSp": 18,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_cairn_1",
+        "duration": 30.0,
+        "blackboard": [
+          {
+            "key": "max_hp",
+            "value": 1.2
+          }
+        ]
+      },
+      {
+        "name": "覆盖式休整",
+        "rangeId": null,
+        "description": "生命上限<@ba.vup>+{max_hp:0%}</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "initSp": 20,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_cairn_1",
+        "duration": 30.0,
+        "blackboard": [
+          {
+            "key": "max_hp",
+            "value": 1.3
+          }
+        ]
+      }
+    ]
+  },
+  "skchr_cairn_2": {
+    "skillId": "skchr_cairn_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "震撼型指路",
+        "rangeId": "x-4",
+        "description": "立即获得<@ba.vup>{shield_hp_ratio:0%}</>最大生命值的<$ba.barrier>屏障</>（屏障持续<@ba.vup>{buff_duration}</>秒，最多不超过生命上限<@ba.vup>{shield_max_hp_ratio:0%}</>），并使自身周围地面敌人<@ba.vup>{buff_duration}</>秒内每秒受到相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害和攻击力<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.neural2>神经损伤</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "initSp": 5,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_cairn_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "buff_duration",
+            "value": 10.0
+          },
+          {
+            "key": "shield_max_hp_ratio",
+            "value": 0.3
+          },
+          {
+            "key": "atk_scale",
+            "value": 0.2
+          },
+          {
+            "key": "ep_damage_ratio",
+            "value": 0.05
+          },
+          {
+            "key": "shield_hp_ratio",
+            "value": 0.3
+          }
+        ]
+      },
+      {
+        "name": "震撼型指路",
+        "rangeId": "x-4",
+        "description": "立即获得<@ba.vup>{shield_hp_ratio:0%}</>最大生命值的<$ba.barrier>屏障</>（屏障持续<@ba.vup>{buff_duration}</>秒，最多不超过生命上限<@ba.vup>{shield_max_hp_ratio:0%}</>），并使自身周围地面敌人<@ba.vup>{buff_duration}</>秒内每秒受到相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害和攻击力<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.neural2>神经损伤</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 29,
+          "initSp": 5,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_cairn_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "buff_duration",
+            "value": 10.0
+          },
+          {
+            "key": "shield_max_hp_ratio",
+            "value": 0.4
+          },
+          {
+            "key": "atk_scale",
+            "value": 0.3
+          },
+          {
+            "key": "ep_damage_ratio",
+            "value": 0.05
+          },
+          {
+            "key": "shield_hp_ratio",
+            "value": 0.4
+          }
+        ]
+      },
+      {
+        "name": "震撼型指路",
+        "rangeId": "x-4",
+        "description": "立即获得<@ba.vup>{shield_hp_ratio:0%}</>最大生命值的<$ba.barrier>屏障</>（屏障持续<@ba.vup>{buff_duration}</>秒，最多不超过生命上限<@ba.vup>{shield_max_hp_ratio:0%}</>），并使自身周围地面敌人<@ba.vup>{buff_duration}</>秒内每秒受到相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害和攻击力<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.neural2>神经损伤</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "initSp": 5,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_cairn_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "buff_duration",
+            "value": 10.0
+          },
+          {
+            "key": "shield_max_hp_ratio",
+            "value": 0.5
+          },
+          {
+            "key": "atk_scale",
+            "value": 0.3
+          },
+          {
+            "key": "ep_damage_ratio",
+            "value": 0.05
+          },
+          {
+            "key": "shield_hp_ratio",
+            "value": 0.5
+          }
+        ]
+      },
+      {
+        "name": "震撼型指路",
+        "rangeId": "x-4",
+        "description": "立即获得<@ba.vup>{shield_hp_ratio:0%}</>最大生命值的<$ba.barrier>屏障</>（屏障持续<@ba.vup>{buff_duration}</>秒，最多不超过生命上限<@ba.vup>{shield_max_hp_ratio:0%}</>），并使自身周围地面敌人<@ba.vup>{buff_duration}</>秒内每秒受到相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害和攻击力<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.neural2>神经损伤</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "initSp": 7,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_cairn_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "buff_duration",
+            "value": 10.0
+          },
+          {
+            "key": "shield_max_hp_ratio",
+            "value": 0.6
+          },
+          {
+            "key": "atk_scale",
+            "value": 0.4
+          },
+          {
+            "key": "ep_damage_ratio",
+            "value": 0.07
+          },
+          {
+            "key": "shield_hp_ratio",
+            "value": 0.6
+          }
+        ]
+      },
+      {
+        "name": "震撼型指路",
+        "rangeId": "x-4",
+        "description": "立即获得<@ba.vup>{shield_hp_ratio:0%}</>最大生命值的<$ba.barrier>屏障</>（屏障持续<@ba.vup>{buff_duration}</>秒，最多不超过生命上限<@ba.vup>{shield_max_hp_ratio:0%}</>），并使自身周围地面敌人<@ba.vup>{buff_duration}</>秒内每秒受到相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害和攻击力<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.neural2>神经损伤</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 26,
+          "initSp": 7,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_cairn_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "buff_duration",
+            "value": 10.0
+          },
+          {
+            "key": "shield_max_hp_ratio",
+            "value": 0.7
+          },
+          {
+            "key": "atk_scale",
+            "value": 0.5
+          },
+          {
+            "key": "ep_damage_ratio",
+            "value": 0.07
+          },
+          {
+            "key": "shield_hp_ratio",
+            "value": 0.7
+          }
+        ]
+      },
+      {
+        "name": "震撼型指路",
+        "rangeId": "x-4",
+        "description": "立即获得<@ba.vup>{shield_hp_ratio:0%}</>最大生命值的<$ba.barrier>屏障</>（屏障持续<@ba.vup>{buff_duration}</>秒，最多不超过生命上限<@ba.vup>{shield_max_hp_ratio:0%}</>），并使自身周围地面敌人<@ba.vup>{buff_duration}</>秒内每秒受到相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害和攻击力<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.neural2>神经损伤</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "initSp": 9,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_cairn_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "buff_duration",
+            "value": 10.0
+          },
+          {
+            "key": "shield_max_hp_ratio",
+            "value": 0.8
+          },
+          {
+            "key": "atk_scale",
+            "value": 0.5
+          },
+          {
+            "key": "ep_damage_ratio",
+            "value": 0.07
+          },
+          {
+            "key": "shield_hp_ratio",
+            "value": 0.8
+          }
+        ]
+      },
+      {
+        "name": "震撼型指路",
+        "rangeId": "x-4",
+        "description": "立即获得<@ba.vup>{shield_hp_ratio:0%}</>最大生命值的<$ba.barrier>屏障</>（屏障持续<@ba.vup>{buff_duration}</>秒，最多不超过生命上限<@ba.vup>{shield_max_hp_ratio:0%}</>），并使自身周围地面敌人<@ba.vup>{buff_duration}</>秒内每秒受到相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害和攻击力<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.neural2>神经损伤</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "initSp": 10,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_cairn_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "buff_duration",
+            "value": 10.0
+          },
+          {
+            "key": "shield_max_hp_ratio",
+            "value": 0.9
+          },
+          {
+            "key": "atk_scale",
+            "value": 0.6
+          },
+          {
+            "key": "ep_damage_ratio",
+            "value": 0.1
+          },
+          {
+            "key": "shield_hp_ratio",
+            "value": 0.9
+          }
+        ]
+      },
+      {
+        "name": "震撼型指路",
+        "rangeId": "x-4",
+        "description": "立即获得<@ba.vup>{shield_hp_ratio:0%}</>最大生命值的<$ba.barrier>屏障</>（屏障持续<@ba.vup>{buff_duration}</>秒，最多不超过生命上限<@ba.vup>{shield_max_hp_ratio:0%}</>），并使自身周围地面敌人<@ba.vup>{buff_duration}</>秒内每秒受到相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害和攻击力<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.neural2>神经损伤</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 23,
+          "initSp": 12,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_cairn_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "buff_duration",
+            "value": 10.0
+          },
+          {
+            "key": "shield_max_hp_ratio",
+            "value": 0.9
+          },
+          {
+            "key": "atk_scale",
+            "value": 0.6
+          },
+          {
+            "key": "ep_damage_ratio",
+            "value": 0.1
+          },
+          {
+            "key": "shield_hp_ratio",
+            "value": 0.9
+          }
+        ]
+      },
+      {
+        "name": "震撼型指路",
+        "rangeId": "x-4",
+        "description": "立即获得<@ba.vup>{shield_hp_ratio:0%}</>最大生命值的<$ba.barrier>屏障</>（屏障持续<@ba.vup>{buff_duration}</>秒，最多不超过生命上限<@ba.vup>{shield_max_hp_ratio:0%}</>），并使自身周围地面敌人<@ba.vup>{buff_duration}</>秒内每秒受到相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害和攻击力<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.neural2>神经损伤</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 23,
+          "initSp": 13,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_cairn_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "buff_duration",
+            "value": 10.0
+          },
+          {
+            "key": "shield_max_hp_ratio",
+            "value": 0.9
+          },
+          {
+            "key": "atk_scale",
+            "value": 0.7
+          },
+          {
+            "key": "ep_damage_ratio",
+            "value": 0.1
+          },
+          {
+            "key": "shield_hp_ratio",
+            "value": 0.9
+          }
+        ]
+      },
+      {
+        "name": "震撼型指路",
+        "rangeId": "x-4",
+        "description": "立即获得<@ba.vup>{shield_hp_ratio:0%}</>最大生命值的<$ba.barrier>屏障</>（屏障持续<@ba.vup>{buff_duration}</>秒，最多不超过生命上限<@ba.vup>{shield_max_hp_ratio:0%}</>），并使自身周围地面敌人<@ba.vup>{buff_duration}</>秒内每秒受到相当于攻击力<@ba.vup>{atk_scale:0%}</>的法术伤害和攻击力<@ba.vup>{ep_damage_ratio:0%}</>的<$ba.dt.neural2>神经损伤</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "initSp": 14,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_cairn_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "buff_duration",
+            "value": 10.0
+          },
+          {
+            "key": "shield_max_hp_ratio",
+            "value": 0.9
+          },
+          {
+            "key": "atk_scale",
+            "value": 0.8
+          },
+          {
+            "key": "ep_damage_ratio",
+            "value": 0.1
+          },
+          {
+            "key": "shield_hp_ratio",
+            "value": 0.9
           }
         ]
       }
@@ -215889,6 +217314,2428 @@
       }
     ]
   },
+  "skchr_nasti_1": {
+    "skillId": "skchr_nasti_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "“拱卫”",
+        "rangeId": null,
+        "description": "携带此技能时：装置使前方干员防御力提升\\n攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，同时攻击阻挡的所有敌人；装置效果改为使前方干员阻挡数<@ba.vup>+1</>，防御力<@ba.vup>+{talent@def:0%}</>，装置每秒流失2%最大生命值\\n<@ba.rem>技能开启时获得一个装置</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "initSp": 18,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nasti_1",
+        "duration": 35.0,
+        "blackboard": [
+          {
+            "key": "talent@def",
+            "value": 0.35
+          },
+          {
+            "key": "atk",
+            "value": 0.42
+          },
+          {
+            "key": "def",
+            "value": 0.42
+          }
+        ]
+      },
+      {
+        "name": "“拱卫”",
+        "rangeId": null,
+        "description": "携带此技能时：装置使前方干员防御力提升\\n攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，同时攻击阻挡的所有敌人；装置效果改为使前方干员阻挡数<@ba.vup>+1</>，防御力<@ba.vup>+{talent@def:0%}</>，装置每秒流失2%最大生命值\\n<@ba.rem>技能开启时获得一个装置</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 49,
+          "initSp": 19,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nasti_1",
+        "duration": 35.0,
+        "blackboard": [
+          {
+            "key": "talent@def",
+            "value": 0.36
+          },
+          {
+            "key": "atk",
+            "value": 0.45
+          },
+          {
+            "key": "def",
+            "value": 0.45
+          }
+        ]
+      },
+      {
+        "name": "“拱卫”",
+        "rangeId": null,
+        "description": "携带此技能时：装置使前方干员防御力提升\\n攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，同时攻击阻挡的所有敌人；装置效果改为使前方干员阻挡数<@ba.vup>+1</>，防御力<@ba.vup>+{talent@def:0%}</>，装置每秒流失2%最大生命值\\n<@ba.rem>技能开启时获得一个装置</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 48,
+          "initSp": 20,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nasti_1",
+        "duration": 35.0,
+        "blackboard": [
+          {
+            "key": "talent@def",
+            "value": 0.38
+          },
+          {
+            "key": "atk",
+            "value": 0.48
+          },
+          {
+            "key": "def",
+            "value": 0.48
+          }
+        ]
+      },
+      {
+        "name": "“拱卫”",
+        "rangeId": null,
+        "description": "携带此技能时：装置使前方干员防御力提升\\n攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，同时攻击阻挡的所有敌人；装置效果改为使前方干员阻挡数<@ba.vup>+1</>，防御力<@ba.vup>+{talent@def:0%}</>，装置每秒流失2%最大生命值\\n<@ba.rem>技能开启时获得一个装置</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 47,
+          "initSp": 21,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nasti_1",
+        "duration": 38.0,
+        "blackboard": [
+          {
+            "key": "talent@def",
+            "value": 0.4
+          },
+          {
+            "key": "atk",
+            "value": 0.52
+          },
+          {
+            "key": "def",
+            "value": 0.52
+          }
+        ]
+      },
+      {
+        "name": "“拱卫”",
+        "rangeId": null,
+        "description": "携带此技能时：装置使前方干员防御力提升\\n攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，同时攻击阻挡的所有敌人；装置效果改为使前方干员阻挡数<@ba.vup>+1</>，防御力<@ba.vup>+{talent@def:0%}</>，装置每秒流失2%最大生命值\\n<@ba.rem>技能开启时获得一个装置</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 46,
+          "initSp": 22,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nasti_1",
+        "duration": 38.0,
+        "blackboard": [
+          {
+            "key": "talent@def",
+            "value": 0.42
+          },
+          {
+            "key": "atk",
+            "value": 0.56
+          },
+          {
+            "key": "def",
+            "value": 0.56
+          }
+        ]
+      },
+      {
+        "name": "“拱卫”",
+        "rangeId": null,
+        "description": "携带此技能时：装置使前方干员防御力提升\\n攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，同时攻击阻挡的所有敌人；装置效果改为使前方干员阻挡数<@ba.vup>+1</>，防御力<@ba.vup>+{talent@def:0%}</>，装置每秒流失2%最大生命值\\n<@ba.rem>技能开启时获得一个装置</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "initSp": 23,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nasti_1",
+        "duration": 38.0,
+        "blackboard": [
+          {
+            "key": "talent@def",
+            "value": 0.44
+          },
+          {
+            "key": "atk",
+            "value": 0.6
+          },
+          {
+            "key": "def",
+            "value": 0.6
+          }
+        ]
+      },
+      {
+        "name": "“拱卫”",
+        "rangeId": null,
+        "description": "携带此技能时：装置使前方干员防御力提升\\n攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，同时攻击阻挡的所有敌人；装置效果改为使前方干员阻挡数<@ba.vup>+1</>，防御力<@ba.vup>+{talent@def:0%}</>，装置每秒流失2%最大生命值\\n<@ba.rem>技能开启时获得一个装置</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 44,
+          "initSp": 25,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nasti_1",
+        "duration": 40.0,
+        "blackboard": [
+          {
+            "key": "talent@def",
+            "value": 0.46
+          },
+          {
+            "key": "atk",
+            "value": 0.65
+          },
+          {
+            "key": "def",
+            "value": 0.65
+          }
+        ]
+      },
+      {
+        "name": "“拱卫”",
+        "rangeId": null,
+        "description": "携带此技能时：装置使前方干员防御力提升\\n攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，同时攻击阻挡的所有敌人；装置效果改为使前方干员阻挡数<@ba.vup>+1</>，防御力<@ba.vup>+{talent@def:0%}</>，装置每秒流失2%最大生命值\\n<@ba.rem>技能开启时获得一个装置</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "initSp": 26,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nasti_1",
+        "duration": 40.0,
+        "blackboard": [
+          {
+            "key": "talent@def",
+            "value": 0.49
+          },
+          {
+            "key": "atk",
+            "value": 0.7
+          },
+          {
+            "key": "def",
+            "value": 0.7
+          }
+        ]
+      },
+      {
+        "name": "“拱卫”",
+        "rangeId": null,
+        "description": "携带此技能时：装置使前方干员防御力提升\\n攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，同时攻击阻挡的所有敌人；装置效果改为使前方干员阻挡数<@ba.vup>+1</>，防御力<@ba.vup>+{talent@def:0%}</>，装置每秒流失2%最大生命值\\n<@ba.rem>技能开启时获得一个装置</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 41,
+          "initSp": 27,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nasti_1",
+        "duration": 40.0,
+        "blackboard": [
+          {
+            "key": "talent@def",
+            "value": 0.52
+          },
+          {
+            "key": "atk",
+            "value": 0.75
+          },
+          {
+            "key": "def",
+            "value": 0.75
+          }
+        ]
+      },
+      {
+        "name": "“拱卫”",
+        "rangeId": null,
+        "description": "携带此技能时：装置使前方干员防御力提升\\n攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>，同时攻击阻挡的所有敌人；装置效果改为使前方干员阻挡数<@ba.vup>+1</>，防御力<@ba.vup>+{talent@def:0%}</>，装置每秒流失2%最大生命值\\n<@ba.rem>技能开启时获得一个装置</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 40,
+          "initSp": 28,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nasti_1",
+        "duration": 40.0,
+        "blackboard": [
+          {
+            "key": "talent@def",
+            "value": 0.55
+          },
+          {
+            "key": "atk",
+            "value": 0.8
+          },
+          {
+            "key": "def",
+            "value": 0.8
+          }
+        ]
+      }
+    ]
+  },
+  "sktok_nasti_nstdef": {
+    "skillId": "sktok_nasti_nstdef",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "“拱卫”",
+        "rangeId": null,
+        "description": "娜斯提技能开启时，装置天赋效果改为使前方干员阻挡数<@ba.vup>+1</>，防御力<@ba.vup>+{talent@def:0%}</>，装置每秒流失2%最大生命值",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 0.0
+        },
+        "prefabId": "sktok_nasti_nstdef",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "talent@hp_ratio",
+            "value": 0.02
+          },
+          {
+            "key": "talent@def",
+            "value": 0.35
+          },
+          {
+            "key": "talent@block_cnt",
+            "value": 1.0
+          }
+        ]
+      },
+      {
+        "name": "“拱卫”",
+        "rangeId": null,
+        "description": "娜斯提技能开启时，装置天赋效果改为使前方干员阻挡数<@ba.vup>+1</>，防御力<@ba.vup>+{talent@def:0%}</>，装置每秒流失2%最大生命值",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 0.0
+        },
+        "prefabId": "sktok_nasti_nstdef",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "talent@hp_ratio",
+            "value": 0.02
+          },
+          {
+            "key": "talent@def",
+            "value": 0.36
+          },
+          {
+            "key": "talent@block_cnt",
+            "value": 1.0
+          }
+        ]
+      },
+      {
+        "name": "“拱卫”",
+        "rangeId": null,
+        "description": "娜斯提技能开启时，装置天赋效果改为使前方干员阻挡数<@ba.vup>+1</>，防御力<@ba.vup>+{talent@def:0%}</>，装置每秒流失2%最大生命值",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 0.0
+        },
+        "prefabId": "sktok_nasti_nstdef",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "talent@hp_ratio",
+            "value": 0.02
+          },
+          {
+            "key": "talent@def",
+            "value": 0.38
+          },
+          {
+            "key": "talent@block_cnt",
+            "value": 1.0
+          }
+        ]
+      },
+      {
+        "name": "“拱卫”",
+        "rangeId": null,
+        "description": "娜斯提技能开启时，装置天赋效果改为使前方干员阻挡数<@ba.vup>+1</>，防御力<@ba.vup>+{talent@def:0%}</>，装置每秒流失2%最大生命值",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 0.0
+        },
+        "prefabId": "sktok_nasti_nstdef",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "talent@hp_ratio",
+            "value": 0.02
+          },
+          {
+            "key": "talent@def",
+            "value": 0.4
+          },
+          {
+            "key": "talent@block_cnt",
+            "value": 1.0
+          }
+        ]
+      },
+      {
+        "name": "“拱卫”",
+        "rangeId": null,
+        "description": "娜斯提技能开启时，装置天赋效果改为使前方干员阻挡数<@ba.vup>+1</>，防御力<@ba.vup>+{talent@def:0%}</>，装置每秒流失2%最大生命值",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 0.0
+        },
+        "prefabId": "sktok_nasti_nstdef",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "talent@hp_ratio",
+            "value": 0.02
+          },
+          {
+            "key": "talent@def",
+            "value": 0.42
+          },
+          {
+            "key": "talent@block_cnt",
+            "value": 1.0
+          }
+        ]
+      },
+      {
+        "name": "“拱卫”",
+        "rangeId": null,
+        "description": "娜斯提技能开启时，装置天赋效果改为使前方干员阻挡数<@ba.vup>+1</>，防御力<@ba.vup>+{talent@def:0%}</>，装置每秒流失2%最大生命值",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 0.0
+        },
+        "prefabId": "sktok_nasti_nstdef",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "talent@hp_ratio",
+            "value": 0.02
+          },
+          {
+            "key": "talent@def",
+            "value": 0.44
+          },
+          {
+            "key": "talent@block_cnt",
+            "value": 1.0
+          }
+        ]
+      },
+      {
+        "name": "“拱卫”",
+        "rangeId": null,
+        "description": "娜斯提技能开启时，装置天赋效果改为使前方干员阻挡数<@ba.vup>+1</>，防御力<@ba.vup>+{talent@def:0%}</>，装置每秒流失2%最大生命值",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 0.0
+        },
+        "prefabId": "sktok_nasti_nstdef",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "talent@hp_ratio",
+            "value": 0.02
+          },
+          {
+            "key": "talent@def",
+            "value": 0.46
+          },
+          {
+            "key": "talent@block_cnt",
+            "value": 1.0
+          }
+        ]
+      },
+      {
+        "name": "“拱卫”",
+        "rangeId": null,
+        "description": "娜斯提技能开启时，装置天赋效果改为使前方干员阻挡数<@ba.vup>+1</>，防御力<@ba.vup>+{talent@def:0%}</>，装置每秒流失2%最大生命值",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 0.0
+        },
+        "prefabId": "sktok_nasti_nstdef",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "talent@hp_ratio",
+            "value": 0.02
+          },
+          {
+            "key": "talent@def",
+            "value": 0.49
+          },
+          {
+            "key": "talent@block_cnt",
+            "value": 1.0
+          }
+        ]
+      },
+      {
+        "name": "“拱卫”",
+        "rangeId": null,
+        "description": "娜斯提技能开启时，装置天赋效果改为使前方干员阻挡数<@ba.vup>+1</>，防御力<@ba.vup>+{talent@def:0%}</>，装置每秒流失2%最大生命值",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 0.0
+        },
+        "prefabId": "sktok_nasti_nstdef",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "talent@hp_ratio",
+            "value": 0.02
+          },
+          {
+            "key": "talent@def",
+            "value": 0.52
+          },
+          {
+            "key": "talent@block_cnt",
+            "value": 1.0
+          }
+        ]
+      },
+      {
+        "name": "“拱卫”",
+        "rangeId": null,
+        "description": "娜斯提技能开启时，装置天赋效果改为使前方干员阻挡数<@ba.vup>+1</>，防御力<@ba.vup>+{talent@def:0%}</>，装置每秒流失2%最大生命值",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 0.0
+        },
+        "prefabId": "sktok_nasti_nstdef",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "talent@hp_ratio",
+            "value": 0.02
+          },
+          {
+            "key": "talent@def",
+            "value": 0.55
+          },
+          {
+            "key": "talent@block_cnt",
+            "value": 1.0
+          }
+        ]
+      }
+    ]
+  },
+  "skchr_nasti_2": {
+    "skillId": "skchr_nasti_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "“执行”",
+        "rangeId": null,
+        "description": "携带此技能时：装置部署后逐渐回复自身生命值，激活后每0.5秒流失1点生命值，使前方干员获得<@ba.vup>1</>点技力和相当于娜斯提生命上限<@ba.vup>{talent@shield_each_hp_rate:0%}</>的<$ba.barrier>屏障</>\\n立即激活场上装置，停止攻击，每0.5秒获得相当于生命上限<@ba.vup>{attack@nasti_s2[update_shield].shield_each_hp_rate:0%}</>的<$ba.barrier>屏障</>（最多不超过生命上限{talent@shield_max_hp_rate:0%}）\\n<@ba.rem>技能结束时获得一个装置</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 38,
+          "initSp": 16,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nasti_2",
+        "duration": 4.0,
+        "blackboard": [
+          {
+            "key": "attack@nasti_s2[update_shield].interval",
+            "value": 0.5
+          },
+          {
+            "key": "attack@nasti_s2[update_shield].shield_each_hp_rate",
+            "value": 0.04
+          },
+          {
+            "key": "attack@nasti_s2[update_shield].shield_max_hp_rate",
+            "value": 0.32
+          },
+          {
+            "key": "talent@shield_max_hp_rate",
+            "value": 0.32
+          },
+          {
+            "key": "talent@shield_each_hp_rate",
+            "value": 0.02
+          }
+        ]
+      },
+      {
+        "name": "“执行”",
+        "rangeId": null,
+        "description": "携带此技能时：装置部署后逐渐回复自身生命值，激活后每0.5秒流失1点生命值，使前方干员获得<@ba.vup>1</>点技力和相当于娜斯提生命上限<@ba.vup>{talent@shield_each_hp_rate:0%}</>的<$ba.barrier>屏障</>\\n立即激活场上装置，停止攻击，每0.5秒获得相当于生命上限<@ba.vup>{attack@nasti_s2[update_shield].shield_each_hp_rate:0%}</>的<$ba.barrier>屏障</>（最多不超过生命上限{talent@shield_max_hp_rate:0%}）\\n<@ba.rem>技能结束时获得一个装置</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 37,
+          "initSp": 17,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nasti_2",
+        "duration": 4.0,
+        "blackboard": [
+          {
+            "key": "attack@nasti_s2[update_shield].interval",
+            "value": 0.5
+          },
+          {
+            "key": "attack@nasti_s2[update_shield].shield_each_hp_rate",
+            "value": 0.04
+          },
+          {
+            "key": "attack@nasti_s2[update_shield].shield_max_hp_rate",
+            "value": 0.32
+          },
+          {
+            "key": "talent@shield_max_hp_rate",
+            "value": 0.32
+          },
+          {
+            "key": "talent@shield_each_hp_rate",
+            "value": 0.02
+          }
+        ]
+      },
+      {
+        "name": "“执行”",
+        "rangeId": null,
+        "description": "携带此技能时：装置部署后逐渐回复自身生命值，激活后每0.5秒流失1点生命值，使前方干员获得<@ba.vup>1</>点技力和相当于娜斯提生命上限<@ba.vup>{talent@shield_each_hp_rate:0%}</>的<$ba.barrier>屏障</>\\n立即激活场上装置，停止攻击，每0.5秒获得相当于生命上限<@ba.vup>{attack@nasti_s2[update_shield].shield_each_hp_rate:0%}</>的<$ba.barrier>屏障</>（最多不超过生命上限{talent@shield_max_hp_rate:0%}）\\n<@ba.rem>技能结束时获得一个装置</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 36,
+          "initSp": 18,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nasti_2",
+        "duration": 4.0,
+        "blackboard": [
+          {
+            "key": "attack@nasti_s2[update_shield].interval",
+            "value": 0.5
+          },
+          {
+            "key": "attack@nasti_s2[update_shield].shield_each_hp_rate",
+            "value": 0.04
+          },
+          {
+            "key": "attack@nasti_s2[update_shield].shield_max_hp_rate",
+            "value": 0.32
+          },
+          {
+            "key": "talent@shield_max_hp_rate",
+            "value": 0.32
+          },
+          {
+            "key": "talent@shield_each_hp_rate",
+            "value": 0.02
+          }
+        ]
+      },
+      {
+        "name": "“执行”",
+        "rangeId": null,
+        "description": "携带此技能时：装置部署后逐渐回复自身生命值，激活后每0.5秒流失1点生命值，使前方干员获得<@ba.vup>1</>点技力和相当于娜斯提生命上限<@ba.vup>{talent@shield_each_hp_rate:0%}</>的<$ba.barrier>屏障</>\\n立即激活场上装置，停止攻击，每0.5秒获得相当于生命上限<@ba.vup>{attack@nasti_s2[update_shield].shield_each_hp_rate:0%}</>的<$ba.barrier>屏障</>（最多不超过生命上限{talent@shield_max_hp_rate:0%}）\\n<@ba.rem>技能结束时获得一个装置</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "initSp": 19,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nasti_2",
+        "duration": 4.0,
+        "blackboard": [
+          {
+            "key": "attack@nasti_s2[update_shield].interval",
+            "value": 0.5
+          },
+          {
+            "key": "attack@nasti_s2[update_shield].shield_each_hp_rate",
+            "value": 0.06
+          },
+          {
+            "key": "attack@nasti_s2[update_shield].shield_max_hp_rate",
+            "value": 0.48
+          },
+          {
+            "key": "talent@shield_max_hp_rate",
+            "value": 0.48
+          },
+          {
+            "key": "talent@shield_each_hp_rate",
+            "value": 0.03
+          }
+        ]
+      },
+      {
+        "name": "“执行”",
+        "rangeId": null,
+        "description": "携带此技能时：装置部署后逐渐回复自身生命值，激活后每0.5秒流失1点生命值，使前方干员获得<@ba.vup>1</>点技力和相当于娜斯提生命上限<@ba.vup>{talent@shield_each_hp_rate:0%}</>的<$ba.barrier>屏障</>\\n立即激活场上装置，停止攻击，每0.5秒获得相当于生命上限<@ba.vup>{attack@nasti_s2[update_shield].shield_each_hp_rate:0%}</>的<$ba.barrier>屏障</>（最多不超过生命上限{talent@shield_max_hp_rate:0%}）\\n<@ba.rem>技能结束时获得一个装置</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 34,
+          "initSp": 20,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nasti_2",
+        "duration": 4.0,
+        "blackboard": [
+          {
+            "key": "attack@nasti_s2[update_shield].interval",
+            "value": 0.5
+          },
+          {
+            "key": "attack@nasti_s2[update_shield].shield_each_hp_rate",
+            "value": 0.06
+          },
+          {
+            "key": "attack@nasti_s2[update_shield].shield_max_hp_rate",
+            "value": 0.48
+          },
+          {
+            "key": "talent@shield_max_hp_rate",
+            "value": 0.48
+          },
+          {
+            "key": "talent@shield_each_hp_rate",
+            "value": 0.03
+          }
+        ]
+      },
+      {
+        "name": "“执行”",
+        "rangeId": null,
+        "description": "携带此技能时：装置部署后逐渐回复自身生命值，激活后每0.5秒流失1点生命值，使前方干员获得<@ba.vup>1</>点技力和相当于娜斯提生命上限<@ba.vup>{talent@shield_each_hp_rate:0%}</>的<$ba.barrier>屏障</>\\n立即激活场上装置，停止攻击，每0.5秒获得相当于生命上限<@ba.vup>{attack@nasti_s2[update_shield].shield_each_hp_rate:0%}</>的<$ba.barrier>屏障</>（最多不超过生命上限{talent@shield_max_hp_rate:0%}）\\n<@ba.rem>技能结束时获得一个装置</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "initSp": 21,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nasti_2",
+        "duration": 4.0,
+        "blackboard": [
+          {
+            "key": "attack@nasti_s2[update_shield].interval",
+            "value": 0.5
+          },
+          {
+            "key": "attack@nasti_s2[update_shield].shield_each_hp_rate",
+            "value": 0.06
+          },
+          {
+            "key": "attack@nasti_s2[update_shield].shield_max_hp_rate",
+            "value": 0.48
+          },
+          {
+            "key": "talent@shield_max_hp_rate",
+            "value": 0.48
+          },
+          {
+            "key": "talent@shield_each_hp_rate",
+            "value": 0.03
+          }
+        ]
+      },
+      {
+        "name": "“执行”",
+        "rangeId": null,
+        "description": "携带此技能时：装置部署后逐渐回复自身生命值，激活后每0.5秒流失1点生命值，使前方干员获得<@ba.vup>1</>点技力和相当于娜斯提生命上限<@ba.vup>{talent@shield_each_hp_rate:0%}</>的<$ba.barrier>屏障</>\\n立即激活场上装置，停止攻击，每0.5秒获得相当于生命上限<@ba.vup>{attack@nasti_s2[update_shield].shield_each_hp_rate:0%}</>的<$ba.barrier>屏障</>（最多不超过生命上限{talent@shield_max_hp_rate:0%}）\\n<@ba.rem>技能结束时获得一个装置</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "initSp": 20,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nasti_2",
+        "duration": 4.0,
+        "blackboard": [
+          {
+            "key": "attack@nasti_s2[update_shield].interval",
+            "value": 0.5
+          },
+          {
+            "key": "attack@nasti_s2[update_shield].shield_each_hp_rate",
+            "value": 0.08
+          },
+          {
+            "key": "attack@nasti_s2[update_shield].shield_max_hp_rate",
+            "value": 0.64
+          },
+          {
+            "key": "talent@shield_max_hp_rate",
+            "value": 0.64
+          },
+          {
+            "key": "talent@shield_each_hp_rate",
+            "value": 0.04
+          }
+        ]
+      },
+      {
+        "name": "“执行”",
+        "rangeId": null,
+        "description": "携带此技能时：装置部署后逐渐回复自身生命值，激活后每0.5秒流失1点生命值，使前方干员获得<@ba.vup>1</>点技力和相当于娜斯提生命上限<@ba.vup>{talent@shield_each_hp_rate:0%}</>的<$ba.barrier>屏障</>\\n立即激活场上装置，停止攻击，每0.5秒获得相当于生命上限<@ba.vup>{attack@nasti_s2[update_shield].shield_each_hp_rate:0%}</>的<$ba.barrier>屏障</>（最多不超过生命上限{talent@shield_max_hp_rate:0%}）\\n<@ba.rem>技能结束时获得一个装置</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "initSp": 21,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nasti_2",
+        "duration": 4.0,
+        "blackboard": [
+          {
+            "key": "attack@nasti_s2[update_shield].interval",
+            "value": 0.5
+          },
+          {
+            "key": "attack@nasti_s2[update_shield].shield_each_hp_rate",
+            "value": 0.08
+          },
+          {
+            "key": "attack@nasti_s2[update_shield].shield_max_hp_rate",
+            "value": 0.64
+          },
+          {
+            "key": "talent@shield_max_hp_rate",
+            "value": 0.64
+          },
+          {
+            "key": "talent@shield_each_hp_rate",
+            "value": 0.04
+          }
+        ]
+      },
+      {
+        "name": "“执行”",
+        "rangeId": null,
+        "description": "携带此技能时：装置部署后逐渐回复自身生命值，激活后每0.5秒流失1点生命值，使前方干员获得<@ba.vup>1</>点技力和相当于娜斯提生命上限<@ba.vup>{talent@shield_each_hp_rate:0%}</>的<$ba.barrier>屏障</>\\n立即激活场上装置，停止攻击，每0.5秒获得相当于生命上限<@ba.vup>{attack@nasti_s2[update_shield].shield_each_hp_rate:0%}</>的<$ba.barrier>屏障</>（最多不超过生命上限{talent@shield_max_hp_rate:0%}）\\n<@ba.rem>技能结束时获得一个装置</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 29,
+          "initSp": 22,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nasti_2",
+        "duration": 4.0,
+        "blackboard": [
+          {
+            "key": "attack@nasti_s2[update_shield].interval",
+            "value": 0.5
+          },
+          {
+            "key": "attack@nasti_s2[update_shield].shield_each_hp_rate",
+            "value": 0.08
+          },
+          {
+            "key": "attack@nasti_s2[update_shield].shield_max_hp_rate",
+            "value": 0.64
+          },
+          {
+            "key": "talent@shield_max_hp_rate",
+            "value": 0.64
+          },
+          {
+            "key": "talent@shield_each_hp_rate",
+            "value": 0.04
+          }
+        ]
+      },
+      {
+        "name": "“执行”",
+        "rangeId": null,
+        "description": "携带此技能时：装置部署后逐渐回复自身生命值，激活后每0.5秒流失1点生命值，使前方干员获得<@ba.vup>1</>点技力和相当于娜斯提生命上限<@ba.vup>{talent@shield_each_hp_rate:0%}</>的<$ba.barrier>屏障</>\\n立即激活场上装置，停止攻击，每0.5秒获得相当于生命上限<@ba.vup>{attack@nasti_s2[update_shield].shield_each_hp_rate:0%}</>的<$ba.barrier>屏障</>（最多不超过生命上限{talent@shield_max_hp_rate:0%}）\\n<@ba.rem>技能结束时获得一个装置</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "initSp": 23,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nasti_2",
+        "duration": 4.0,
+        "blackboard": [
+          {
+            "key": "attack@nasti_s2[update_shield].interval",
+            "value": 0.5
+          },
+          {
+            "key": "attack@nasti_s2[update_shield].shield_each_hp_rate",
+            "value": 0.1
+          },
+          {
+            "key": "attack@nasti_s2[update_shield].shield_max_hp_rate",
+            "value": 0.8
+          },
+          {
+            "key": "talent@shield_max_hp_rate",
+            "value": 0.8
+          },
+          {
+            "key": "talent@shield_each_hp_rate",
+            "value": 0.05
+          }
+        ]
+      }
+    ]
+  },
+  "sktok_nasti_nstchr": {
+    "skillId": "sktok_nasti_nstchr",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "“执行”",
+        "rangeId": null,
+        "description": "开启技能时回复<@ba.vup>1</>点生命值；激活后每0.5秒流失1点生命值，使前方干员获得<@ba.vup>1</>点技力和相当于娜斯提生命上限<@ba.vup>{talent@shield_each_hp_rate:0%}</>的<$ba.barrier>屏障</>（最多不超过生命上限{talent@shield_max_hp_rate:0%}），激活的装置在娜斯提技能结束时离场",
+        "skillType": 2,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_nasti_nstchr",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "value",
+            "value": 1.0
+          },
+          {
+            "key": "talent@hp",
+            "value": 1.0
+          },
+          {
+            "key": "talent@sp",
+            "value": 1.0
+          },
+          {
+            "key": "talent@interval",
+            "value": 0.5
+          },
+          {
+            "key": "talent@shield_max_hp_rate",
+            "value": 0.32
+          },
+          {
+            "key": "talent@shield_each_hp_rate",
+            "value": 0.02
+          }
+        ]
+      },
+      {
+        "name": "“执行”",
+        "rangeId": null,
+        "description": "开启技能时回复<@ba.vup>1</>点生命值；激活后每0.5秒流失1点生命值，使前方干员获得<@ba.vup>1</>点技力和相当于娜斯提生命上限<@ba.vup>{talent@shield_each_hp_rate:0%}</>的<$ba.barrier>屏障</>（最多不超过生命上限{talent@shield_max_hp_rate:0%}），激活的装置在娜斯提技能结束时离场",
+        "skillType": 2,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_nasti_nstchr",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "value",
+            "value": 1.0
+          },
+          {
+            "key": "talent@hp",
+            "value": 1.0
+          },
+          {
+            "key": "talent@sp",
+            "value": 1.0
+          },
+          {
+            "key": "talent@interval",
+            "value": 0.5
+          },
+          {
+            "key": "talent@shield_max_hp_rate",
+            "value": 0.32
+          },
+          {
+            "key": "talent@shield_each_hp_rate",
+            "value": 0.02
+          }
+        ]
+      },
+      {
+        "name": "“执行”",
+        "rangeId": null,
+        "description": "开启技能时回复<@ba.vup>1</>点生命值；激活后每0.5秒流失1点生命值，使前方干员获得<@ba.vup>1</>点技力和相当于娜斯提生命上限<@ba.vup>{talent@shield_each_hp_rate:0%}</>的<$ba.barrier>屏障</>（最多不超过生命上限{talent@shield_max_hp_rate:0%}），激活的装置在娜斯提技能结束时离场",
+        "skillType": 2,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 7,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_nasti_nstchr",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "value",
+            "value": 1.0
+          },
+          {
+            "key": "talent@hp",
+            "value": 1.0
+          },
+          {
+            "key": "talent@sp",
+            "value": 1.0
+          },
+          {
+            "key": "talent@interval",
+            "value": 0.5
+          },
+          {
+            "key": "talent@shield_max_hp_rate",
+            "value": 0.32
+          },
+          {
+            "key": "talent@shield_each_hp_rate",
+            "value": 0.02
+          }
+        ]
+      },
+      {
+        "name": "“执行”",
+        "rangeId": null,
+        "description": "开启技能时回复<@ba.vup>1</>点生命值；激活后每0.5秒流失1点生命值，使前方干员获得<@ba.vup>1</>点技力和相当于娜斯提生命上限<@ba.vup>{talent@shield_each_hp_rate:0%}</>的<$ba.barrier>屏障</>（最多不超过生命上限{talent@shield_max_hp_rate:0%}），激活的装置在娜斯提技能结束时离场",
+        "skillType": 2,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_nasti_nstchr",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "value",
+            "value": 1.0
+          },
+          {
+            "key": "talent@hp",
+            "value": 1.0
+          },
+          {
+            "key": "talent@sp",
+            "value": 1.0
+          },
+          {
+            "key": "talent@interval",
+            "value": 0.5
+          },
+          {
+            "key": "talent@shield_max_hp_rate",
+            "value": 0.48
+          },
+          {
+            "key": "talent@shield_each_hp_rate",
+            "value": 0.03
+          }
+        ]
+      },
+      {
+        "name": "“执行”",
+        "rangeId": null,
+        "description": "开启技能时回复<@ba.vup>1</>点生命值；激活后每0.5秒流失1点生命值，使前方干员获得<@ba.vup>1</>点技力和相当于娜斯提生命上限<@ba.vup>{talent@shield_each_hp_rate:0%}</>的<$ba.barrier>屏障</>（最多不超过生命上限{talent@shield_max_hp_rate:0%}），激活的装置在娜斯提技能结束时离场",
+        "skillType": 2,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_nasti_nstchr",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "value",
+            "value": 1.0
+          },
+          {
+            "key": "talent@hp",
+            "value": 1.0
+          },
+          {
+            "key": "talent@sp",
+            "value": 1.0
+          },
+          {
+            "key": "talent@interval",
+            "value": 0.5
+          },
+          {
+            "key": "talent@shield_max_hp_rate",
+            "value": 0.48
+          },
+          {
+            "key": "talent@shield_each_hp_rate",
+            "value": 0.03
+          }
+        ]
+      },
+      {
+        "name": "“执行”",
+        "rangeId": null,
+        "description": "开启技能时回复<@ba.vup>1</>点生命值；激活后每0.5秒流失1点生命值，使前方干员获得<@ba.vup>1</>点技力和相当于娜斯提生命上限<@ba.vup>{talent@shield_each_hp_rate:0%}</>的<$ba.barrier>屏障</>（最多不超过生命上限{talent@shield_max_hp_rate:0%}），激活的装置在娜斯提技能结束时离场",
+        "skillType": 2,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_nasti_nstchr",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "value",
+            "value": 1.0
+          },
+          {
+            "key": "talent@hp",
+            "value": 1.0
+          },
+          {
+            "key": "talent@sp",
+            "value": 1.0
+          },
+          {
+            "key": "talent@interval",
+            "value": 0.5
+          },
+          {
+            "key": "talent@shield_max_hp_rate",
+            "value": 0.48
+          },
+          {
+            "key": "talent@shield_each_hp_rate",
+            "value": 0.03
+          }
+        ]
+      },
+      {
+        "name": "“执行”",
+        "rangeId": null,
+        "description": "开启技能时回复<@ba.vup>1</>点生命值；激活后每0.5秒流失1点生命值，使前方干员获得<@ba.vup>1</>点技力和相当于娜斯提生命上限<@ba.vup>{talent@shield_each_hp_rate:0%}</>的<$ba.barrier>屏障</>（最多不超过生命上限{talent@shield_max_hp_rate:0%}），激活的装置在娜斯提技能结束时离场",
+        "skillType": 2,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_nasti_nstchr",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "value",
+            "value": 1.0
+          },
+          {
+            "key": "talent@hp",
+            "value": 1.0
+          },
+          {
+            "key": "talent@sp",
+            "value": 1.0
+          },
+          {
+            "key": "talent@interval",
+            "value": 0.5
+          },
+          {
+            "key": "talent@shield_max_hp_rate",
+            "value": 0.64
+          },
+          {
+            "key": "talent@shield_each_hp_rate",
+            "value": 0.04
+          }
+        ]
+      },
+      {
+        "name": "“执行”",
+        "rangeId": null,
+        "description": "开启技能时回复<@ba.vup>1</>点生命值；激活后每0.5秒流失1点生命值，使前方干员获得<@ba.vup>1</>点技力和相当于娜斯提生命上限<@ba.vup>{talent@shield_each_hp_rate:0%}</>的<$ba.barrier>屏障</>（最多不超过生命上限{talent@shield_max_hp_rate:0%}），激活的装置在娜斯提技能结束时离场",
+        "skillType": 2,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_nasti_nstchr",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "value",
+            "value": 1.0
+          },
+          {
+            "key": "talent@hp",
+            "value": 1.0
+          },
+          {
+            "key": "talent@sp",
+            "value": 1.0
+          },
+          {
+            "key": "talent@interval",
+            "value": 0.5
+          },
+          {
+            "key": "talent@shield_max_hp_rate",
+            "value": 0.64
+          },
+          {
+            "key": "talent@shield_each_hp_rate",
+            "value": 0.04
+          }
+        ]
+      },
+      {
+        "name": "“执行”",
+        "rangeId": null,
+        "description": "开启技能时回复<@ba.vup>1</>点生命值；激活后每0.5秒流失1点生命值，使前方干员获得<@ba.vup>1</>点技力和相当于娜斯提生命上限<@ba.vup>{talent@shield_each_hp_rate:0%}</>的<$ba.barrier>屏障</>（最多不超过生命上限{talent@shield_max_hp_rate:0%}），激活的装置在娜斯提技能结束时离场",
+        "skillType": 2,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_nasti_nstchr",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "value",
+            "value": 1.0
+          },
+          {
+            "key": "talent@hp",
+            "value": 1.0
+          },
+          {
+            "key": "talent@sp",
+            "value": 1.0
+          },
+          {
+            "key": "talent@interval",
+            "value": 0.5
+          },
+          {
+            "key": "talent@shield_max_hp_rate",
+            "value": 0.64
+          },
+          {
+            "key": "talent@shield_each_hp_rate",
+            "value": 0.04
+          }
+        ]
+      },
+      {
+        "name": "“执行”",
+        "rangeId": null,
+        "description": "开启技能时回复<@ba.vup>1</>点生命值；激活后每0.5秒流失1点生命值，使前方干员获得<@ba.vup>1</>点技力和相当于娜斯提生命上限<@ba.vup>{talent@shield_each_hp_rate:0%}</>的<$ba.barrier>屏障</>（最多不超过生命上限{talent@shield_max_hp_rate:0%}），激活的装置在娜斯提技能结束时离场",
+        "skillType": 2,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 5,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_nasti_nstchr",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "value",
+            "value": 1.0
+          },
+          {
+            "key": "talent@hp",
+            "value": 1.0
+          },
+          {
+            "key": "talent@sp",
+            "value": 1.0
+          },
+          {
+            "key": "talent@interval",
+            "value": 0.5
+          },
+          {
+            "key": "talent@shield_max_hp_rate",
+            "value": 0.8
+          },
+          {
+            "key": "talent@shield_each_hp_rate",
+            "value": 0.05
+          }
+        ]
+      }
+    ]
+  },
+  "skchr_nasti_3": {
+    "skillId": "skchr_nasti_3",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "栖脚地",
+        "rangeId": null,
+        "description": "携带此技能时：装置可建造并升级一个可以放置远程干员并为其提供增益的特殊高台\\n攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>；小工程师装置为高台装置回复技力和生命的效果翻倍\\n<@ba.rem>技能开启时获得一个装置</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 33,
+          "initSp": 8,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nasti_3",
+        "duration": 15.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 0.8
+          },
+          {
+            "key": "def",
+            "value": 0.8
+          }
+        ]
+      },
+      {
+        "name": "栖脚地",
+        "rangeId": null,
+        "description": "携带此技能时：装置可建造并升级一个可以放置远程干员并为其提供增益的特殊高台\\n攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>；小工程师装置为高台装置回复技力和生命的效果翻倍\\n<@ba.rem>技能开启时获得一个装置</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "initSp": 9,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nasti_3",
+        "duration": 15.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 0.85
+          },
+          {
+            "key": "def",
+            "value": 0.85
+          }
+        ]
+      },
+      {
+        "name": "栖脚地",
+        "rangeId": null,
+        "description": "携带此技能时：装置可建造并升级一个可以放置远程干员并为其提供增益的特殊高台\\n攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>；小工程师装置为高台装置回复技力和生命的效果翻倍\\n<@ba.rem>技能开启时获得一个装置</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 31,
+          "initSp": 10,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nasti_3",
+        "duration": 15.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 0.9
+          },
+          {
+            "key": "def",
+            "value": 0.9
+          }
+        ]
+      },
+      {
+        "name": "栖脚地",
+        "rangeId": null,
+        "description": "携带此技能时：装置可建造并升级一个可以放置远程干员并为其提供增益的特殊高台\\n攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>；小工程师装置为高台装置回复技力和生命的效果翻倍\\n<@ba.rem>技能开启时获得一个装置</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "initSp": 11,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nasti_3",
+        "duration": 15.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 1.0
+          },
+          {
+            "key": "def",
+            "value": 1.0
+          }
+        ]
+      },
+      {
+        "name": "栖脚地",
+        "rangeId": null,
+        "description": "携带此技能时：装置可建造并升级一个可以放置远程干员并为其提供增益的特殊高台\\n攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>；小工程师装置为高台装置回复技力和生命的效果翻倍\\n<@ba.rem>技能开启时获得一个装置</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 29,
+          "initSp": 12,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nasti_3",
+        "duration": 15.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 1.1
+          },
+          {
+            "key": "def",
+            "value": 1.1
+          }
+        ]
+      },
+      {
+        "name": "栖脚地",
+        "rangeId": null,
+        "description": "携带此技能时：装置可建造并升级一个可以放置远程干员并为其提供增益的特殊高台\\n攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>；小工程师装置为高台装置回复技力和生命的效果翻倍\\n<@ba.rem>技能开启时获得一个装置</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "initSp": 13,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nasti_3",
+        "duration": 15.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 1.2
+          },
+          {
+            "key": "def",
+            "value": 1.2
+          }
+        ]
+      },
+      {
+        "name": "栖脚地",
+        "rangeId": null,
+        "description": "携带此技能时：装置可建造并升级一个可以放置远程干员并为其提供增益的特殊高台\\n攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>；小工程师装置为高台装置回复技力和生命的效果翻倍\\n<@ba.rem>技能开启时获得一个装置</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "initSp": 14,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nasti_3",
+        "duration": 15.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 1.3
+          },
+          {
+            "key": "def",
+            "value": 1.3
+          }
+        ]
+      },
+      {
+        "name": "栖脚地",
+        "rangeId": null,
+        "description": "携带此技能时：装置可建造并升级一个可以放置远程干员并为其提供增益的特殊高台\\n攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>；小工程师装置为高台装置回复技力和生命的效果翻倍\\n<@ba.rem>技能开启时获得一个装置</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 26,
+          "initSp": 15,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nasti_3",
+        "duration": 15.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 1.4
+          },
+          {
+            "key": "def",
+            "value": 1.4
+          }
+        ]
+      },
+      {
+        "name": "栖脚地",
+        "rangeId": null,
+        "description": "携带此技能时：装置可建造并升级一个可以放置远程干员并为其提供增益的特殊高台\\n攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>；小工程师装置为高台装置回复技力和生命的效果翻倍\\n<@ba.rem>技能开启时获得一个装置</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "initSp": 16,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nasti_3",
+        "duration": 15.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 1.5
+          },
+          {
+            "key": "def",
+            "value": 1.5
+          }
+        ]
+      },
+      {
+        "name": "栖脚地",
+        "rangeId": null,
+        "description": "携带此技能时：装置可建造并升级一个可以放置远程干员并为其提供增益的特殊高台\\n攻击力<@ba.vup>+{atk:0%}</>，防御力<@ba.vup>+{def:0%}</>；小工程师装置为高台装置回复技力和生命的效果翻倍\\n<@ba.rem>技能开启时获得一个装置</>",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "initSp": 17,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_nasti_3",
+        "duration": 15.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 1.6
+          },
+          {
+            "key": "def",
+            "value": 1.6
+          }
+        ]
+      }
+    ]
+  },
+  "sktok_nasti_nstbld": {
+    "skillId": "sktok_nasti_nstbld",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "栖脚地",
+        "rangeId": null,
+        "description": "小工程师形态：每秒使前方高台装置获得<@ba.vup>1</>点技力，娜斯提技能期间效果翻倍\\n高台形态：技力满时升级（最多3次），首次升级后可阻挡1名敌人且装置上可部署干员，每次升级都可为装置上部署的干员提供一层生命上限与攻击力<@ba.vup>+{attack@nasti_nstbld[m4_bonus].atk:0%}</>的增益，升级3次后娜斯提撤退时自身仍保留在场上",
+        "skillType": 2,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "initSp": 0,
+          "increment": 0.0
+        },
+        "prefabId": "sktok_nasti_nstbld",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "attack@nasti_nstbld[m4_bonus].max_hp",
+            "value": 0.06
+          },
+          {
+            "key": "attack@nasti_nstbld[m4_bonus].atk",
+            "value": 0.06
+          },
+          {
+            "key": "attack@nasti_nstbld[m5_bonus].max_hp",
+            "value": 0.12
+          },
+          {
+            "key": "attack@nasti_nstbld[m5_bonus].atk",
+            "value": 0.12
+          },
+          {
+            "key": "attack@nasti_nstbld[m6_bonus].max_hp",
+            "value": 0.18
+          },
+          {
+            "key": "attack@nasti_nstbld[m6_bonus].atk",
+            "value": 0.18
+          },
+          {
+            "key": "attack@nasti_nstbld_m5[attribute_up].max_hp",
+            "value": 1000.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m5[attribute_up].def",
+            "value": 100.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m5[attribute_up].magic_resistance",
+            "value": 5.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m6[attribute_up].max_hp",
+            "value": 2000.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m6[attribute_up].def",
+            "value": 200.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m6[attribute_up].magic_resistance",
+            "value": 10.0
+          }
+        ]
+      },
+      {
+        "name": "栖脚地",
+        "rangeId": null,
+        "description": "小工程师形态：每秒使前方高台装置获得<@ba.vup>1</>点技力，娜斯提技能期间效果翻倍\\n高台形态：技力满时升级（最多3次），首次升级后可阻挡1名敌人且装置上可部署干员，每次升级都可为装置上部署的干员提供一层生命上限与攻击力<@ba.vup>+{attack@nasti_nstbld[m4_bonus].atk:0%}</>的增益，升级3次后娜斯提撤退时自身仍保留在场上",
+        "skillType": 2,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "initSp": 0,
+          "increment": 0.0
+        },
+        "prefabId": "sktok_nasti_nstbld",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "attack@nasti_nstbld[m4_bonus].max_hp",
+            "value": 0.08
+          },
+          {
+            "key": "attack@nasti_nstbld[m4_bonus].atk",
+            "value": 0.08
+          },
+          {
+            "key": "attack@nasti_nstbld[m5_bonus].max_hp",
+            "value": 0.16
+          },
+          {
+            "key": "attack@nasti_nstbld[m5_bonus].atk",
+            "value": 0.16
+          },
+          {
+            "key": "attack@nasti_nstbld[m6_bonus].max_hp",
+            "value": 0.24
+          },
+          {
+            "key": "attack@nasti_nstbld[m6_bonus].atk",
+            "value": 0.24
+          },
+          {
+            "key": "attack@nasti_nstbld_m5[attribute_up].max_hp",
+            "value": 1000.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m5[attribute_up].def",
+            "value": 100.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m5[attribute_up].magic_resistance",
+            "value": 5.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m6[attribute_up].max_hp",
+            "value": 2000.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m6[attribute_up].def",
+            "value": 200.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m6[attribute_up].magic_resistance",
+            "value": 10.0
+          }
+        ]
+      },
+      {
+        "name": "栖脚地",
+        "rangeId": null,
+        "description": "小工程师形态：每秒使前方高台装置获得<@ba.vup>1</>点技力，娜斯提技能期间效果翻倍\\n高台形态：技力满时升级（最多3次），首次升级后可阻挡1名敌人且装置上可部署干员，每次升级都可为装置上部署的干员提供一层生命上限与攻击力<@ba.vup>+{attack@nasti_nstbld[m4_bonus].atk:0%}</>的增益，升级3次后娜斯提撤退时自身仍保留在场上",
+        "skillType": 2,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "initSp": 0,
+          "increment": 0.0
+        },
+        "prefabId": "sktok_nasti_nstbld",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "attack@nasti_nstbld[m4_bonus].max_hp",
+            "value": 0.1
+          },
+          {
+            "key": "attack@nasti_nstbld[m4_bonus].atk",
+            "value": 0.1
+          },
+          {
+            "key": "attack@nasti_nstbld[m5_bonus].max_hp",
+            "value": 0.2
+          },
+          {
+            "key": "attack@nasti_nstbld[m5_bonus].atk",
+            "value": 0.2
+          },
+          {
+            "key": "attack@nasti_nstbld[m6_bonus].max_hp",
+            "value": 0.3
+          },
+          {
+            "key": "attack@nasti_nstbld[m6_bonus].atk",
+            "value": 0.3
+          },
+          {
+            "key": "attack@nasti_nstbld_m5[attribute_up].max_hp",
+            "value": 1000.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m5[attribute_up].def",
+            "value": 100.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m5[attribute_up].magic_resistance",
+            "value": 5.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m6[attribute_up].max_hp",
+            "value": 2000.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m6[attribute_up].def",
+            "value": 200.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m6[attribute_up].magic_resistance",
+            "value": 10.0
+          }
+        ]
+      },
+      {
+        "name": "栖脚地",
+        "rangeId": null,
+        "description": "小工程师形态：每秒使前方高台装置获得<@ba.vup>1</>点技力，娜斯提技能期间效果翻倍\\n高台形态：技力满时升级（最多3次），首次升级后可阻挡1名敌人且装置上可部署干员，每次升级都可为装置上部署的干员提供一层生命上限与攻击力<@ba.vup>+{attack@nasti_nstbld[m4_bonus].atk:0%}</>的增益，升级3次后娜斯提撤退时自身仍保留在场上",
+        "skillType": 2,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "initSp": 0,
+          "increment": 0.0
+        },
+        "prefabId": "sktok_nasti_nstbld",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "attack@nasti_nstbld[m4_bonus].max_hp",
+            "value": 0.12
+          },
+          {
+            "key": "attack@nasti_nstbld[m4_bonus].atk",
+            "value": 0.12
+          },
+          {
+            "key": "attack@nasti_nstbld[m5_bonus].max_hp",
+            "value": 0.24
+          },
+          {
+            "key": "attack@nasti_nstbld[m5_bonus].atk",
+            "value": 0.24
+          },
+          {
+            "key": "attack@nasti_nstbld[m6_bonus].max_hp",
+            "value": 0.36
+          },
+          {
+            "key": "attack@nasti_nstbld[m6_bonus].atk",
+            "value": 0.36
+          },
+          {
+            "key": "attack@nasti_nstbld_m5[attribute_up].max_hp",
+            "value": 1000.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m5[attribute_up].def",
+            "value": 100.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m5[attribute_up].magic_resistance",
+            "value": 5.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m6[attribute_up].max_hp",
+            "value": 2000.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m6[attribute_up].def",
+            "value": 200.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m6[attribute_up].magic_resistance",
+            "value": 10.0
+          }
+        ]
+      },
+      {
+        "name": "栖脚地",
+        "rangeId": null,
+        "description": "小工程师形态：每秒使前方高台装置获得<@ba.vup>1</>点技力，娜斯提技能期间效果翻倍\\n高台形态：技力满时升级（最多3次），首次升级后可阻挡1名敌人且装置上可部署干员，每次升级都可为装置上部署的干员提供一层生命上限与攻击力<@ba.vup>+{attack@nasti_nstbld[m4_bonus].atk:0%}</>的增益，升级3次后娜斯提撤退时自身仍保留在场上",
+        "skillType": 2,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "initSp": 0,
+          "increment": 0.0
+        },
+        "prefabId": "sktok_nasti_nstbld",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "attack@nasti_nstbld[m4_bonus].max_hp",
+            "value": 0.13
+          },
+          {
+            "key": "attack@nasti_nstbld[m4_bonus].atk",
+            "value": 0.13
+          },
+          {
+            "key": "attack@nasti_nstbld[m5_bonus].max_hp",
+            "value": 0.26
+          },
+          {
+            "key": "attack@nasti_nstbld[m5_bonus].atk",
+            "value": 0.26
+          },
+          {
+            "key": "attack@nasti_nstbld[m6_bonus].max_hp",
+            "value": 0.39
+          },
+          {
+            "key": "attack@nasti_nstbld[m6_bonus].atk",
+            "value": 0.39
+          },
+          {
+            "key": "attack@nasti_nstbld_m5[attribute_up].max_hp",
+            "value": 1000.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m5[attribute_up].def",
+            "value": 100.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m5[attribute_up].magic_resistance",
+            "value": 5.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m6[attribute_up].max_hp",
+            "value": 2000.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m6[attribute_up].def",
+            "value": 200.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m6[attribute_up].magic_resistance",
+            "value": 10.0
+          }
+        ]
+      },
+      {
+        "name": "栖脚地",
+        "rangeId": null,
+        "description": "小工程师形态：每秒使前方高台装置获得<@ba.vup>1</>点技力，娜斯提技能期间效果翻倍\\n高台形态：技力满时升级（最多3次），首次升级后可阻挡1名敌人且装置上可部署干员，每次升级都可为装置上部署的干员提供一层生命上限与攻击力<@ba.vup>+{attack@nasti_nstbld[m4_bonus].atk:0%}</>的增益，升级3次后娜斯提撤退时自身仍保留在场上",
+        "skillType": 2,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "initSp": 0,
+          "increment": 0.0
+        },
+        "prefabId": "sktok_nasti_nstbld",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "attack@nasti_nstbld[m4_bonus].max_hp",
+            "value": 0.14
+          },
+          {
+            "key": "attack@nasti_nstbld[m4_bonus].atk",
+            "value": 0.14
+          },
+          {
+            "key": "attack@nasti_nstbld[m5_bonus].max_hp",
+            "value": 0.28
+          },
+          {
+            "key": "attack@nasti_nstbld[m5_bonus].atk",
+            "value": 0.28
+          },
+          {
+            "key": "attack@nasti_nstbld[m6_bonus].max_hp",
+            "value": 0.42
+          },
+          {
+            "key": "attack@nasti_nstbld[m6_bonus].atk",
+            "value": 0.42
+          },
+          {
+            "key": "attack@nasti_nstbld_m5[attribute_up].max_hp",
+            "value": 1000.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m5[attribute_up].def",
+            "value": 100.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m5[attribute_up].magic_resistance",
+            "value": 5.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m6[attribute_up].max_hp",
+            "value": 2000.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m6[attribute_up].def",
+            "value": 200.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m6[attribute_up].magic_resistance",
+            "value": 10.0
+          }
+        ]
+      },
+      {
+        "name": "栖脚地",
+        "rangeId": null,
+        "description": "小工程师形态：每秒使前方高台装置获得<@ba.vup>1</>点技力，娜斯提技能期间效果翻倍\\n高台形态：技力满时升级（最多3次），首次升级后可阻挡1名敌人且装置上可部署干员，每次升级都可为装置上部署的干员提供一层生命上限与攻击力<@ba.vup>+{attack@nasti_nstbld[m4_bonus].atk:0%}</>的增益，升级3次后娜斯提撤退时自身仍保留在场上",
+        "skillType": 2,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "initSp": 0,
+          "increment": 0.0
+        },
+        "prefabId": "sktok_nasti_nstbld",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "attack@nasti_nstbld[m4_bonus].max_hp",
+            "value": 0.15
+          },
+          {
+            "key": "attack@nasti_nstbld[m4_bonus].atk",
+            "value": 0.15
+          },
+          {
+            "key": "attack@nasti_nstbld[m5_bonus].max_hp",
+            "value": 0.3
+          },
+          {
+            "key": "attack@nasti_nstbld[m5_bonus].atk",
+            "value": 0.3
+          },
+          {
+            "key": "attack@nasti_nstbld[m6_bonus].max_hp",
+            "value": 0.45
+          },
+          {
+            "key": "attack@nasti_nstbld[m6_bonus].atk",
+            "value": 0.45
+          },
+          {
+            "key": "attack@nasti_nstbld_m5[attribute_up].max_hp",
+            "value": 1000.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m5[attribute_up].def",
+            "value": 100.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m5[attribute_up].magic_resistance",
+            "value": 5.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m6[attribute_up].max_hp",
+            "value": 2000.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m6[attribute_up].def",
+            "value": 200.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m6[attribute_up].magic_resistance",
+            "value": 10.0
+          }
+        ]
+      },
+      {
+        "name": "栖脚地",
+        "rangeId": null,
+        "description": "小工程师形态：每秒使前方高台装置获得<@ba.vup>1</>点技力，娜斯提技能期间效果翻倍\\n高台形态：技力满时升级（最多3次），首次升级后可阻挡1名敌人且装置上可部署干员，每次升级都可为装置上部署的干员提供一层生命上限与攻击力<@ba.vup>+{attack@nasti_nstbld[m4_bonus].atk:0%}</>的增益，升级3次后娜斯提撤退时自身仍保留在场上",
+        "skillType": 2,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "initSp": 0,
+          "increment": 0.0
+        },
+        "prefabId": "sktok_nasti_nstbld",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "attack@nasti_nstbld[m4_bonus].max_hp",
+            "value": 0.16
+          },
+          {
+            "key": "attack@nasti_nstbld[m4_bonus].atk",
+            "value": 0.16
+          },
+          {
+            "key": "attack@nasti_nstbld[m5_bonus].max_hp",
+            "value": 0.32
+          },
+          {
+            "key": "attack@nasti_nstbld[m5_bonus].atk",
+            "value": 0.32
+          },
+          {
+            "key": "attack@nasti_nstbld[m6_bonus].max_hp",
+            "value": 0.48
+          },
+          {
+            "key": "attack@nasti_nstbld[m6_bonus].atk",
+            "value": 0.48
+          },
+          {
+            "key": "attack@nasti_nstbld_m5[attribute_up].max_hp",
+            "value": 1000.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m5[attribute_up].def",
+            "value": 100.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m5[attribute_up].magic_resistance",
+            "value": 5.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m6[attribute_up].max_hp",
+            "value": 2000.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m6[attribute_up].def",
+            "value": 200.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m6[attribute_up].magic_resistance",
+            "value": 10.0
+          }
+        ]
+      },
+      {
+        "name": "栖脚地",
+        "rangeId": null,
+        "description": "小工程师形态：每秒使前方高台装置获得<@ba.vup>1</>点技力，娜斯提技能期间效果翻倍\\n高台形态：技力满时升级（最多3次），首次升级后可阻挡1名敌人且装置上可部署干员，每次升级都可为装置上部署的干员提供一层生命上限与攻击力<@ba.vup>+{attack@nasti_nstbld[m4_bonus].atk:0%}</>的增益，升级3次后娜斯提撤退时自身仍保留在场上",
+        "skillType": 2,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "initSp": 0,
+          "increment": 0.0
+        },
+        "prefabId": "sktok_nasti_nstbld",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "attack@nasti_nstbld[m4_bonus].max_hp",
+            "value": 0.18
+          },
+          {
+            "key": "attack@nasti_nstbld[m4_bonus].atk",
+            "value": 0.18
+          },
+          {
+            "key": "attack@nasti_nstbld[m5_bonus].max_hp",
+            "value": 0.36
+          },
+          {
+            "key": "attack@nasti_nstbld[m5_bonus].atk",
+            "value": 0.36
+          },
+          {
+            "key": "attack@nasti_nstbld[m6_bonus].max_hp",
+            "value": 0.54
+          },
+          {
+            "key": "attack@nasti_nstbld[m6_bonus].atk",
+            "value": 0.54
+          },
+          {
+            "key": "attack@nasti_nstbld_m5[attribute_up].max_hp",
+            "value": 1000.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m5[attribute_up].def",
+            "value": 100.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m5[attribute_up].magic_resistance",
+            "value": 5.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m6[attribute_up].max_hp",
+            "value": 2000.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m6[attribute_up].def",
+            "value": 200.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m6[attribute_up].magic_resistance",
+            "value": 10.0
+          }
+        ]
+      },
+      {
+        "name": "栖脚地",
+        "rangeId": null,
+        "description": "小工程师形态：每秒使前方高台装置获得<@ba.vup>1</>点技力，娜斯提技能期间效果翻倍\\n高台形态：技力满时升级（最多3次），首次升级后可阻挡1名敌人且装置上可部署干员，每次升级都可为装置上部署的干员提供一层生命上限与攻击力<@ba.vup>+{attack@nasti_nstbld[m4_bonus].atk:0%}</>的增益，升级3次后娜斯提撤退时自身仍保留在场上",
+        "skillType": 2,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 50,
+          "initSp": 0,
+          "increment": 0.0
+        },
+        "prefabId": "sktok_nasti_nstbld",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "attack@nasti_nstbld[m4_bonus].max_hp",
+            "value": 0.2
+          },
+          {
+            "key": "attack@nasti_nstbld[m4_bonus].atk",
+            "value": 0.2
+          },
+          {
+            "key": "attack@nasti_nstbld[m5_bonus].max_hp",
+            "value": 0.4
+          },
+          {
+            "key": "attack@nasti_nstbld[m5_bonus].atk",
+            "value": 0.4
+          },
+          {
+            "key": "attack@nasti_nstbld[m6_bonus].max_hp",
+            "value": 0.6
+          },
+          {
+            "key": "attack@nasti_nstbld[m6_bonus].atk",
+            "value": 0.6
+          },
+          {
+            "key": "attack@nasti_nstbld_m5[attribute_up].max_hp",
+            "value": 1000.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m5[attribute_up].def",
+            "value": 100.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m5[attribute_up].magic_resistance",
+            "value": 5.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m6[attribute_up].max_hp",
+            "value": 2000.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m6[attribute_up].def",
+            "value": 200.0
+          },
+          {
+            "key": "attack@nasti_nstbld_m6[attribute_up].magic_resistance",
+            "value": 10.0
+          }
+        ]
+      }
+    ]
+  },
   "skchr_cello_1": {
     "skillId": "skchr_cello_1",
     "iconId": null,
@@ -273807,6 +277654,323 @@
       }
     ]
   },
+  "skchr_sharp2_1": {
+    "skillId": "skchr_sharp2_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "沉默的爆发",
+        "rangeId": null,
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，同时攻击<@ba.vup>{attack@max_target}</>个目标，远程攻击不再降低攻击力",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 48,
+          "initSp": 20,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_sharp2_1",
+        "duration": 30.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 1.05
+          },
+          {
+            "key": "attack_speed",
+            "value": 20.0
+          },
+          {
+            "key": "attack@max_target",
+            "value": 2.0
+          }
+        ]
+      },
+      {
+        "name": "沉默的爆发",
+        "rangeId": null,
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，同时攻击<@ba.vup>{attack@max_target}</>个目标，远程攻击不再降低攻击力",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 48,
+          "initSp": 21,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_sharp2_1",
+        "duration": 30.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 1.1
+          },
+          {
+            "key": "attack_speed",
+            "value": 20.0
+          },
+          {
+            "key": "attack@max_target",
+            "value": 2.0
+          }
+        ]
+      },
+      {
+        "name": "沉默的爆发",
+        "rangeId": null,
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，同时攻击<@ba.vup>{attack@max_target}</>个目标，远程攻击不再降低攻击力",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 47,
+          "initSp": 21,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_sharp2_1",
+        "duration": 30.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 1.2
+          },
+          {
+            "key": "attack_speed",
+            "value": 20.0
+          },
+          {
+            "key": "attack@max_target",
+            "value": 2.0
+          }
+        ]
+      },
+      {
+        "name": "沉默的爆发",
+        "rangeId": null,
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，同时攻击<@ba.vup>{attack@max_target}</>个目标，远程攻击不再降低攻击力",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "initSp": 22,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_sharp2_1",
+        "duration": 30.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 1.3
+          },
+          {
+            "key": "attack_speed",
+            "value": 35.0
+          },
+          {
+            "key": "attack@max_target",
+            "value": 2.0
+          }
+        ]
+      },
+      {
+        "name": "沉默的爆发",
+        "rangeId": null,
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，同时攻击<@ba.vup>{attack@max_target}</>个目标，远程攻击不再降低攻击力",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "initSp": 23,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_sharp2_1",
+        "duration": 30.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 1.45
+          },
+          {
+            "key": "attack_speed",
+            "value": 35.0
+          },
+          {
+            "key": "attack@max_target",
+            "value": 2.0
+          }
+        ]
+      },
+      {
+        "name": "沉默的爆发",
+        "rangeId": null,
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，同时攻击<@ba.vup>{attack@max_target}</>个目标，远程攻击不再降低攻击力",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 45,
+          "initSp": 24,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_sharp2_1",
+        "duration": 30.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 1.6
+          },
+          {
+            "key": "attack_speed",
+            "value": 35.0
+          },
+          {
+            "key": "attack@max_target",
+            "value": 2.0
+          }
+        ]
+      },
+      {
+        "name": "沉默的爆发",
+        "rangeId": null,
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，同时攻击<@ba.vup>{attack@max_target}</>个目标，远程攻击不再降低攻击力",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "initSp": 24,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_sharp2_1",
+        "duration": 30.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 1.8
+          },
+          {
+            "key": "attack_speed",
+            "value": 50.0
+          },
+          {
+            "key": "attack@max_target",
+            "value": 2.0
+          }
+        ]
+      },
+      {
+        "name": "沉默的爆发",
+        "rangeId": null,
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，同时攻击<@ba.vup>{attack@max_target}</>个目标，远程攻击不再降低攻击力",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "initSp": 25,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_sharp2_1",
+        "duration": 30.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 1.95
+          },
+          {
+            "key": "attack_speed",
+            "value": 50.0
+          },
+          {
+            "key": "attack@max_target",
+            "value": 2.0
+          }
+        ]
+      },
+      {
+        "name": "沉默的爆发",
+        "rangeId": null,
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，同时攻击<@ba.vup>{attack@max_target}</>个目标，远程攻击不再降低攻击力",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "initSp": 26,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_sharp2_1",
+        "duration": 30.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 2.1
+          },
+          {
+            "key": "attack_speed",
+            "value": 50.0
+          },
+          {
+            "key": "attack@max_target",
+            "value": 2.0
+          }
+        ]
+      },
+      {
+        "name": "沉默的爆发",
+        "rangeId": null,
+        "description": "攻击力<@ba.vup>+{atk:0%}</>，攻击速度<@ba.vup>+{attack_speed}</>，同时攻击<@ba.vup>{attack@max_target}</>个目标，远程攻击不再降低攻击力",
+        "skillType": 1,
+        "durationType": 0,
+        "spData": {
+          "spType": 1,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 42,
+          "initSp": 27,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_sharp2_1",
+        "duration": 30.0,
+        "blackboard": [
+          {
+            "key": "atk",
+            "value": 2.25
+          },
+          {
+            "key": "attack_speed",
+            "value": 50.0
+          },
+          {
+            "key": "attack@max_target",
+            "value": 2.0
+          }
+        ]
+      }
+    ]
+  },
   "skchr_hodrer_1": {
     "skillId": "skchr_hodrer_1",
     "iconId": null,
@@ -312139,6 +316303,2348 @@
         },
         "prefabId": "sktok_empty",
         "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm040_1": {
+    "skillId": "sktok_acarm040_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "炎国短刀",
+        "rangeId": null,
+        "description": "每开启一次技能，获得5%的攻击力加成（最多叠加10次）",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm040_2": {
+    "skillId": "sktok_acarm040_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "炎国短刀",
+        "rangeId": null,
+        "description": "每开启一次技能，获得8%的攻击力加成（最多叠加10次）",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm041_1": {
+    "skillId": "sktok_acarm041_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "维式重锤",
+        "rangeId": null,
+        "description": "攻击力+10%",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm041_2": {
+    "skillId": "sktok_acarm041_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "维式重锤",
+        "rangeId": null,
+        "description": "攻击力+20%",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm042_1": {
+    "skillId": "sktok_acarm042_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "灼燃维式重锤",
+        "rangeId": null,
+        "description": "攻击力+25%；造成法术伤害附带相当于10%伤害的<$ba.dt.burning2>灼燃损伤</>",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm042_2": {
+    "skillId": "sktok_acarm042_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "灼燃维式重锤",
+        "rangeId": null,
+        "description": "攻击力+40%；造成法术伤害附带相当于10%伤害的<$ba.dt.burning2>灼燃损伤</>",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm043_1": {
+    "skillId": "sktok_acarm043_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "坚固维式重锤",
+        "rangeId": null,
+        "description": "攻击力+25%；首次受到致命伤害时生命值不低于1，持续15秒",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm043_2": {
+    "skillId": "sktok_acarm043_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "坚固维式重锤",
+        "rangeId": null,
+        "description": "攻击力+40%；首次受到致命伤害时生命值不低于1，持续15秒",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm044_1": {
+    "skillId": "sktok_acarm044_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "加速维式重锤",
+        "rangeId": null,
+        "description": "攻击力+25%；攻击速度+30",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm044_2": {
+    "skillId": "sktok_acarm044_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "加速维式重锤",
+        "rangeId": null,
+        "description": "攻击力+40%；攻击速度+30",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm045_1": {
+    "skillId": "sktok_acarm045_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "战栗维式重锤",
+        "rangeId": null,
+        "description": "攻击力+25%；若携带者是地面干员则攻击时有8%概率使目标<$ba.tremble>战栗</>2秒",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm045_2": {
+    "skillId": "sktok_acarm045_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "战栗维式重锤",
+        "rangeId": null,
+        "description": "攻击力+40%；若携带者是地面干员则攻击时有8%概率使目标<$ba.tremble>战栗</>2秒",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm046_1": {
+    "skillId": "sktok_acarm046_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "阿戈尔重刃",
+        "rangeId": null,
+        "description": "攻击力+35%，攻击速度-10",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm046_2": {
+    "skillId": "sktok_acarm046_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "阿戈尔重刃",
+        "rangeId": null,
+        "description": "攻击力+60%，攻击速度-10",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm047_1": {
+    "skillId": "sktok_acarm047_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "坚守盾牌",
+        "rangeId": null,
+        "description": "防御力+35%",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm047_2": {
+    "skillId": "sktok_acarm047_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "坚守盾牌",
+        "rangeId": null,
+        "description": "防御力+60%",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm048_1": {
+    "skillId": "sktok_acarm048_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "口袋法阵",
+        "rangeId": null,
+        "description": "法术抗性+20",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm048_2": {
+    "skillId": "sktok_acarm048_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "口袋法阵",
+        "rangeId": null,
+        "description": "法术抗性+35",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm049_1": {
+    "skillId": "sktok_acarm049_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "歌利亚头盔",
+        "rangeId": null,
+        "description": "生命值+35%；部署时若身前一格没有其他干员，生命值额外+25%",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm049_2": {
+    "skillId": "sktok_acarm049_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "歌利亚头盔",
+        "rangeId": null,
+        "description": "生命值+60%；部署时若身前一格没有其他干员，生命值额外+40%",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm050_1": {
+    "skillId": "sktok_acarm050_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "萨尔贡浓茶",
+        "rangeId": null,
+        "description": "技力自然回复速度+0.15/秒",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm050_2": {
+    "skillId": "sktok_acarm050_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "萨尔贡浓茶",
+        "rangeId": null,
+        "description": "技力自然回复速度+0.25/秒",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm051_1": {
+    "skillId": "sktok_acarm051_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "迅捷作战粮",
+        "rangeId": null,
+        "description": "部署时，获得3点技力；每有一个同盟约的其他干员，额外获得3点技力",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm051_2": {
+    "skillId": "sktok_acarm051_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "迅捷作战粮",
+        "rangeId": null,
+        "description": "部署时，获得6点技力；每有一个同盟约的其他干员，额外获得6点技力",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm052_1": {
+    "skillId": "sktok_acarm052_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "有限加速器",
+        "rangeId": null,
+        "description": "每次攻击或治疗后，本场战斗中攻击速度+1，最高60层",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm052_2": {
+    "skillId": "sktok_acarm052_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "有限加速器",
+        "rangeId": null,
+        "description": "每次攻击或治疗后，本场战斗中攻击速度+2，最高60层",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm053_1": {
+    "skillId": "sktok_acarm053_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "激光发射器",
+        "rangeId": null,
+        "description": "攻击无视目标25%法术抗性",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm053_2": {
+    "skillId": "sktok_acarm053_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "激光发射器",
+        "rangeId": null,
+        "description": "攻击无视目标40%法术抗性",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm054_1": {
+    "skillId": "sktok_acarm054_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "蜂鸣器",
+        "rangeId": null,
+        "description": "更容易受到攻击",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm054_2": {
+    "skillId": "sktok_acarm054_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "蜂鸣器",
+        "rangeId": null,
+        "description": "更容易受到攻击，生命值+30%",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm055_1": {
+    "skillId": "sktok_acarm055_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "伪装服",
+        "rangeId": null,
+        "description": "部署后25秒内获得<$ba.camou>迷彩</>",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm055_2": {
+    "skillId": "sktok_acarm055_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "伪装服",
+        "rangeId": null,
+        "description": "部署后50秒内获得<$ba.camou>迷彩</>",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm056_1": {
+    "skillId": "sktok_acarm056_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "不屈弹射器",
+        "rangeId": null,
+        "description": "再部署时间-30%，生命值-30%",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm056_2": {
+    "skillId": "sktok_acarm056_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "不屈弹射器",
+        "rangeId": null,
+        "description": "再部署时间-50%，生命值-30%",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm057_1": {
+    "skillId": "sktok_acarm057_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "拉特兰桥夹",
+        "rangeId": null,
+        "description": "子弹类技能首次剩余一发子弹时有40%概率恢复40%的子弹",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm057_2": {
+    "skillId": "sktok_acarm057_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "拉特兰桥夹",
+        "rangeId": null,
+        "description": "子弹类技能首次剩余一发子弹时有70%概率恢复40%的子弹",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm058_1": {
+    "skillId": "sktok_acarm058_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "催泪瓦斯",
+        "rangeId": null,
+        "description": "攻击时有3%概率使目标获得一层<$ba.palsy>麻痹</>",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm058_2": {
+    "skillId": "sktok_acarm058_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "催泪瓦斯",
+        "rangeId": null,
+        "description": "攻击时有5%概率使目标获得一层<$ba.palsy>麻痹</>",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm059_1": {
+    "skillId": "sktok_acarm059_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "浓缩嗅盐",
+        "rangeId": null,
+        "description": "生命值大于80%时，免疫<$ba.stun>晕眩</>、<$ba.frozen>冻结</>等特殊状态",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm059_2": {
+    "skillId": "sktok_acarm059_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "浓缩嗅盐",
+        "rangeId": null,
+        "description": "生命值大于50%时，免疫<$ba.stun>晕眩</>、<$ba.frozen>冻结</>等特殊状态",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm060_1": {
+    "skillId": "sktok_acarm060_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "防暴盾",
+        "rangeId": null,
+        "description": "阻挡敌人时，受到来自非自身阻挡单位的伤害降低40%",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm060_2": {
+    "skillId": "sktok_acarm060_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "防暴盾",
+        "rangeId": null,
+        "description": "阻挡敌人时，受到来自非自身阻挡单位的伤害降低70%",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm061_1": {
+    "skillId": "sktok_acarm061_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "护盾无人机",
+        "rangeId": null,
+        "description": "治疗时有10%概率使目标获得1层<$ba.shield>护盾</>（最多1层）",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm061_2": {
+    "skillId": "sktok_acarm061_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "护盾无人机",
+        "rangeId": null,
+        "description": "治疗时有15%概率使目标获得1层<$ba.shield>护盾</>（最多1层）",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm062_1": {
+    "skillId": "sktok_acarm062_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "谢拉格不融冰",
+        "rangeId": null,
+        "description": "攻击时有18%概率对目标施加1秒的<$ba.cold>寒冷</>",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm062_2": {
+    "skillId": "sktok_acarm062_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "谢拉格不融冰",
+        "rangeId": null,
+        "description": "攻击时有30%概率对目标施加1秒的<$ba.cold>寒冷</>",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm063_1": {
+    "skillId": "sktok_acarm063_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "精准狙击镜",
+        "rangeId": null,
+        "description": "攻击距离自身3格及以上的目标时，伤害提高25%",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm063_2": {
+    "skillId": "sktok_acarm063_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "精准狙击镜",
+        "rangeId": null,
+        "description": "攻击距离自身3格及以上的目标时，伤害提高40%",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm064_1": {
+    "skillId": "sktok_acarm064_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "突袭手雷",
+        "rangeId": null,
+        "description": "每次部署后的8秒内，攻击时使目标<$ba.stun>晕眩</>2秒",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm064_2": {
+    "skillId": "sktok_acarm064_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "突袭手雷",
+        "rangeId": null,
+        "description": "每次部署后的12秒内，攻击时使目标<$ba.stun>晕眩</>2秒",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm065_1": {
+    "skillId": "sktok_acarm065_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "休眠子裔",
+        "rangeId": null,
+        "description": "每攻击1个目标，回复自身2%最大生命值",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm065_2": {
+    "skillId": "sktok_acarm065_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "休眠子裔",
+        "rangeId": null,
+        "description": "每攻击1个目标，回复自身4%最大生命值",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm066_1": {
+    "skillId": "sktok_acarm066_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "幸运硬币",
+        "rangeId": null,
+        "description": "装备时销毁，并随机获得1~6资金",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm066_2": {
+    "skillId": "sktok_acarm066_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "幸运硬币",
+        "rangeId": null,
+        "description": "装备时销毁，并随机获得2~12资金",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm067_1": {
+    "skillId": "sktok_acarm067_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "双模机械臂",
+        "rangeId": null,
+        "description": "攻击力+10%，自身造成物理和法术伤害时，伤害类型转化为<$ba.weaknessatk>弱点伤害</>",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm067_2": {
+    "skillId": "sktok_acarm067_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "双模机械臂",
+        "rangeId": null,
+        "description": "攻击力+20%，自身造成物理和法术伤害时，伤害类型转化为<$ba.weaknessatk>弱点伤害</>",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm068_1": {
+    "skillId": "sktok_acarm068_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "M3茧甲",
+        "rangeId": null,
+        "description": "战斗阶段被击倒时立刻复活（一场战斗仅1次）",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm068_2": {
+    "skillId": "sktok_acarm068_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "M3茧甲",
+        "rangeId": null,
+        "description": "战斗阶段被击倒时立刻复活（一场战斗仅2次）",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm069_1": {
+    "skillId": "sktok_acarm069_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "拟态物质",
+        "rangeId": null,
+        "description": "装备时销毁，若已拥有至少2名该初始干员，则再获得1名该初始干员；否则随机获得1名同盟约初始干员",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm069_2": {
+    "skillId": "sktok_acarm069_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "拟态物质",
+        "rangeId": null,
+        "description": "装备时销毁，若已拥有至少2名该初始干员，则再获得1名该初始干员；否则随机获得1名同盟约初始干员",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm070_1": {
+    "skillId": "sktok_acarm070_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "人事部文档",
+        "rangeId": null,
+        "description": "装备时销毁，最大可部署人数变为9",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm070_2": {
+    "skillId": "sktok_acarm070_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "人事部文档",
+        "rangeId": null,
+        "description": "装备时销毁，最大可部署人数变为9",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm071_1": {
+    "skillId": "sktok_acarm071_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "博士投影",
+        "rangeId": null,
+        "description": "任意干员可装备，下个回合开始时销毁，并使该干员晋升为精锐干员",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm071_2": {
+    "skillId": "sktok_acarm071_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "博士投影",
+        "rangeId": null,
+        "description": "任意干员可装备，立即使该干员晋升为精锐干员",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm072_1": {
+    "skillId": "sktok_acarm072_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "突变细胞",
+        "rangeId": null,
+        "description": "战斗结束后，装备者替换为高一阶的随机干员",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm072_2": {
+    "skillId": "sktok_acarm072_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "突变细胞",
+        "rangeId": null,
+        "description": "战斗结束后，装备者替换为高一阶的随机干员",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm073_1": {
+    "skillId": "sktok_acarm073_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "变形同构体",
+        "rangeId": null,
+        "description": "携带者获得额外盟约（由另一件携带装备而定）\\n<@ba.acrem>具体对应关系可在模拟中查看本装备天赋栏</>",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm073_2": {
+    "skillId": "sktok_acarm073_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "变形同构体",
+        "rangeId": null,
+        "description": "携带者获得额外盟约（由另一件携带装备而定）\\n<@ba.acrem>具体对应关系可在模拟中查看本装备天赋栏</>",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm074_1": {
+    "skillId": "sktok_acarm074_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "商业包装方案",
+        "rangeId": null,
+        "description": "每出售8名干员，额外获得一个此装备携带者的初始同名干员",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm074_2": {
+    "skillId": "sktok_acarm074_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "商业包装方案",
+        "rangeId": null,
+        "description": "每出售6名干员，额外获得一个此装备携带者的初始同名干员",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm075_1": {
+    "skillId": "sktok_acarm075_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "寻呼模块",
+        "rangeId": null,
+        "description": "装备时销毁，立即特殊刷新一次商店，仅出现与该干员有相同盟约的干员",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm075_2": {
+    "skillId": "sktok_acarm075_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "寻呼模块",
+        "rangeId": null,
+        "description": "装备时销毁，立即特殊刷新一次商店，仅出现与该干员有相同盟约的干员",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm076_1": {
+    "skillId": "sktok_acarm076_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "铳骑之威",
+        "rangeId": null,
+        "description": "攻击力+35%；若携带者为【拉特兰】盟约干员，该干员每次攻击时，有35%概率额外对攻击范围内一名敌人发射子弹造成150%攻击力的物理伤害\\n<@ba.acrem>若该【拉特兰】盟约干员同时携带“拉特兰桥夹”，子弹伤害改为300%攻击力</>",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm076_2": {
+    "skillId": "sktok_acarm076_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "铳骑之威",
+        "rangeId": null,
+        "description": "攻击力+60%；若携带者为【拉特兰】盟约干员，该干员每次攻击时，有35%概率额外对攻击范围内一名敌人发射子弹造成150%攻击力的物理伤害\\n<@ba.acrem>若该【拉特兰】盟约干员同时携带“拉特兰桥夹”，子弹伤害改为300%攻击力</>",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm077_1": {
+    "skillId": "sktok_acarm077_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "天师古鼎",
+        "rangeId": null,
+        "description": "生命值+45%；若携带者为【炎】盟约干员，本回合每获得过1名干员战斗开始后攻击速度+25（最多3层）\\n<@ba.acrem>若该【炎】盟约干员同时携带“炎国短刀”，每次获得干员时获得2资金（每回合最多3次）</>",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm077_2": {
+    "skillId": "sktok_acarm077_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "天师古鼎",
+        "rangeId": null,
+        "description": "生命值+70%；若携带者为【炎】盟约干员，本回合每获得过1名干员战斗开始后攻击速度+25（最多3层）\\n<@ba.acrem>若该【炎】盟约干员同时携带“炎国短刀”，每次获得干员时获得2资金（每回合最多3次）</>",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm078_1": {
+    "skillId": "sktok_acarm078_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "海沟实验体",
+        "rangeId": null,
+        "description": "受到的伤害-180点；若携带者为【阿戈尔】盟约干员，该干员触发【阿戈尔】盟约<@ba.vup>吞噬</>效果的范围改为周围四格，并让【阿戈尔】盟约获得对应层数\\n<@ba.acrem>若该【阿戈尔】盟约干员同时携带“阿戈尔重刃”，<@ba.vup>吞噬</>周围四格干员时额外获得其等量生命值</>",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm078_2": {
+    "skillId": "sktok_acarm078_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "海沟实验体",
+        "rangeId": null,
+        "description": "受到的伤害-300点；若携带者为【阿戈尔】盟约干员，该干员触发【阿戈尔】盟约<@ba.vup>吞噬</>效果的范围改为周围四格，并让【阿戈尔】盟约获得对应层数\\n<@ba.acrem>若该【阿戈尔】盟约干员同时携带“阿戈尔重刃”，<@ba.vup>吞噬</>周围四格干员时额外获得其等量生命值</>",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm079_1": {
+    "skillId": "sktok_acarm079_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "蒸汽之心",
+        "rangeId": null,
+        "description": "攻击速度+35；若携带者为【维多利亚】盟约干员，该干员获得当前场上所有维式重锤特殊效果\\n<@ba.acrem>若该【维多利亚】盟约干员同时携带“维式重锤”系列装备，该“维式重锤”装备特殊效果获得强化（效果变为2倍）</>",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm079_2": {
+    "skillId": "sktok_acarm079_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "蒸汽之心",
+        "rangeId": null,
+        "description": "攻击速度+60；若携带者为【维多利亚】盟约干员，该干员获得当前场上所有维式重锤特殊效果\\n<@ba.acrem>若该【维多利亚】盟约干员同时携带“维式重锤”系列装备，该“维式重锤”装备特殊效果获得强化（效果变为2倍）</>",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm102_1": {
+    "skillId": "sktok_acarm102_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "耶拉冈德之泪",
+        "rangeId": null,
+        "description": "法术抗性+30；若携带者为【谢拉格】盟约干员，该干员击倒敌人时使周围一定范围内的其它敌人受到2秒<$ba.cold>寒冷</>\\n<@ba.acrem>若该【谢拉格】盟约干员同时携带“谢拉格不融冰”，击倒敌人时使周围一定范围内的其它敌人额外受到一次2秒<$ba.cold>寒冷</></>",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm102_2": {
+    "skillId": "sktok_acarm102_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "耶拉冈德之泪",
+        "rangeId": null,
+        "description": "法术抗性+50；若携带者为【谢拉格】盟约干员，该干员击倒敌人时使周围一定范围内的其它敌人受到2秒<$ba.cold>寒冷</>\\n<@ba.acrem>若该【谢拉格】盟约干员同时携带“谢拉格不融冰”，击倒敌人时使周围一定范围内的其它敌人额外受到一次2秒<$ba.cold>寒冷</></>",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm103_1": {
+    "skillId": "sktok_acarm103_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "黄沙罗盘",
+        "rangeId": null,
+        "description": "初始技力+25；若携带者为【萨尔贡】盟约干员，该干员首次技能结束时立刻回复30点技力\\n<@ba.acrem>若该【萨尔贡】盟约干员同时携带“萨尔贡浓茶”， 每次开启技能时为全部【萨尔贡】干员回复3点技力</>",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm103_2": {
+    "skillId": "sktok_acarm103_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "黄沙罗盘",
+        "rangeId": null,
+        "description": "初始技力+40；若携带者为【萨尔贡】盟约干员，该干员首次技能结束时立刻回复30点技力\\n<@ba.acrem>若该【萨尔贡】盟约干员同时携带“萨尔贡浓茶”， 每次开启技能时为全部【萨尔贡】干员回复5点技力</>",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm109_1": {
+    "skillId": "sktok_acarm109_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "信标",
+        "rangeId": null,
+        "description": "装备时，目标干员和本装备销毁并自动选取1位在场相应盟约人数最多的队友，下个休整期向其<@ba.vup>发送</>1个同品质的同名干员\\n<@ba.acrem>若无符合条件者则返还该干员</>\\n<@ba.acrem>无法装备给自选干员</>",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acarm109_2": {
+    "skillId": "sktok_acarm109_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "信标",
+        "rangeId": null,
+        "description": "装备时，目标干员和本装备销毁并自动选取1位在场相应盟约人数最多的队友，下个休整期向其<@ba.vup>发送</>1个同品质的同名干员\\n<@ba.acrem>若无符合条件者则返还该干员</>\\n<@ba.acrem>无法装备给自选干员</>",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_common_acarm",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_aclasert": {
+    "skillId": "sktok_aclasert",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "“双眼皮”",
+        "rangeId": null,
+        "description": "根据当前层数最高的盟约获得强化：每层盟约层数使自身攻击速度+1，攻击额外附带造成0.1%<$ba.fragile>脆弱</>，持续2秒（至多300层）",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 0.0
+        },
+        "prefabId": "sktok_aclasert",
+        "duration": 2.0,
+        "blackboard": [
+          {
+            "key": "attack_speed_per_stack",
+            "value": 1.0
+          },
+          {
+            "key": "damage_scale_per_stack",
+            "value": 0.001
+          },
+          {
+            "key": "max_attack_speed",
+            "value": 300.0
+          },
+          {
+            "key": "max_damage_scale",
+            "value": 1.3
+          }
+        ]
+      }
+    ]
+  },
+  "sktok_accrate": {
+    "skillId": "sktok_accrate",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "阻隔工事",
+        "rangeId": null,
+        "description": "改变敌人的行进路线\\n<@ba.rem>如果阻隔工事阻挡了敌人，敌人会破坏此工事</>",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 0.0
+        },
+        "prefabId": null,
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_achplat": {
+    "skillId": "sktok_achplat",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "射击台",
+        "rangeId": null,
+        "description": "可将高台干员部署于其上",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 1,
+          "initSp": 0,
+          "increment": 0.0
+        },
+        "prefabId": "sktok_achplat",
+        "duration": -1.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acdisney_1": {
+    "skillId": "sktok_acdisney_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "“神秘顾客”",
+        "rangeId": "0-1",
+        "description": "拖拽至场上使用后，选择一项特殊悬赏任务进行挑战；主动销毁时获得1份资金，并将“神秘顾客”传递给下一名玩家",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_acdisney_1",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_accopy_1": {
+    "skillId": "sktok_accopy_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "画卷",
+        "rangeId": "1-1",
+        "description": "拖拽至场上使用后，获得范围内的干员（包括精锐状态和装备！）",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_accopy_1",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acchal_1": {
+    "skillId": "sktok_acchal_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "教鞭",
+        "rangeId": "0-1",
+        "description": "拖拽至场上使用后，选择一项悬赏任务进行挑战",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_acchal_1",
+        "duration": 0.0,
+        "blackboard": []
+      }
+    ]
+  },
+  "sktok_acblzd": {
+    "skillId": "sktok_acblzd",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "谢拉格寒风",
+        "rangeId": null,
+        "description": "每隔一定时间对全场敌人造成一定时间的<$ba.cold>寒冷</>",
+        "skillType": 0,
+        "durationType": 0,
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 0,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 0.0
+        },
+        "prefabId": "sktok_empty",
+        "duration": -1.0,
         "blackboard": []
       }
     ]

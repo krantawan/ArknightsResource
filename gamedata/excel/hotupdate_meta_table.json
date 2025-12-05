@@ -505,12 +505,40 @@
       "picType": "SKIN",
       "logoId": "sale_epoque",
       "color": null
+    },
+    {
+      "picId": "pic67_a_2",
+      "groupId": 12,
+      "sortId": 3,
+      "startTime": 1763107200,
+      "endTime": 1765483199,
+      "textList": null,
+      "picType": "NONE",
+      "logoId": null,
+      "color": null
+    },
+    {
+      "picId": "pic68_a_1",
+      "groupId": 13,
+      "sortId": 1,
+      "startTime": 1764889200,
+      "endTime": 1766087999,
+      "textList": null,
+      "picType": "NONE",
+      "logoId": null,
+      "color": null
+    },
+    {
+      "picId": "pic68_s_1",
+      "groupId": 13,
+      "sortId": 2,
+      "startTime": 1764889200,
+      "endTime": 1766087999,
+      "textList": null,
+      "picType": "SKIN",
+      "logoId": "snow",
+      "color": null
     }
   ],
-  "movieInfo": {
-    "videoId": "OS01",
-    "videoPath": "video/act46side/OS01.mp4",
-    "endTime": 1764889200,
-    "sortId": 6
-  }
+  "movieInfo": null
 }
