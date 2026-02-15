@@ -3,7 +3,8 @@ local list =
 {
   
   "HotFixes/TestStubHotfixer",
-  "HotFixes/GradingControllerHotfixer",
+  "HotFixes/BackgroundMultiFormHotfixer",
+  "HotFixes/CGGalleryHotfixer",
   "HotFixes/PCHotfixer"
 };
 
