@@ -947,7 +947,8 @@
       "professionMask": 0,
       "playerSideMask": 0,
       "useExtraData": false,
-      "extraRuntimeData": null
+      "extraRuntimeData": null,
+      "source": null
     }
   ],
   "routes": [
@@ -5599,13 +5600,14 @@
             "key": "damage",
             "value": 8.0
           }
-        ]
+        ],
+        "overrideTalents": null
       }
     ],
     "characterCards": [],
     "tokenCards": [
       {
-        "initialCnt": 0,
+        "initialCnt": 1,
         "hidden": true,
         "alias": "trap_114_smkbmb#1",
         "uniEquipIds": null,
@@ -5622,10 +5624,11 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
-        "initialCnt": 0,
+        "initialCnt": 1,
         "hidden": true,
         "alias": "trap_114_smkbmb#2",
         "uniEquipIds": null,
@@ -5642,10 +5645,11 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
-        "initialCnt": 0,
+        "initialCnt": 1,
         "hidden": true,
         "alias": "trap_114_smkbmb#3",
         "uniEquipIds": null,
@@ -5662,10 +5666,11 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
-        "initialCnt": 0,
+        "initialCnt": 1,
         "hidden": true,
         "alias": "trap_114_smkbmb#4",
         "uniEquipIds": null,
@@ -5682,10 +5687,11 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
-        "initialCnt": 0,
+        "initialCnt": 1,
         "hidden": true,
         "alias": "trap_114_smkbmb#5",
         "uniEquipIds": null,
@@ -5702,10 +5708,11 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
-        "initialCnt": 0,
+        "initialCnt": 1,
         "hidden": true,
         "alias": "trap_114_smkbmb#6",
         "uniEquipIds": null,
@@ -5722,10 +5729,11 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
-        "initialCnt": 0,
+        "initialCnt": 1,
         "hidden": true,
         "alias": "trap_114_smkbmb#7",
         "uniEquipIds": null,
@@ -5742,10 +5750,11 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
-        "initialCnt": 0,
+        "initialCnt": 1,
         "hidden": true,
         "alias": "trap_114_smkbmb#8",
         "uniEquipIds": null,
@@ -5762,10 +5771,11 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
-        "initialCnt": 0,
+        "initialCnt": 1,
         "hidden": true,
         "alias": "trap_114_smkbmb#9",
         "uniEquipIds": null,
@@ -5782,10 +5792,11 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
-        "initialCnt": 0,
+        "initialCnt": 1,
         "hidden": true,
         "alias": "trap_114_smkbmb#10",
         "uniEquipIds": null,
@@ -5802,10 +5813,11 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
-        "initialCnt": 0,
+        "initialCnt": 1,
         "hidden": true,
         "alias": "trap_114_smkbmb#11",
         "uniEquipIds": null,
@@ -5822,10 +5834,11 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
-        "initialCnt": 0,
+        "initialCnt": 1,
         "hidden": true,
         "alias": "trap_114_smkbmb#12",
         "uniEquipIds": null,
@@ -5842,10 +5855,11 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
-        "initialCnt": 0,
+        "initialCnt": 1,
         "hidden": true,
         "alias": "trap_114_smkbmb#13",
         "uniEquipIds": null,
@@ -5862,10 +5876,11 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
-        "initialCnt": 0,
+        "initialCnt": 1,
         "hidden": true,
         "alias": "trap_114_smkbmb#14",
         "uniEquipIds": null,
@@ -5882,10 +5897,11 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
-        "initialCnt": 0,
+        "initialCnt": 1,
         "hidden": true,
         "alias": "trap_114_smkbmb#15",
         "uniEquipIds": null,
@@ -5902,10 +5918,11 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
-        "initialCnt": 0,
+        "initialCnt": 1,
         "hidden": true,
         "alias": "trap_114_smkbmb#16",
         "uniEquipIds": null,
@@ -5922,10 +5939,11 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
-        "initialCnt": 0,
+        "initialCnt": 1,
         "hidden": true,
         "alias": "trap_114_smkbmb#17",
         "uniEquipIds": null,
@@ -5942,10 +5960,11 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
-        "initialCnt": 0,
+        "initialCnt": 1,
         "hidden": true,
         "alias": "trap_114_smkbmb#18",
         "uniEquipIds": null,
@@ -5962,10 +5981,11 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
-        "initialCnt": 0,
+        "initialCnt": 1,
         "hidden": true,
         "alias": "trap_114_smkbmb#19",
         "uniEquipIds": null,
@@ -5982,10 +6002,11 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
-        "initialCnt": 0,
+        "initialCnt": 1,
         "hidden": true,
         "alias": "trap_114_smkbmb#20",
         "uniEquipIds": null,
@@ -6002,10 +6023,11 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
-        "initialCnt": 0,
+        "initialCnt": 1,
         "hidden": true,
         "alias": "trap_114_smkbmb#21",
         "uniEquipIds": null,
@@ -6022,10 +6044,11 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
-        "initialCnt": 0,
+        "initialCnt": 1,
         "hidden": true,
         "alias": "trap_114_smkbmb#22",
         "uniEquipIds": null,
@@ -6042,10 +6065,11 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
-        "initialCnt": 0,
+        "initialCnt": 1,
         "hidden": true,
         "alias": "trap_114_smkbmb#23",
         "uniEquipIds": null,
@@ -6062,10 +6086,11 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
-        "initialCnt": 0,
+        "initialCnt": 1,
         "hidden": true,
         "alias": "trap_114_smkbmb#24",
         "uniEquipIds": null,
@@ -6082,10 +6107,11 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
-        "initialCnt": 0,
+        "initialCnt": 1,
         "hidden": true,
         "alias": "trap_114_smkbmb#25",
         "uniEquipIds": null,
@@ -6102,10 +6128,11 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
-        "initialCnt": 0,
+        "initialCnt": 1,
         "hidden": true,
         "alias": "trap_114_smkbmb#26",
         "uniEquipIds": null,
@@ -6122,10 +6149,11 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
-        "initialCnt": 0,
+        "initialCnt": 1,
         "hidden": true,
         "alias": "trap_114_smkbmb#27",
         "uniEquipIds": null,
@@ -6142,10 +6170,11 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
-        "initialCnt": 0,
+        "initialCnt": 1,
         "hidden": true,
         "alias": "trap_114_smkbmb#28",
         "uniEquipIds": null,
@@ -6162,10 +6191,11 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
-        "initialCnt": 0,
+        "initialCnt": 1,
         "hidden": true,
         "alias": "trap_114_smkbmb#29",
         "uniEquipIds": null,
@@ -6182,10 +6212,11 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
-        "initialCnt": 0,
+        "initialCnt": 1,
         "hidden": true,
         "alias": "trap_114_smkbmb#30",
         "uniEquipIds": null,
@@ -6202,7 +6233,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       }
     ]
   },

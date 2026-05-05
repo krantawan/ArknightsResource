@@ -10,6 +10,7 @@
     "isTrainingLevel": false,
     "isHardTrainingLevel": false,
     "isPredefinedCardsSelectable": false,
+    "displayRestTime": false,
     "maxPlayTime": -1.0,
     "functionDisableMask": 0,
     "configBlackBoard": [
@@ -3022,6 +3023,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "epBreakRecoverSpeed": {
+            "m_defined": false,
+            "m_value": 0.0
+          },
           "stunImmune": {
             "m_defined": false,
             "m_value": false
@@ -3051,6 +3056,10 @@
             "m_value": false
           },
           "palsyImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
             "m_defined": false,
             "m_value": false
           }
@@ -3217,6 +3226,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "epBreakRecoverSpeed": {
+            "m_defined": false,
+            "m_value": 0.0
+          },
           "stunImmune": {
             "m_defined": false,
             "m_value": false
@@ -3246,6 +3259,10 @@
             "m_value": false
           },
           "palsyImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
             "m_defined": false,
             "m_value": false
           }
@@ -3938,6 +3955,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_107_liskam",
           "level": 70,
@@ -3949,7 +3967,8 @@
         "mainSkillLvl": 7,
         "skinId": "char_107_liskam@nian#2",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -3961,6 +3980,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_106_franka",
           "level": 70,
@@ -3972,7 +3992,8 @@
         "mainSkillLvl": 7,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -3984,6 +4005,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_101_sora",
           "level": 1,
@@ -3995,7 +4017,8 @@
         "mainSkillLvl": 1,
         "skinId": "char_101_sora@epoque#17",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       }
     ],
     "tokenInsts": [],
@@ -4005,6 +4028,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_376_therex",
           "level": 30,
@@ -4016,13 +4040,15 @@
         "mainSkillLvl": 1,
         "skinId": "char_376_therex@marthe#7",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_236_rope",
           "level": 10,
@@ -4034,13 +4060,15 @@
         "mainSkillLvl": 7,
         "skinId": "char_236_rope@witch#1",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_103_angel",
           "level": 40,
@@ -4052,13 +4080,15 @@
         "mainSkillLvl": 7,
         "skinId": "char_103_angel@sale#8",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_219_meteo",
           "level": 10,
@@ -4070,13 +4100,15 @@
         "mainSkillLvl": 7,
         "skinId": "char_219_meteo@sweep#1",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_102_texas",
           "level": 40,
@@ -4088,13 +4120,15 @@
         "mainSkillLvl": 4,
         "skinId": "char_102_texas@epoque#7",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_235_jesica",
           "level": 40,
@@ -4106,13 +4140,15 @@
         "mainSkillLvl": 4,
         "skinId": "char_235_jesica@nian#2",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_479_sleach",
           "level": 10,
@@ -4124,13 +4160,15 @@
         "mainSkillLvl": 7,
         "skinId": "char_479_sleach@summer#11",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_222_bpipe",
           "level": 10,
@@ -4142,13 +4180,15 @@
         "mainSkillLvl": 7,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_148_nearl",
           "level": 10,
@@ -4160,7 +4200,8 @@
         "mainSkillLvl": 7,
         "skinId": "char_148_nearl@summer#2",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       }
     ],
     "tokenCards": []

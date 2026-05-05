@@ -247,6 +247,23 @@
       "bindMainlineRetroZoneId": "permanent_main_2_zone1",
       "diamondRewardCount": 39
     },
+    "act4mainss_zone1": {
+      "zoneID": "act4mainss_zone1",
+      "zoneIndex": 0,
+      "type": "MAINLINE_ACTIVITY",
+      "zoneNameFirst": "Critical Phase Transition",
+      "zoneNameSecond": "相变临界",
+      "zoneNameTitleCurrent": "17",
+      "zoneNameTitleUnCurrent": "17",
+      "zoneNameTitleEx": "EPISODE",
+      "zoneNameThird": "EPISODE 17",
+      "lockedText": "完成上一章以解锁",
+      "antiSpoilerId": "main_15",
+      "canPreview": false,
+      "sixStarMilestoneGroupId": "main_17",
+      "bindMainlineRetroZoneId": "permanent_main_3_zone1",
+      "diamondRewardCount": 36
+    },
     "weekly_1": {
       "zoneID": "weekly_1",
       "zoneIndex": 1,
@@ -914,6 +931,97 @@
       "zoneID": "rogue_5",
       "zoneIndex": 5,
       "type": "ROGUELIKE",
+      "zoneNameFirst": null,
+      "zoneNameSecond": null,
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false
+    },
+    "act3enemyduel_zone1": {
+      "zoneID": "act3enemyduel_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": null,
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false
+    },
+    "act51side_zone1": {
+      "zoneID": "act51side_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "告别天真年代",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false
+    },
+    "act51side_zone2": {
+      "zoneID": "act51side_zone2",
+      "zoneIndex": 1,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "踏入新生黎明",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false
+    },
+    "act7fun_zone1": {
+      "zoneID": "act7fun_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": null,
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false
+    },
+    "act41sre_zone1": {
+      "zoneID": "act41sre_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "摇曳的影",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false
+    },
+    "act41sre_zone2": {
+      "zoneID": "act41sre_zone2",
+      "zoneIndex": 1,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "将熄的火",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false
+    },
+    "act2autochess_zone1": {
+      "zoneID": "act2autochess_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
       "zoneNameFirst": null,
       "zoneNameSecond": null,
       "zoneNameTitleCurrent": null,
@@ -4686,6 +4794,22 @@
       "sixStarMilestoneGroupId": "main_16",
       "bindMainlineZoneId": "act3mainss_zone1"
     },
+    "permanent_main_3_zone1": {
+      "zoneID": "permanent_main_3_zone1",
+      "zoneIndex": 0,
+      "type": "MAINLINE_RETRO",
+      "zoneNameFirst": "Critical Phase Transition",
+      "zoneNameSecond": "相变临界",
+      "zoneNameTitleCurrent": "17",
+      "zoneNameTitleUnCurrent": "17",
+      "zoneNameTitleEx": "EPISODE",
+      "zoneNameThird": "EPISODE 17",
+      "lockedText": "完成上一章以解锁",
+      "antiSpoilerId": "main_15",
+      "canPreview": false,
+      "sixStarMilestoneGroupId": "main_17",
+      "bindMainlineZoneId": "act4mainss_zone1"
+    },
     "permanent_sidestory_1_zone1": {
       "zoneID": "permanent_sidestory_1_zone1",
       "zoneIndex": 0,
@@ -5647,6 +5771,32 @@
       "zoneNameThird": null,
       "lockedText": null,
       "canPreview": false
+    },
+    "permanent_sidestory_31_zone1": {
+      "zoneID": "permanent_sidestory_31_zone1",
+      "zoneIndex": 0,
+      "type": "SIDESTORY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "摇曳的影",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false
+    },
+    "permanent_sidestory_31_zone2": {
+      "zoneID": "permanent_sidestory_31_zone2",
+      "zoneIndex": 1,
+      "type": "SIDESTORY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "将熄的火",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false
     }
   },
   "weeklyAdditionInfo": {
@@ -5736,6 +5886,38 @@
     }
   },
   "zoneValidInfo": {
+    "act4mainss_zone1": {
+      "startTs": 1777590000,
+      "endTs": 1778788799
+    },
+    "act3enemyduel_zone1": {
+      "startTs": 1777123800,
+      "endTs": 1778270399
+    },
+    "act51side_zone1": {
+      "startTs": 1775516400,
+      "endTs": 1776715199
+    },
+    "act51side_zone2": {
+      "startTs": 1776153600,
+      "endTs": 1776715199
+    },
+    "act7fun_zone1": {
+      "startTs": 1775016000,
+      "endTs": 1775591999
+    },
+    "act41sre_zone1": {
+      "startTs": 1774598400,
+      "endTs": 1775419199
+    },
+    "act41sre_zone2": {
+      "startTs": 1774598400,
+      "endTs": 1775419199
+    },
+    "act2autochess_zone1": {
+      "startTs": 1773475200,
+      "endTs": 1777060799
+    },
     "act20mini_zone1": {
       "startTs": 1773097200,
       "endTs": 1773691199
@@ -5957,8 +6139,8 @@
       "endTs": 1745179199
     },
     "act6fun_zone1": {
-      "startTs": 1743494400,
-      "endTs": 1744055999
+      "startTs": 1775016000,
+      "endTs": 1775591999
     },
     "act1multi_zone1": {
       "startTs": 1742457600,
@@ -6665,8 +6847,8 @@
       "endTs": 1619639999
     },
     "act17d7_zone1": {
-      "startTs": 1743494400,
-      "endTs": 1744055999
+      "startTs": 1775016000,
+      "endTs": 1775591999
     },
     "act17d5_zone1": {
       "startTs": 1617091200,
@@ -7119,8 +7301,26 @@
       "preposedZoneId": "act2mainss_zone1",
       "zoneIndex": 0,
       "startStageId": "st_16-01",
-      "endStageId": "st_16-03",
+      "endStageId": "st_16-02",
       "gameMusicId": "music_3in1bg_main16",
+      "recapId": "",
+      "recapPreStageId": "",
+      "buttonName": "",
+      "buttonStyle": "NONE",
+      "spoilAlert": false,
+      "zoneOpenTime": -1,
+      "diffGroup": [
+        2
+      ]
+    },
+    "act4mainss_zone1": {
+      "zoneId": "act4mainss_zone1",
+      "chapterId": "chapter_3",
+      "preposedZoneId": "act3mainss_zone1",
+      "zoneIndex": 0,
+      "startStageId": "st_17-01",
+      "endStageId": "st_17-04",
+      "gameMusicId": "music_3in1bg_main17",
       "recapId": "",
       "recapPreStageId": "",
       "buttonName": "",
@@ -9307,7 +9507,8 @@
     "main_13",
     "main_14",
     "permanent_main_1_zone1",
-    "permanent_main_2_zone1"
+    "permanent_main_2_zone1",
+    "permanent_main_3_zone1"
   ],
   "zoneMetaData": {
     "ZoneRecordMissionData": {

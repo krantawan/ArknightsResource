@@ -3,12 +3,15 @@ local list =
 {
   
   "HotFixes/TestStubHotfixer",
-  "HotFixes/CGGalleryHotfixer",
-  "HotFixes/AutoChessUtilHotfixer",
-  "HotFixes/AdvancedSelectorWithEnemyOptionsHotfixer",
-  "HotFixes/PCHotfixer",
-  "HotFixes/AbilityEventCounterHotfixer",
-  "HotFixes/WangVisualStoneCtrlAbilityHotfixer"
+  "HotFixes/SandboxV3BattleManagerHotfixer",
+  "HotFixes/BuildingScoreManagerHotfixer",
+  "HotFixes/AdvancedSelectorForSandboxV3GatherHotfixer",
+  "HotFixes/FogCameraHotfixer",
+  "HotFixes/SandboxV3BattleUtilsHotfixer",
+  "HotFixes/SandboxV3DungeonHotfixer",
+  "HotFixes/EnemyDualHotfixer",
+  "HotFixes/NameCardSkinParticleScalerHotfixer",
+  "HotFixes/RoguelikeDeifyGameModeHotfixer",
 };
 
 return list;

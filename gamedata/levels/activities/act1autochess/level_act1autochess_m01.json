@@ -147,7 +147,7 @@
   },
   "levelId": null,
   "mapId": null,
-  "bgmEvent": "act1vautochess_shop",
+  "bgmEvent": "act1autochess_shop",
   "environmentSe": null,
   "mapData": {
     "map": [
@@ -4454,7 +4454,208 @@
   ],
   "branches": null,
   "predefines": {
-    "characterInsts": [],
+    "characterInsts": [
+      {
+        "position": {
+          "row": 10,
+          "col": 2
+        },
+        "direction": 1,
+        "hidden": true,
+        "alias": "char_605_cmedic#1",
+        "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
+        "inst": {
+          "characterKey": "char_605_cmedic",
+          "level": 55,
+          "phase": 1,
+          "favorPoint": 0,
+          "potentialRank": 0
+        },
+        "skillIndex": 1,
+        "mainSkillLvl": 7,
+        "skinId": "",
+        "tmplId": null,
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
+      },
+      {
+        "position": {
+          "row": 10,
+          "col": 10
+        },
+        "direction": 1,
+        "hidden": true,
+        "alias": "char_605_cmedic#2_multi_only",
+        "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
+        "inst": {
+          "characterKey": "char_605_cmedic",
+          "level": 55,
+          "phase": 1,
+          "favorPoint": 0,
+          "potentialRank": 0
+        },
+        "skillIndex": 1,
+        "mainSkillLvl": 7,
+        "skinId": null,
+        "tmplId": null,
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
+      },
+      {
+        "position": {
+          "row": 3,
+          "col": 2
+        },
+        "direction": 1,
+        "hidden": true,
+        "alias": "char_605_cmedic#3",
+        "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
+        "inst": {
+          "characterKey": "char_605_cmedic",
+          "level": 55,
+          "phase": 1,
+          "favorPoint": 0,
+          "potentialRank": 0
+        },
+        "skillIndex": 1,
+        "mainSkillLvl": 7,
+        "skinId": null,
+        "tmplId": null,
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
+      },
+      {
+        "position": {
+          "row": 3,
+          "col": 18
+        },
+        "direction": 3,
+        "hidden": true,
+        "alias": "char_605_cmedic#4_multi_only",
+        "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
+        "inst": {
+          "characterKey": "char_605_cmedic",
+          "level": 55,
+          "phase": 1,
+          "favorPoint": 0,
+          "potentialRank": 0
+        },
+        "skillIndex": 1,
+        "mainSkillLvl": 7,
+        "skinId": null,
+        "tmplId": null,
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
+      },
+      {
+        "position": {
+          "row": 10,
+          "col": 2
+        },
+        "direction": 1,
+        "hidden": true,
+        "alias": "char_613_acmedc#1",
+        "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
+        "inst": {
+          "characterKey": "char_613_acmedc",
+          "level": 60,
+          "phase": 2,
+          "favorPoint": 0,
+          "potentialRank": 0
+        },
+        "skillIndex": 2,
+        "mainSkillLvl": 10,
+        "skinId": "",
+        "tmplId": null,
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
+      },
+      {
+        "position": {
+          "row": 10,
+          "col": 10
+        },
+        "direction": 1,
+        "hidden": true,
+        "alias": "char_613_acmedc#2_multi_only",
+        "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
+        "inst": {
+          "characterKey": "char_613_acmedc",
+          "level": 60,
+          "phase": 2,
+          "favorPoint": 0,
+          "potentialRank": 0
+        },
+        "skillIndex": 2,
+        "mainSkillLvl": 10,
+        "skinId": null,
+        "tmplId": null,
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
+      },
+      {
+        "position": {
+          "row": 3,
+          "col": 2
+        },
+        "direction": 1,
+        "hidden": true,
+        "alias": "char_613_acmedc#3",
+        "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
+        "inst": {
+          "characterKey": "char_613_acmedc",
+          "level": 60,
+          "phase": 2,
+          "favorPoint": 0,
+          "potentialRank": 0
+        },
+        "skillIndex": 2,
+        "mainSkillLvl": 10,
+        "skinId": null,
+        "tmplId": null,
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
+      },
+      {
+        "position": {
+          "row": 3,
+          "col": 18
+        },
+        "direction": 3,
+        "hidden": true,
+        "alias": "char_613_acmedc#4_multi_only",
+        "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
+        "inst": {
+          "characterKey": "char_613_acmedc",
+          "level": 60,
+          "phase": 2,
+          "favorPoint": 0,
+          "potentialRank": 0
+        },
+        "skillIndex": 2,
+        "mainSkillLvl": 10,
+        "skinId": "",
+        "tmplId": null,
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
+      }
+    ],
     "tokenInsts": [
       {
         "position": {
@@ -4478,7 +4679,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -4502,7 +4704,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -4526,7 +4729,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -4550,7 +4754,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -4574,7 +4779,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -4598,7 +4804,8 @@
         "mainSkillLvl": 3,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -4622,7 +4829,8 @@
         "mainSkillLvl": 3,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -4646,7 +4854,8 @@
         "mainSkillLvl": 3,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -4670,7 +4879,8 @@
         "mainSkillLvl": 3,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -4694,7 +4904,8 @@
         "mainSkillLvl": 3,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -4718,7 +4929,8 @@
         "mainSkillLvl": 3,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -4742,7 +4954,8 @@
         "mainSkillLvl": 3,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -4766,7 +4979,8 @@
         "mainSkillLvl": 3,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -4790,7 +5004,8 @@
         "mainSkillLvl": 3,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -4814,7 +5029,8 @@
         "mainSkillLvl": 3,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -4838,7 +5054,8 @@
         "mainSkillLvl": 3,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -4862,7 +5079,8 @@
         "mainSkillLvl": 3,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       }
     ],
     "characterCards": [],

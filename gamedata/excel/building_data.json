@@ -14982,6 +14982,250 @@
           "buffData": []
         }
       ]
+    },
+    "char_4224_turdus": {
+      "charId": "char_4224_turdus",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "hire_spd&clue[120]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            },
+            {
+              "buffId": "hire_spd&clue[121]",
+              "cond": {
+                "phase": 2,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": []
+        }
+      ]
+    },
+    "char_4223_botany": {
+      "charId": "char_4223_botany",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "workshop_formula_cost3[001]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": [
+            {
+              "buffId": "workshop_formula_probability[032]",
+              "cond": {
+                "phase": 2,
+                "level": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "char_1051_headb2": {
+      "charId": "char_1051_headb2",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "manu_formula_spd&bd[000]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            },
+            {
+              "buffId": "manu_formula_spd&bd[001]",
+              "cond": {
+                "phase": 2,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": [
+            {
+              "buffId": "control_meeting_bd[000]",
+              "cond": {
+                "phase": 2,
+                "level": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "char_4228_closur": {
+      "charId": "char_4228_closur",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "control_mp_cost[014]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": [
+            {
+              "buffId": "trade_ord_closure[000]",
+              "cond": {
+                "phase": 2,
+                "level": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "char_1052_kalts2": {
+      "charId": "char_1052_kalts2",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "workshop_proc_probability[041]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            },
+            {
+              "buffId": "workshop_proc_probability[050]",
+              "cond": {
+                "phase": 2,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": [
+            {
+              "buffId": "hire_spd_tag[000]",
+              "cond": {
+                "phase": 2,
+                "level": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "char_4226_veen": {
+      "charId": "char_4226_veen",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "train_spd_doubleProf[301]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            },
+            {
+              "buffId": "train_spd_doubleProf[310]",
+              "cond": {
+                "phase": 2,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": [
+            {
+              "buffId": "manu_prod_spd_train&lv[000]",
+              "cond": {
+                "phase": 2,
+                "level": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "char_4225_tanya": {
+      "charId": "char_4225_tanya",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "dorm_rec_oneself[040]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": [
+            {
+              "buffId": "manu_formula_spd&limit&cost[100]",
+              "cond": {
+                "phase": 2,
+                "level": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "char_4227_gallus": {
+      "charId": "char_4227_gallus",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "power_rec_spd[0010]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": [
+            {
+              "buffId": "power_rec_spd_ext&tag[000]",
+              "cond": {
+                "phase": 0,
+                "level": 30
+              }
+            }
+          ]
+        }
+      ]
     }
   },
   "buffs": {
@@ -15360,6 +15604,21 @@
       "targetGroupSortId": 0,
       "targets": []
     },
+    "control_meeting_bd[000]": {
+      "buffId": "control_meeting_bd[000]",
+      "buffName": "“是，团长！”",
+      "buffIcon": "control",
+      "skillIcon": "bskill_ctrl_c_ussg",
+      "sortId": 1407,
+      "buffColor": "#005752",
+      "textColor": "#ffffff",
+      "buffCategory": "FUNCTION",
+      "roomType": "CONTROL",
+      "description": "进驻控制中枢时，自身心情每小时消耗<@cc.vdown>+0.5</>，每个进驻在会客室的<$cc.g.ussg><@cc.kw>乌萨斯学生自治团</></>干员，线索搜集速度<@cc.vup>+10%</>",
+      "efficiency": 0,
+      "targetGroupSortId": 0,
+      "targets": []
+    },
     "control_clue_cost[000]": {
       "buffId": "control_clue_cost[000]",
       "buffName": "神经质",
@@ -15621,6 +15880,21 @@
       "buffIcon": "control",
       "skillIcon": "bskill_ctrl_cost",
       "sortId": 1113,
+      "buffColor": "#005752",
+      "textColor": "#ffffff",
+      "buffCategory": "FUNCTION",
+      "roomType": "CONTROL",
+      "description": "进驻控制中枢时，控制中枢内所有干员的心情每小时恢复<@cc.vup>+0.05</>",
+      "efficiency": 0,
+      "targetGroupSortId": 0,
+      "targets": []
+    },
+    "control_mp_cost[014]": {
+      "buffId": "control_mp_cost[014]",
+      "buffName": "总工程师",
+      "buffIcon": "control",
+      "skillIcon": "bskill_ctrl_cost",
+      "sortId": 1114,
       "buffColor": "#005752",
       "textColor": "#ffffff",
       "buffCategory": "FUNCTION",
@@ -16695,6 +16969,21 @@
       "targetGroupSortId": 0,
       "targets": []
     },
+    "power_rec_spd[0010]": {
+      "buffId": "power_rec_spd[0010]",
+      "buffName": "鸡电工程",
+      "buffIcon": "power",
+      "skillIcon": "bskill_pow_spd1",
+      "sortId": 2009,
+      "buffColor": "#8fc31f",
+      "textColor": "#ffffff",
+      "buffCategory": "OUTPUT",
+      "roomType": "POWER",
+      "description": "进驻发电站时，无人机充能速度<@cc.vup>+10%</>",
+      "efficiency": 10,
+      "targetGroupSortId": 0,
+      "targets": []
+    },
     "power_count[000]": {
       "buffId": "power_count[000]",
       "buffName": "晨曦",
@@ -16766,6 +17055,21 @@
       "buffCategory": "OUTPUT",
       "roomType": "POWER",
       "description": "进驻发电站时，如果其他<$cc.g.laterano><@cc.kw>拉特兰</></>干员进驻在发电站，则无人机充能速度<@cc.vup>+5%</>",
+      "efficiency": 0,
+      "targetGroupSortId": 0,
+      "targets": []
+    },
+    "power_rec_spd_ext&tag[000]": {
+      "buffId": "power_rec_spd_ext&tag[000]",
+      "buffName": "鸡励机制",
+      "buffIcon": "power",
+      "skillIcon": "bskill_power_rec_spd_ext&tag",
+      "sortId": 2000,
+      "buffColor": "#8fc31f",
+      "textColor": "#ffffff",
+      "buffCategory": "OUTPUT",
+      "roomType": "POWER",
+      "description": "进驻发电站时，如果其他<$cc.tag.op><@cc.kw>作业平台</></>进驻在发电站，则无人机充能速度<@cc.vup>+5%</>",
       "efficiency": 0,
       "targetGroupSortId": 0,
       "targets": []
@@ -17929,6 +18233,25 @@
         "F_DIAMOND"
       ]
     },
+    "manu_prod_spd_train&lv[000]": {
+      "buffId": "manu_prod_spd_train&lv[000]",
+      "buffName": "手艺人",
+      "buffIcon": "manufacture",
+      "skillIcon": "bskill_man_spd_veen",
+      "sortId": 3602,
+      "buffColor": "#ffd800",
+      "textColor": "#333333",
+      "buffCategory": "OUTPUT",
+      "roomType": "MANUFACTURE",
+      "description": "进驻制造站时，训练室每级为当前制造站<@cc.vup>+10%</>生产力，最多<@cc.vup>30%</>",
+      "efficiency": 0,
+      "targetGroupSortId": 0,
+      "targets": [
+        "F_GOLD",
+        "F_EXP",
+        "F_DIAMOND"
+      ]
+    },
     "manu_prod_spd_bd_n1[000]": {
       "buffId": "manu_prod_spd_bd_n1[000]",
       "buffName": "超感",
@@ -18279,6 +18602,23 @@
       "buffCategory": "OUTPUT",
       "roomType": "MANUFACTURE",
       "description": "进驻制造站时，<@cc.kw>作战记录</>类配方的生产力<@cc.vup>+35%</>，心情每小时消耗<@cc.vup>-0.25</>",
+      "efficiency": 35,
+      "targetGroupSortId": 2,
+      "targets": [
+        "F_EXP"
+      ]
+    },
+    "manu_formula_spd&limit&cost[100]": {
+      "buffId": "manu_formula_spd&limit&cost[100]",
+      "buffName": "“连轴转”",
+      "buffIcon": "manufacture",
+      "skillIcon": "bskill_man_exp&spd&cost1",
+      "sortId": 3812,
+      "buffColor": "#ffd800",
+      "textColor": "#333333",
+      "buffCategory": "OUTPUT",
+      "roomType": "MANUFACTURE",
+      "description": "进驻制造站时，<@cc.kw>作战记录</>类配方的生产力<@cc.vup>+35%</>，心情每小时消耗<@cc.vdown>+0.25</>",
       "efficiency": 35,
       "targetGroupSortId": 2,
       "targets": [
@@ -18659,6 +18999,40 @@
         "F_EXP"
       ]
     },
+    "manu_formula_spd&bd[000]": {
+      "buffId": "manu_formula_spd&bd[000]",
+      "buffName": "战阵领袖",
+      "buffIcon": "manufacture",
+      "skillIcon": "bskill_formula_spd_headb1",
+      "sortId": 3026,
+      "buffColor": "#ffd800",
+      "textColor": "#333333",
+      "buffCategory": "OUTPUT",
+      "roomType": "MANUFACTURE",
+      "description": "进驻制造站时，<@cc.kw>作战记录</>类配方的生产力<@cc.vup>+30%</>",
+      "efficiency": 30,
+      "targetGroupSortId": 2,
+      "targets": [
+        "F_EXP"
+      ]
+    },
+    "manu_formula_spd&bd[001]": {
+      "buffId": "manu_formula_spd&bd[001]",
+      "buffName": "情同手足",
+      "buffIcon": "manufacture",
+      "skillIcon": "bskill_formula_spd_headb2",
+      "sortId": 3026,
+      "buffColor": "#ffd800",
+      "textColor": "#333333",
+      "buffCategory": "OUTPUT",
+      "roomType": "MANUFACTURE",
+      "description": "进驻制造站时，<@cc.kw>作战记录</>类配方的生产力<@cc.vup>+30%</>，当与<$cc.g.ussg><@cc.kw>乌萨斯学生自治团</></>干员在同一个制造站时，<@cc.kw>作战记录</>类配方的生产力额外<@cc.vup>+10%</>",
+      "efficiency": 30,
+      "targetGroupSortId": 2,
+      "targets": [
+        "F_EXP"
+      ]
+    },
     "manu_cost_all[000]": {
       "buffId": "manu_cost_all[000]",
       "buffName": "团队精神",
@@ -19001,6 +19375,21 @@
       "roomType": "TRADING",
       "description": "进驻贸易站时，订单获取效率<@cc.vup>+25%</>，会客室每级额外提供<@cc.vup>5%</>获取效率，最多提供<@cc.vup>40%</>效率",
       "efficiency": 25,
+      "targetGroupSortId": 0,
+      "targets": []
+    },
+    "trade_ord_closure[000]": {
+      "buffId": "trade_ord_closure[000]",
+      "buffName": "特别订单",
+      "buffIcon": "trading",
+      "skillIcon": "bskill_tra_closure",
+      "sortId": 4851,
+      "buffColor": "#0075a9",
+      "textColor": "#ffffff",
+      "buffCategory": "OUTPUT",
+      "roomType": "TRADING",
+      "description": "进驻贸易站时，订单获取效率<@cc.vup>+10%</>，固定获取<$cc.tra.closure><@cc.kw>可露希尔特别订单</></>（不视作违约订单）",
+      "efficiency": 10,
       "targetGroupSortId": 0,
       "targets": []
     },
@@ -20279,6 +20668,46 @@
         "F_ASC"
       ]
     },
+    "workshop_proc_probability[041]": {
+      "buffId": "workshop_proc_probability[041]",
+      "buffName": "技术阐明",
+      "buffIcon": "workshop",
+      "skillIcon": "bskill_ws_p5",
+      "sortId": 7142,
+      "buffColor": "#e3eb00",
+      "textColor": "#333333",
+      "buffCategory": "FUNCTION",
+      "roomType": "WORKSHOP",
+      "description": "进驻加工站加工<@cc.kw>任意类材料</>时，副产品的产出概率提升<@cc.vup>70%</>",
+      "efficiency": 70,
+      "targetGroupSortId": 0,
+      "targets": [
+        "F_BUILDING",
+        "F_EVOLVE",
+        "F_SKILL",
+        "F_ASC"
+      ]
+    },
+    "workshop_proc_probability[050]": {
+      "buffId": "workshop_proc_probability[050]",
+      "buffName": "理论革新",
+      "buffIcon": "workshop",
+      "skillIcon": "bskill_ws_p_kalts2",
+      "sortId": 7151,
+      "buffColor": "#e3eb00",
+      "textColor": "#333333",
+      "buffCategory": "FUNCTION",
+      "roomType": "WORKSHOP",
+      "description": "进驻加工站加工<@cc.kw>任意类材料</>时，副产品的产出概率提升<@cc.vup>80%</>",
+      "efficiency": 80,
+      "targetGroupSortId": 0,
+      "targets": [
+        "F_BUILDING",
+        "F_EVOLVE",
+        "F_SKILL",
+        "F_ASC"
+      ]
+    },
     "workshop_proc_cost[000]": {
       "buffId": "workshop_proc_cost[000]",
       "buffName": "御灵之力·金",
@@ -20808,6 +21237,23 @@
         "F_SKILL"
       ]
     },
+    "workshop_formula_cost3[001]": {
+      "buffId": "workshop_formula_cost3[001]",
+      "buffName": "宣传阵线",
+      "buffIcon": "workshop",
+      "skillIcon": "bskill_ws_skill_cost2",
+      "sortId": 7302,
+      "buffColor": "#e3eb00",
+      "textColor": "#333333",
+      "buffCategory": "FUNCTION",
+      "roomType": "WORKSHOP",
+      "description": "进驻加工站加工<@cc.kw>技巧概要</>时，心情消耗为<@cc.kw>2</>的配方全部<@cc.vup>-1</>心情消耗",
+      "efficiency": 0,
+      "targetGroupSortId": 3,
+      "targets": [
+        "F_SKILL"
+      ]
+    },
     "workshop_formula_cost3[101]": {
       "buffId": "workshop_formula_cost3[101]",
       "buffName": "谨慎加工",
@@ -21015,6 +21461,23 @@
     "workshop_formula_probability[031]": {
       "buffId": "workshop_formula_probability[031]",
       "buffName": "獠牙的技艺",
+      "buffIcon": "workshop",
+      "skillIcon": "bskill_ws_skill2",
+      "sortId": 7302,
+      "buffColor": "#e3eb00",
+      "textColor": "#333333",
+      "buffCategory": "FUNCTION",
+      "roomType": "WORKSHOP",
+      "description": "进驻加工站加工<@cc.kw>技巧概要</>时，副产品的产出概率提升<@cc.vup>75%</>",
+      "efficiency": 75,
+      "targetGroupSortId": 3,
+      "targets": [
+        "F_SKILL"
+      ]
+    },
+    "workshop_formula_probability[032]": {
+      "buffId": "workshop_formula_probability[032]",
+      "buffName": "灵感改装",
       "buffIcon": "workshop",
       "skillIcon": "bskill_ws_skill2",
       "sortId": 7302,
@@ -22255,6 +22718,42 @@
       "roomType": "TRAINING",
       "description": "进驻训练室协助位时，<@cc.kw>术师</>与<@cc.kw>近卫</>干员的专精技能训练速度<@cc.vup>+30%</>",
       "efficiency": 30,
+      "targetGroupSortId": 2,
+      "targets": [
+        "CASTER",
+        "WARRIOR"
+      ]
+    },
+    "train_spd_doubleProf[301]": {
+      "buffId": "train_spd_doubleProf[301]",
+      "buffName": "“我不懂啊”",
+      "buffIcon": "training",
+      "skillIcon": "bskill_train_caster&vanguard1",
+      "sortId": 9907,
+      "buffColor": "#7d0022",
+      "textColor": "#ffffff",
+      "buffCategory": "FUNCTION",
+      "roomType": "TRAINING",
+      "description": "进驻训练室协助位时，<@cc.kw>术师</>与<@cc.kw>近卫</>干员的专精技能训练速度<@cc.vup>+30%</>",
+      "efficiency": 30,
+      "targetGroupSortId": 2,
+      "targets": [
+        "CASTER",
+        "WARRIOR"
+      ]
+    },
+    "train_spd_doubleProf[310]": {
+      "buffId": "train_spd_doubleProf[310]",
+      "buffName": "“触类旁通”",
+      "buffIcon": "training",
+      "skillIcon": "bskill_train_caster&vanguard2",
+      "sortId": 9908,
+      "buffColor": "#7d0022",
+      "textColor": "#ffffff",
+      "buffCategory": "FUNCTION",
+      "roomType": "TRAINING",
+      "description": "进驻训练室协助位时，<@cc.kw>术师</>与<@cc.kw>近卫</>干员的专精技能训练速度<@cc.vup>+45%</>",
+      "efficiency": 45,
       "targetGroupSortId": 2,
       "targets": [
         "CASTER",
@@ -23726,6 +24225,21 @@
       "buffCategory": "RECOVERY",
       "roomType": "DORMITORY",
       "description": "进驻宿舍时，自身心情每小时恢复<@cc.vup>+1</>",
+      "efficiency": 0,
+      "targetGroupSortId": 0,
+      "targets": []
+    },
+    "dorm_rec_oneself[040]": {
+      "buffId": "dorm_rec_oneself[040]",
+      "buffName": "难得休憩",
+      "buffIcon": "dormitory",
+      "skillIcon": "bskill_dorm_one1",
+      "sortId": 5001,
+      "buffColor": "#21cdcb",
+      "textColor": "#ffffff",
+      "buffCategory": "RECOVERY",
+      "roomType": "DORMITORY",
+      "description": "进驻宿舍时，自身心情每小时恢复<@cc.vup>+0.55</>",
       "efficiency": 0,
       "targetGroupSortId": 0,
       "targets": []
@@ -25320,6 +25834,36 @@
       "targetGroupSortId": 0,
       "targets": []
     },
+    "hire_spd&clue[120]": {
+      "buffId": "hire_spd&clue[120]",
+      "buffName": "“号外！”",
+      "buffIcon": "hire",
+      "skillIcon": "bskill_hire_spd&clue3",
+      "sortId": 8402,
+      "buffColor": "#565656",
+      "textColor": "#ffffff",
+      "buffCategory": "FUNCTION",
+      "roomType": "HIRE",
+      "description": "进驻人力办公室时，人脉资源的联络速度<@cc.vup>+30%</>，同时每个招募位（不包含初始招募位）额外<@cc.vup>+5%</>会客室线索搜集速度",
+      "efficiency": 30,
+      "targetGroupSortId": 0,
+      "targets": []
+    },
+    "hire_spd&clue[121]": {
+      "buffId": "hire_spd&clue[121]",
+      "buffName": "街头法则",
+      "buffIcon": "hire",
+      "skillIcon": "bskill_hire_spd&clue4",
+      "sortId": 8401,
+      "buffColor": "#565656",
+      "textColor": "#ffffff",
+      "buffCategory": "FUNCTION",
+      "roomType": "HIRE",
+      "description": "进驻人力办公室时，人脉资源的联络速度<@cc.vup>+35%</>，同时每个招募位（不包含初始招募位）额外<@cc.vup>+5%</>会客室线索搜集速度",
+      "efficiency": 35,
+      "targetGroupSortId": 0,
+      "targets": []
+    },
     "hire_spd&clue2[230]": {
       "buffId": "hire_spd&clue2[230]",
       "buffName": "内幕",
@@ -25482,6 +26026,21 @@
       "roomType": "HIRE",
       "description": "进驻人力办公室时，人脉资源的联络速度<@cc.vup>+5%</>，每间宿舍每级额外<@cc.vup>+2%</>人脉资源的联络速度",
       "efficiency": 5,
+      "targetGroupSortId": 0,
+      "targets": []
+    },
+    "hire_spd_tag[000]": {
+      "buffId": "hire_spd_tag[000]",
+      "buffName": "“泰拉的方舟”",
+      "buffIcon": "hire",
+      "skillIcon": "bskill_hire_kalts2",
+      "sortId": 8500,
+      "buffColor": "#565656",
+      "textColor": "#ffffff",
+      "buffCategory": "FUNCTION",
+      "roomType": "HIRE",
+      "description": "进驻人力办公室时，人脉资源的联络速度<@cc.vup>+30%</>，基建内（不包含副手及活动室）每有一间进驻<$cc.g.elite><@cc.kw>精英干员</></>的设施，联络速度额外<@cc.vup>+4%</>（最多<@cc.kw>5</>间）",
+      "efficiency": 30,
       "targetGroupSortId": 0,
       "targets": []
     },
@@ -97699,6 +98258,1798 @@
         "enableRoomType": 4112,
         "quantity": 1
       },
+      "furni_ursusRoom_hangrack_01": {
+        "id": "furni_ursusRoom_hangrack_01",
+        "sortId": 2226,
+        "name": "绳网架",
+        "iconId": "furni_ursusRoom_hangrack_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "CEILING",
+        "subType": "DECORATION_C",
+        "location": "CEILING",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_ursusRoom",
+        "groupId": "furni_set_ursusRoom_1",
+        "width": 10,
+        "depth": 5,
+        "height": 3,
+        "comfort": 200,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "由粗绳编织而成的吊顶挂架，可用来挂置各类杂物。\n之前有人将自己的平底锅也挂在这里，自从其他成员进门时迎面撞到了头之后，锅就被放到别处了。",
+        "obtainApproach": "活动获得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_ursusRoom_ceilingLight_01": {
+        "id": "furni_ursusRoom_ceilingLight_01",
+        "sortId": 2227,
+        "name": "粗绳吊灯",
+        "iconId": "furni_ursusRoom_ceilingLight_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "CEILINGLAMP",
+        "subType": "NONE",
+        "location": "CEILING",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_ursusRoom",
+        "groupId": "furni_set_ursusRoom_1",
+        "width": 7,
+        "depth": 2,
+        "height": 5,
+        "comfort": 140,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "装饰着挂绳和布毯的小吊灯，灯光温暖柔和。\n第一次走进活动处时，苦艾怔怔地在这盏灯下站了许久，之后才缓慢意识到自己的确身处现实。",
+        "obtainApproach": "活动获得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_ursusRoom_cabinet_01": {
+        "id": "furni_ursusRoom_cabinet_01",
+        "sortId": 2228,
+        "name": "棕色边柜",
+        "iconId": "furni_ursusRoom_cabinet_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "CABINET",
+        "subType": "NONE",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_ursusRoom",
+        "groupId": "furni_set_ursusRoom_1",
+        "width": 2,
+        "depth": 4,
+        "height": 4,
+        "comfort": 160,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "不起眼的素色储物柜，外表看起来简单，但实际上十分扎实。\n许多自治团的过往记忆都被珍藏在里面，旧衣服、破旗帜，还有早露制作的那些早已磨损的勋章。",
+        "obtainApproach": "活动获得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_ursusRoom_hangcloth_01": {
+        "id": "furni_ursusRoom_hangcloth_01",
+        "sortId": 2229,
+        "name": "布艺墙贴",
+        "iconId": "furni_ursusRoom_hangcloth_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "WALLDECO",
+        "subType": "POSTER",
+        "location": "WALL",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": false,
+        "rarity": 2,
+        "themeId": "furni_set_ursusRoom",
+        "groupId": "furni_set_ursusRoom_1",
+        "width": 4,
+        "depth": 1,
+        "height": 4,
+        "comfort": 100,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "学生自治团的成员们制作的布艺作品，被精心贴在墙面上。\n在大家的合力帮助之下，凛冬也从一开始的只会撕布条，变得能做出一些很基础的图案了。",
+        "obtainApproach": "活动获得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_ursusRoom_woodcarving_01": {
+        "id": "furni_ursusRoom_woodcarving_01",
+        "sortId": 2230,
+        "name": "木雕套娃组",
+        "iconId": "furni_ursusRoom_woodcarving_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "SEATING",
+        "subType": "STOOL",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_ursusRoom",
+        "groupId": "furni_set_ursusRoom_1",
+        "width": 7,
+        "depth": 6,
+        "height": 6,
+        "comfort": 500,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "参考乌萨斯传统玩具套娃的形象雕成的木雕组，附送一个红木圆凳。\n缠绕在木雕上的丝带是早露挑选的，在大家集合之前，她亲手为所有套娃都做了装饰。",
+        "obtainApproach": "活动获得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_ursusRoom_fireplace_01": {
+        "id": "furni_ursusRoom_fireplace_01",
+        "sortId": 2231,
+        "name": "“青年之火”",
+        "iconId": "furni_ursusRoom_fireplace_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "DECORATION",
+        "subType": "WARM",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_ursusRoom",
+        "groupId": "furni_set_ursusRoom_2",
+        "width": 6,
+        "depth": 2,
+        "height": 5,
+        "comfort": 215,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "用砖石搭建的方形壁炉，装有防止柴火滚出的金属炉门。\n大家在清理完储物间后动手搭建了这座壁炉，时常能看到真理坐在旁边认真地读着书。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_ursusRoom_hangstuff_01": {
+        "id": "furni_ursusRoom_hangstuff_01",
+        "sortId": 2232,
+        "name": "“大家的架子”",
+        "iconId": "furni_ursusRoom_hangstuff_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "CEILING",
+        "subType": "ORTHER_C",
+        "location": "CEILING",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_ursusRoom",
+        "groupId": "furni_set_ursusRoom_2",
+        "width": 16,
+        "depth": 5,
+        "height": 5,
+        "comfort": 345,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "带有粗绳挂网的天花板饰架，自治团成员的许多私人用品都挂放在此处。\n那个篮子可以说是自治团的百宝箱，烘焙手套、针线盒、耳机，还有拨片，只要耐心翻找都能在里面找到。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_ursusRoom_hangcarpet_01": {
+        "id": "furni_ursusRoom_hangcarpet_01",
+        "sortId": 2233,
+        "name": "“自治团之色”",
+        "iconId": "furni_ursusRoom_hangcarpet_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "WALLDECO",
+        "subType": "ART_WD",
+        "location": "WALL",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": false,
+        "rarity": 2,
+        "themeId": "furni_set_ursusRoom",
+        "groupId": "furni_set_ursusRoom_2",
+        "width": 8,
+        "depth": 1,
+        "height": 5,
+        "comfort": 150,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "固定在墙面上的木架子，上面挂着自治团成员手工制作的多彩作品。\n缝在凛冬肩上的多彩布条是大家在罗德岛时做好的，它们凝聚着自治团成员的心愿与理想。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_ursusRoom_woodstake_01": {
+        "id": "furni_ursusRoom_woodstake_01",
+        "sortId": 2234,
+        "name": "暂歇树桩",
+        "iconId": "furni_ursusRoom_woodstake_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "DECORATION",
+        "subType": "INSTRUMENT_D",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_ursusRoom",
+        "groupId": "furni_set_ursusRoom_2",
+        "width": 3,
+        "depth": 3,
+        "height": 5,
+        "comfort": 180,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "一根沉重的原木桩，还包裹了装饰用的皮革。\n烈夏的吉他过去一直挂在真理房间的墙壁上，如今自治团有了新据点，这件乐器也找到了新的依靠。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_ursusRoom_stool_01": {
+        "id": "furni_ursusRoom_stool_01",
+        "sortId": 2235,
+        "name": "手工木板凳",
+        "iconId": "furni_ursusRoom_stool_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "SEATING",
+        "subType": "STOOL",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_ursusRoom",
+        "groupId": "furni_set_ursusRoom_2",
+        "width": 3,
+        "depth": 2,
+        "height": 2,
+        "comfort": 135,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "以最简朴的方式组装起来的木板凳，也许是因为长期使用，凳脚有些不平齐。\n可以在此读书、演奏，或者吃一颗蜂蜜糖，虽然坐上去有些晃，但这是整个活动处最抢手的位置之一。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_ursusRoom_carpet_01": {
+        "id": "furni_ursusRoom_carpet_01",
+        "sortId": 2236,
+        "name": "“毛毛绒毯”",
+        "iconId": "furni_ursusRoom_carpet_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "CARPET",
+        "subType": "NONE",
+        "location": "CARPET",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_ursusRoom",
+        "groupId": "furni_set_ursusRoom_3",
+        "width": 17,
+        "depth": 7,
+        "height": 1,
+        "comfort": 145,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "说是绒毯，其实就是清洗和鞣化之后的整张裂兽毛皮。\n被大家从一堆箱子中翻出来的时候，毛皮上还带着裂兽的头和爪子，明显是之前用来变装的道具。",
+        "obtainApproach": "活动获得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_ursusRoom_stool_02": {
+        "id": "furni_ursusRoom_stool_02",
+        "sortId": 2237,
+        "name": "小型高脚凳",
+        "iconId": "furni_ursusRoom_stool_02",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "SEATING",
+        "subType": "BARSTOOL",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_ursusRoom",
+        "groupId": "furni_set_ursusRoom_3",
+        "width": 2,
+        "depth": 2,
+        "height": 3,
+        "comfort": 120,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "原木条拼接成的高脚凳，不常坐人，更多用来放置小物件。\n给古米准备的新围巾马上就要织完了，等她下次回到活动处，一起见证她的笑容吧。",
+        "obtainApproach": "活动获得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_ursusRoom_window_01": {
+        "id": "furni_ursusRoom_window_01",
+        "sortId": 2238,
+        "name": "带框小窗",
+        "iconId": "furni_ursusRoom_window_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "WALLDECO",
+        "subType": "ORTHER_WD",
+        "location": "WALL",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": false,
+        "rarity": 2,
+        "themeId": "furni_set_ursusRoom",
+        "groupId": "furni_set_ursusRoom_3",
+        "width": 4,
+        "depth": 2,
+        "height": 6,
+        "comfort": 145,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "剧院储物间唯一的小玻璃窗，窗台上可以摆放各种装饰品。\n古米偶尔会站在窗边看向远方，期待着某个和她立下约定的人能带来自己最想听到的消息。",
+        "obtainApproach": "活动获得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_ursusRoom_table_01": {
+        "id": "furni_ursusRoom_table_01",
+        "sortId": 2239,
+        "name": "集会长桌",
+        "iconId": "furni_ursusRoom_table_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "TABLE",
+        "subType": "NONE",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_ursusRoom",
+        "groupId": "furni_set_ursusRoom_3",
+        "width": 10,
+        "depth": 4,
+        "height": 5,
+        "comfort": 460,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "以整块木板作为桌面的长桌，虽风格粗野但自治团成员将其收拾得十分整洁。\n桌上那个新雕刻的套娃，是一份为新成员准备的礼物。",
+        "obtainApproach": "活动获得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_ursusRoom_basin_01": {
+        "id": "furni_ursusRoom_basin_01",
+        "sortId": 2240,
+        "name": "制式木盆",
+        "iconId": "furni_ursusRoom_basin_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "DECORATION",
+        "subType": "WASH",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_ursusRoom",
+        "groupId": "furni_set_ursusRoom_3",
+        "width": 2,
+        "depth": 2,
+        "height": 2,
+        "comfort": 110,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "剧院为工作人员配发的带把手的木盆，表面涂有防水树胶。\n对来到这里的学生而言，这种小巧的水盆正好可以当作别样的插花用具。",
+        "obtainApproach": "活动获得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_ursusRoom_hangcarpet_02": {
+        "id": "furni_ursusRoom_hangcarpet_02",
+        "sortId": 2241,
+        "name": "风铃挂毯架",
+        "iconId": "furni_ursusRoom_hangcarpet_02",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "WALLDECO",
+        "subType": "BOARD_WD",
+        "location": "WALL",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": false,
+        "rarity": 2,
+        "themeId": "furni_set_ursusRoom",
+        "groupId": "furni_set_ursusRoom_4",
+        "width": 5,
+        "depth": 1,
+        "height": 7,
+        "comfort": 170,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "挂放各类毯子的架子，顶端还挂着一只铜风铃。\n真理经常会读书到很晚才休息，用来抵御夜晚寒意的毯子对她来说不可或缺。",
+        "obtainApproach": "活动获得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_ursusRoom_cabinet_02": {
+        "id": "furni_ursusRoom_cabinet_02",
+        "sortId": 2242,
+        "name": "纯木置物架",
+        "iconId": "furni_ursusRoom_cabinet_02",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "CABINET",
+        "subType": "NONE",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_ursusRoom",
+        "groupId": "furni_set_ursusRoom_4",
+        "width": 3,
+        "depth": 5,
+        "height": 8,
+        "comfort": 295,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "原本用来存放各类舞台道具的多层储物架，现在上面摆的多是自治团成员的生活用品。\n虽然坐在一边东倒西歪的烈夏坚称她没有醉，但看看架子上打开的蜜罐，事实就不言自明了。",
+        "obtainApproach": "活动获得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_ursusRoom_wallpaper_01": {
+        "id": "furni_ursusRoom_wallpaper_01",
+        "sortId": 2243,
+        "name": "“风雪之后”",
+        "iconId": "furni_ursusRoom_wallpaper_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "WALLPAPER",
+        "subType": "NONE",
+        "location": "NONE",
+        "category": "WALL",
+        "validOnRotate": false,
+        "enableRotate": false,
+        "rarity": 2,
+        "themeId": "furni_set_ursusRoom",
+        "groupId": "furni_set_ursusRoom_4",
+        "width": 34,
+        "depth": 1,
+        "height": 10,
+        "comfort": 240,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "学生自治团活动处的墙壁，每一块石头和每一根木头都显得朴素而敦实。\n剧场已经不会再上演宏大的戏剧，但储物间里由她们的小小火种所书写的故事还远未完结。",
+        "obtainApproach": "活动获得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_ursusRoom_floor_01": {
+        "id": "furni_ursusRoom_floor_01",
+        "sortId": 2244,
+        "name": "“烛火之中”",
+        "iconId": "furni_ursusRoom_floor_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "FLOOR",
+        "subType": "NONE",
+        "location": "NONE",
+        "category": "FLOOR",
+        "validOnRotate": false,
+        "enableRotate": false,
+        "rarity": 2,
+        "themeId": "furni_set_ursusRoom",
+        "groupId": "furni_set_ursusRoom_4",
+        "width": 34,
+        "depth": 10,
+        "height": 1,
+        "comfort": 240,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "学生自治团活动处的原木地板，未经过多修饰和打磨，但同样坚韧耐用。\n历经了封锁区事件的跌宕起伏后，自治团终于能远离苦寒，在熟悉的空间齐聚。",
+        "obtainApproach": "活动获得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_closureRoom_shelf_01": {
+        "id": "furni_closureRoom_shelf_01",
+        "sortId": 2245,
+        "name": "时钟小柜",
+        "iconId": "furni_closureRoom_shelf_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "CABINET",
+        "subType": "NONE",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_closureRoom",
+        "groupId": "furni_set_closureRoom_1",
+        "width": 4,
+        "depth": 2,
+        "height": 4,
+        "comfort": 185,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "搭载电子时钟的小型收纳柜，透明柜门可通过时钟旁的按钮控制开启。\n放满了可露希尔爱喝的高糖功能饮料，能有效恢复理智。放心，血魔可不怕胖！",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 153,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_closureRoom_collectioncabinet_01": {
+        "id": "furni_closureRoom_collectioncabinet_01",
+        "sortId": 2246,
+        "name": "多用途音乐机",
+        "iconId": "furni_closureRoom_collectioncabinet_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "DECORATION",
+        "subType": "ENTERTAINMENT",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_closureRoom",
+        "groupId": "furni_set_closureRoom_1",
+        "width": 3,
+        "depth": 3,
+        "height": 8,
+        "comfort": 250,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "集播放、收藏、展示功能于一体的音乐播放机，音频波显示器还能调节多种显示模式。\n经过可露希尔的全方位改造，现在它已经可以基于可露希尔的实时精神状况自动播放D.D.D.的不同专辑了。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 185,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_closureRoom_computerdesk_01": {
+        "id": "furni_closureRoom_computerdesk_01",
+        "sortId": 2247,
+        "name": "“第一控制台”",
+        "iconId": "furni_closureRoom_computerdesk_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "TABLE",
+        "subType": "NONE",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_closureRoom",
+        "groupId": "furni_set_closureRoom_1",
+        "width": 6,
+        "depth": 5,
+        "height": 9,
+        "comfort": 570,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "可露希尔的大型电子工作站，包含一体化主机、自适配外设和多个超清晰屏幕。\n能同时执行阅读消息、监测罗德岛运作状况、审核账目、学习邪道速通手法等各种操作，并能确保所有细节都尽收眼底。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 420,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_closureRoom_ledchair_01": {
+        "id": "furni_closureRoom_ledchair_01",
+        "sortId": 2248,
+        "name": "流光坐凳",
+        "iconId": "furni_closureRoom_ledchair_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "SEATING",
+        "subType": "BENCH",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_closureRoom",
+        "groupId": "furni_set_closureRoom_1",
+        "width": 5,
+        "depth": 2,
+        "height": 2,
+        "comfort": 170,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "侧面装饰着可变灯光的一组坐凳，灯光图案会根据凳子的组合形态发生变化。\n可露希尔时常能在罗德岛的媒体库中找到一些风格小众的怪奇电影，然后她会四处拐来其他干员坐上凳子陪她一起观看。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 140,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_closureRoom_poster_01": {
+        "id": "furni_closureRoom_poster_01",
+        "sortId": 2249,
+        "name": "《心连心》海报",
+        "iconId": "furni_closureRoom_poster_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "WALLDECO",
+        "subType": "POSTER",
+        "location": "POSTER",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": false,
+        "rarity": 2,
+        "themeId": "furni_set_closureRoom",
+        "groupId": "furni_set_closureRoom_2",
+        "width": 2,
+        "depth": 1,
+        "height": 2,
+        "comfort": 60,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "视相博物馆中的游玩项目——《心连心》的游戏海报，赛季获胜者的奖品之一。\n积分榜上可露希尔和很多挑战者都获得了满分，最后她靠着坐得离服务器最近，在分数达成时间的判定上获胜。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 55,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_closureRoom_poster_02": {
+        "id": "furni_closureRoom_poster_02",
+        "sortId": 2250,
+        "name": "《狂弹要塞》海报",
+        "iconId": "furni_closureRoom_poster_02",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "WALLDECO",
+        "subType": "POSTER",
+        "location": "POSTER",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": false,
+        "rarity": 2,
+        "themeId": "furni_set_closureRoom",
+        "groupId": "furni_set_closureRoom_2",
+        "width": 4,
+        "depth": 1,
+        "height": 3,
+        "comfort": 105,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "游戏《狂弹要塞》的宣传海报，上面还贴着一张“开发者贴纸”。\n游戏初版时还有个以这张海报作为封面的开发幕后视频，后来因为游戏差评率太高，视频已经不再公开了。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 95,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_closureRoom_officedesk_01": {
+        "id": "furni_closureRoom_officedesk_01",
+        "sortId": 2251,
+        "name": "“全能工作站”",
+        "iconId": "furni_closureRoom_officedesk_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "TABLE",
+        "subType": "NONE",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_closureRoom",
+        "groupId": "furni_set_closureRoom_2",
+        "width": 8,
+        "depth": 2,
+        "height": 6,
+        "comfort": 335,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "可露希尔的副工作站，性能配置与主工作站相同，但整体设计更加简洁易用。\n她在此开发了“罗德岛全舰调控”和“争锋频道自动评估投注”程序，然而测试阶段使用的账号就分别惨遭凯尔希和主办方封禁。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 248,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_closureRoom_chair_01": {
+        "id": "furni_closureRoom_chair_01",
+        "sortId": 2252,
+        "name": "自调节工作椅",
+        "iconId": "furni_closureRoom_chair_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "SEATING",
+        "subType": "CHAIR",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_closureRoom",
+        "groupId": "furni_set_closureRoom_2",
+        "width": 5,
+        "depth": 4,
+        "height": 4,
+        "comfort": 290,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "经过个性化改良的人体工学工作椅，可以应使用者的需求自动进行各种形态调整。\n这把工作椅的舒适度完全对得起它的造价，工程部复刻它时可露希尔在旁边嚼着薯片说：“就该给每个人都配一把。”",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 215,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_closureRoom_stool_01": {
+        "id": "furni_closureRoom_stool_01",
+        "sortId": 2253,
+        "name": "“信号干扰”小凳",
+        "iconId": "furni_closureRoom_stool_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "SEATING",
+        "subType": "STOOL",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_closureRoom",
+        "groupId": "furni_set_closureRoom_3",
+        "width": 2,
+        "depth": 2,
+        "height": 2,
+        "comfort": 130,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "印有模拟信号故障图案的小凳，由数个带着相似图案的部分拼装而成。\n按可露希尔的说法，把故障放在外面，自己开发程序的时候故障率就会降低。当然这句话被证实只是她的一厢情愿而已。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 118,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_closureRoom_ceilingLight_01": {
+        "id": "furni_closureRoom_ceilingLight_01",
+        "sortId": 2254,
+        "name": "“机械的光芒”",
+        "iconId": "furni_closureRoom_ceilingLight_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "CEILINGLAMP",
+        "subType": "NONE",
+        "location": "CEILING",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_closureRoom",
+        "groupId": "furni_set_closureRoom_3",
+        "width": 5,
+        "depth": 2,
+        "height": 4,
+        "comfort": 125,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "带有多个机械垂臂的吊顶灯，亮度与照明角度均可直接通过工作站控制。\n可露希尔给吊灯设计了许多与游戏和影音系统配合的灯光样式程序，但近些日子她用得最多的样式除了“办公”就是“睡眠”了。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 113,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_closureRoom_equipmentdesk_01": {
+        "id": "furni_closureRoom_equipmentdesk_01",
+        "sortId": 2255,
+        "name": "设备展示桌",
+        "iconId": "furni_closureRoom_equipmentdesk_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "TABLE",
+        "subType": "NONE",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_closureRoom",
+        "groupId": "furni_set_closureRoom_3",
+        "width": 3,
+        "depth": 4,
+        "height": 5,
+        "comfort": 250,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "用来展示可露希尔收藏的外接设备的桌子，所有展示空间都由她亲自打造。\n“你问我为什么不用之前那款手柄了？那不都是两个月前的过时款式了，我已经在开发新的了。”",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 205,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_closureRoom_cabinet_01": {
+        "id": "furni_closureRoom_cabinet_01",
+        "sortId": 2256,
+        "name": "“成就展柜”",
+        "iconId": "furni_closureRoom_cabinet_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "CABINET",
+        "subType": "NONE",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_closureRoom",
+        "groupId": "furni_set_closureRoom_3",
+        "width": 6,
+        "depth": 3,
+        "height": 10,
+        "comfort": 445,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "可露希尔的个人储物柜，或者用她自己的话说，是她的“奖杯收藏室”。\n存放着各类游戏比赛和游戏开发比赛的奖杯，不过明眼人都看得出，自从她身上的担子加重之后，奖杯已经很久没有增加过了。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 328,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_closureRoom_table_01": {
+        "id": "furni_closureRoom_table_01",
+        "sortId": 2257,
+        "name": "可调温小桌",
+        "iconId": "furni_closureRoom_table_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "TABLE",
+        "subType": "NONE",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_closureRoom",
+        "groupId": "furni_set_closureRoom_4",
+        "width": 3,
+        "depth": 2,
+        "height": 3,
+        "comfort": 185,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "以整块温控板作为桌面的桌子，能方便地对放置在其上的物品进行快速加热或冰镇。\n专为研究珍稀热敏材料设计出的平台，但绝大多数时间仅用于修理博士的热水壶。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 168,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_closureRoom_workbench_01": {
+        "id": "furni_closureRoom_workbench_01",
+        "sortId": 2258,
+        "name": "“工学奇迹台”",
+        "iconId": "furni_closureRoom_workbench_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "TABLE",
+        "subType": "NONE",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_closureRoom",
+        "groupId": "furni_set_closureRoom_4",
+        "width": 3,
+        "depth": 5,
+        "height": 6,
+        "comfort": 290,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "结合了机械与电子设备维修功能的工作台，附带存储各类维修工具的储藏柜。\n可露希尔一直都希望博士能再给她拨点预算，给工作台再加上高温锻烧炉和液压机。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 215,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_closureRoom_carpet_01": {
+        "id": "furni_closureRoom_carpet_01",
+        "sortId": 2259,
+        "name": "感应式地毯",
+        "iconId": "furni_closureRoom_carpet_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "CARPET",
+        "subType": "NONE",
+        "location": "CARPET",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_closureRoom",
+        "groupId": "furni_set_closureRoom_2",
+        "width": 8,
+        "depth": 8,
+        "height": 1,
+        "comfort": 130,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "嵌合了压力感应踏板的十字形地毯，可通过内置无线装置与工作站进行信号传输。\n“华法琳建议我多运动，我觉得音乐跳舞游戏就够了”，可露希尔说。但上面浅浅地积着一层灰，它真的被使用过吗？",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 118,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_closureRoom_carpet_02": {
+        "id": "furni_closureRoom_carpet_02",
+        "sortId": 2260,
+        "name": "“显像重组”",
+        "iconId": "furni_closureRoom_carpet_02",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "CARPET",
+        "subType": "NONE",
+        "location": "CARPET",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_closureRoom",
+        "groupId": "furni_set_closureRoom_4",
+        "width": 4,
+        "depth": 6,
+        "height": 1,
+        "comfort": 65,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "以像素图案为主体的不规则地毯，采用耐油防水的材料制成。\n自从可露希尔不小心在之前的普通地毯上打翻了润滑油和咖啡，狼狈地清理了一个下午依然毫无进展之后，就换成了现在这一款。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 60,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_closureRoom_wallpaper_01": {
+        "id": "furni_closureRoom_wallpaper_01",
+        "sortId": 2261,
+        "name": "“内核”",
+        "iconId": "furni_closureRoom_wallpaper_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "WALLPAPER",
+        "subType": "NONE",
+        "location": "NONE",
+        "category": "WALL",
+        "validOnRotate": false,
+        "enableRotate": false,
+        "rarity": 2,
+        "themeId": "furni_set_closureRoom",
+        "groupId": "furni_set_closureRoom_4",
+        "width": 34,
+        "depth": 1,
+        "height": 10,
+        "comfort": 240,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "可露希尔房间的墙壁，通过隔热隔音的玻璃可随时观察罗德岛服务器的运行情况。\n服务器区的整体规划由她一手完成，在这件事情上她表现得比以往都要认真。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 198,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_closureRoom_floor_01": {
+        "id": "furni_closureRoom_floor_01",
+        "sortId": 2262,
+        "name": "“全新规划”",
+        "iconId": "furni_closureRoom_floor_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "FLOOR",
+        "subType": "NONE",
+        "location": "NONE",
+        "category": "FLOOR",
+        "validOnRotate": false,
+        "enableRotate": false,
+        "rarity": 2,
+        "themeId": "furni_set_closureRoom",
+        "groupId": "furni_set_closureRoom_4",
+        "width": 34,
+        "depth": 10,
+        "height": 1,
+        "comfort": 240,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "可露希尔房间的科技风地板，房间内配备有清洁用无人机以供自动打扫。\n可露希尔为保持地板清洁设计了四级自动清扫模式，快速、普通、深度以及名为“凯尔希级”的第四等级，她对此没有进行过说明。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 198,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true,
+        "isOnly": -1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_rabbitCinema_ceilinglamp_01": {
+        "id": "furni_rabbitCinema_ceilinglamp_01",
+        "sortId": 2263,
+        "name": "胶片照明灯",
+        "iconId": "furni_rabbitCinema_ceilinglamp_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "CEILINGLAMP",
+        "subType": "NONE",
+        "location": "CEILING",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_rabbitCinema",
+        "groupId": "furni_set_rabbitCinema_1",
+        "width": 3,
+        "depth": 3,
+        "height": 3,
+        "comfort": 90,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "带有电影胶片样式灯罩的吊顶灯，中间部分设计成了胶片盘的形状。\n可以自动调整照明模式，配合影片营造不同氛围。想要让观看恐怖片的干员们惊叫连连可少不了它。",
+        "obtainApproach": "活动获得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_rabbitCinema_table_01": {
+        "id": "furni_rabbitCinema_table_01",
+        "sortId": 2264,
+        "name": "“清新像素”",
+        "iconId": "furni_rabbitCinema_table_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "TABLE",
+        "subType": "NONE",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_rabbitCinema",
+        "groupId": "furni_set_rabbitCinema_1",
+        "width": 6,
+        "depth": 3,
+        "height": 7,
+        "comfort": 315,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "配色十分清爽的小型餐桌，桌面下方装饰着像素风格的白色花朵。\n这里会定期举行“电影美食复刻竞赛”，哪怕是幻想电影中的食物也有人试着去复现，每次活动都盛况非常。",
+        "obtainApproach": "活动获得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_rabbitCinema_stool_01": {
+        "id": "furni_rabbitCinema_stool_01",
+        "sortId": 2265,
+        "name": "“回看”高脚凳",
+        "iconId": "furni_rabbitCinema_stool_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "SEATING",
+        "subType": "STOOL",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_rabbitCinema",
+        "groupId": "furni_set_rabbitCinema_1",
+        "width": 2,
+        "depth": 2,
+        "height": 2,
+        "comfort": 110,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "一只十字形高脚凳，凳面印有多色格纹图案。\n自从武打片《新死战百货城》上映后，工程部不得不把所有凳子都固定在地面上，防止干员们模仿影片主角在片中用凳子打斗的场景。",
+        "obtainApproach": "活动获得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_rabbitCinema_ceilinglamp_02": {
+        "id": "furni_rabbitCinema_ceilinglamp_02",
+        "sortId": 2266,
+        "name": "飞羽吊灯",
+        "iconId": "furni_rabbitCinema_ceilinglamp_02",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "CEILINGLAMP",
+        "subType": "NONE",
+        "location": "CEILING",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_rabbitCinema",
+        "groupId": "furni_set_rabbitCinema_4",
+        "width": 5,
+        "depth": 3,
+        "height": 4,
+        "comfort": 130,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "用简洁的金属架子制作出的吊灯，装点着拍摄中常用的羽兽道具。\n可以让蒂比来讲讲这些道具在拍摄中到底是怎么运用的，但要做好她随时想出一个点子然后离开的准备。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_rabbitCinema_shelf_01": {
+        "id": "furni_rabbitCinema_shelf_01",
+        "sortId": 2267,
+        "name": "影音室零食架",
+        "iconId": "furni_rabbitCinema_shelf_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "DECORATION",
+        "subType": "CATERING",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_rabbitCinema",
+        "groupId": "furni_set_rabbitCinema_1",
+        "width": 4,
+        "depth": 3,
+        "height": 8,
+        "comfort": 260,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "摆放在休息区的零食架，附有装着透明柜门的小冰柜。\n在这里经常可以找到与蓝卡坞电影联名乃至明星代言的零食，当然找到后很快就会被分抢一空。",
+        "obtainApproach": "活动获得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_rabbitCinema_plant_01": {
+        "id": "furni_rabbitCinema_plant_01",
+        "sortId": 2268,
+        "name": "“盎然记录”",
+        "iconId": "furni_rabbitCinema_plant_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "DECORATION",
+        "subType": "PLANT",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_rabbitCinema",
+        "groupId": "furni_set_rabbitCinema_4",
+        "width": 3,
+        "depth": 2,
+        "height": 6,
+        "comfort": 165,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "绘制着兔兔和磁带图案的花盆，里面种了一株常绿植物。\n花盆侧面的按钮装饰做得实在太过逼真，总有人会误以为它真能用来播放磁带，引得周围一片欢笑。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_rabbitCinema_table_02": {
+        "id": "furni_rabbitCinema_table_02",
+        "sortId": 2269,
+        "name": "“放映盘”边桌",
+        "iconId": "furni_rabbitCinema_table_02",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "TABLE",
+        "subType": "NONE",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_rabbitCinema",
+        "groupId": "furni_set_rabbitCinema_2",
+        "width": 2,
+        "depth": 2,
+        "height": 2,
+        "comfort": 110,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "电影胶片盘样式的小圆桌，原本用来卡紧机轴的空洞可以用来放置饮品。\n叙拉古的最新黑色剧情片《克莫拉》一举拉动了各地的红酒销量，一起来品着佳酿欣赏这部大片吧。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_rabbitCinema_desk_01": {
+        "id": "furni_rabbitCinema_desk_01",
+        "sortId": 2270,
+        "name": "台灯隔断桌",
+        "iconId": "furni_rabbitCinema_desk_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "TABLE",
+        "subType": "NONE",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_rabbitCinema",
+        "groupId": "furni_set_rabbitCinema_3",
+        "width": 9,
+        "depth": 2,
+        "height": 8,
+        "comfort": 375,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "附带一台多头台灯的简约长桌，桌面上还有专门放置装饰物的摆件台。\n每隔一段时间这里就会摆满与视听娱乐相关的东西，从蓝卡坞电影手办到东国偶像周边，应有尽有。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_rabbitCinema_sofa_01": {
+        "id": "furni_rabbitCinema_sofa_01",
+        "sortId": 2271,
+        "name": "“金兔奖”沙发",
+        "iconId": "furni_rabbitCinema_sofa_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "SEATING",
+        "subType": "SOFA",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_rabbitCinema",
+        "groupId": "furni_set_rabbitCinema_2",
+        "width": 4,
+        "depth": 4,
+        "height": 3,
+        "comfort": 210,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "靠背设计成兔兔双耳样式的金色沙发，坐垫非常柔软。\n你可以在此小睡，也可以在上面开心地起舞，更可以在遇到恐怖画面时把整个脑袋埋进靠背......这就是万能的柔软沙发。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_rabbitCinema_carpet_01": {
+        "id": "furni_rabbitCinema_carpet_01",
+        "sortId": 2272,
+        "name": "“成像”地毯",
+        "iconId": "furni_rabbitCinema_carpet_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "CARPET",
+        "subType": "NONE",
+        "location": "CARPET",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_rabbitCinema",
+        "groupId": "furni_set_rabbitCinema_2",
+        "width": 13,
+        "depth": 6,
+        "height": 1,
+        "comfort": 130,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "印有红蓝黄三色胶片图案的椭圆地毯，采用了更加抗皱与防滑的面料。\n总有需要在放映途中暂时离席的情况，想在周围环境较暗的时候走动的话可一定要小心。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_rabbitCinema_ceilinglamp_03": {
+        "id": "furni_rabbitCinema_ceilinglamp_03",
+        "sortId": 2273,
+        "name": "“长胶卷”吊灯",
+        "iconId": "furni_rabbitCinema_ceilinglamp_03",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "CEILINGLAMP",
+        "subType": "NONE",
+        "location": "CEILING",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_rabbitCinema",
+        "groupId": "furni_set_rabbitCinema_4",
+        "width": 10,
+        "depth": 2,
+        "height": 2,
+        "comfort": 150,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "能令人联想到展开的胶卷的长吊灯，灯光可以根据房间中多媒体的播放情况自动调节。\n在播放某些“独立电影”的时候，灯光可能会在中途突然闪烁，不必惊慌，这是有人专门设置好的。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_rabbitCinema_sofa_02": {
+        "id": "furni_rabbitCinema_sofa_02",
+        "sortId": 2274,
+        "name": "观影长沙发",
+        "iconId": "furni_rabbitCinema_sofa_02",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "SEATING",
+        "subType": "SOFA",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_rabbitCinema",
+        "groupId": "furni_set_rabbitCinema_2",
+        "width": 9,
+        "depth": 2,
+        "height": 3,
+        "comfort": 260,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "配有零食小桌的长沙发，靠背经过特别设计，以满足各种观影时的就坐姿势需求。\n哈蒂娅回到本舰之后一定会做的事情之一，就是坐在这里打开一包薯片，再点播一部荒野电影。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_rabbitCinema_shelf_02": {
+        "id": "furni_rabbitCinema_shelf_02",
+        "sortId": 2275,
+        "name": "简约小书架",
+        "iconId": "furni_rabbitCinema_shelf_02",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "DECORATION",
+        "subType": "STORAGE",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_rabbitCinema",
+        "groupId": "furni_set_rabbitCinema_3",
+        "width": 2,
+        "depth": 2,
+        "height": 3,
+        "comfort": 125,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "相当朴素的纯色书架，占据的空间虽小，却能存放大量的书籍。\n除了和娱乐产业相关的杂志之外，上面还会放置人气连载漫画《无从救赎》的最新卷，为此来影音室的干员人数众多。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_rabbitCinema_curtain_01": {
+        "id": "furni_rabbitCinema_curtain_01",
+        "sortId": 2276,
+        "name": "兔兔投影帘",
+        "iconId": "furni_rabbitCinema_curtain_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "CEILING",
+        "subType": "CURTAIN_C",
+        "location": "CEILING",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_rabbitCinema",
+        "groupId": "furni_set_rabbitCinema_3",
+        "width": 9,
+        "depth": 5,
+        "height": 3,
+        "comfort": 200,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "中间装有巨大兔兔装饰架的投影仪器，投影挂帘可以通过包括语音控制在内的多种方式进行操作。\n调暗灯光，放下投影帘，以身临影院的感觉重温一次经典作品——《神鬼玄奇之异人神掌》吧。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_rabbitCinema_tv_01": {
+        "id": "furni_rabbitCinema_tv_01",
+        "sortId": 2277,
+        "name": "“包罗万像”",
+        "iconId": "furni_rabbitCinema_tv_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "DECORATION",
+        "subType": "DEVICE",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_rabbitCinema",
+        "groupId": "furni_set_rabbitCinema_3",
+        "width": 8,
+        "depth": 3,
+        "height": 6,
+        "comfort": 360,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "一套特别定制的一体化放映柜，搭载新款弧面电视，并配备有多功能放映机和各种影像存储资料。\n电视连接着一个特别的多媒体数据库，无论是电影史上的早期作品还是最新的话题大作都能轻松找到。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_rabbitCinema_coffeeTable_01": {
+        "id": "furni_rabbitCinema_coffeeTable_01",
+        "sortId": 2278,
+        "name": "“欢乐时光”茶几",
+        "iconId": "furni_rabbitCinema_coffeeTable_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "TABLE",
+        "subType": "NONE",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_rabbitCinema",
+        "groupId": "furni_set_rabbitCinema_2",
+        "width": 7,
+        "depth": 4,
+        "height": 3,
+        "comfort": 290,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "为影音室特别设计的几何拼接形茶几，桌面下方的空间专门安装了软垫，提供更多放松腿脚的空间。\n维多利亚的电视连续剧《绝命侦探》最近人气爆棚，许多干员即便放映结束也要留在茶几边争论，谁才是案件的真正凶手。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_rabbitCinema_shelf_03": {
+        "id": "furni_rabbitCinema_shelf_03",
+        "sortId": 2279,
+        "name": "碟片展示架",
+        "iconId": "furni_rabbitCinema_shelf_03",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "CABINET",
+        "subType": "NONE",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "furni_set_rabbitCinema",
+        "groupId": "furni_set_rabbitCinema_3",
+        "width": 4,
+        "depth": 3,
+        "height": 10,
+        "comfort": 295,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "自带小型吊灯的碟片存放架，不仅具有储存功能，还能将精选碟片放在上方展示。\n如果偶尔想要换换口味，从这里取一张《闪耀阶梯》的全新高清演唱会影片试看一下，应该是个很不错的选择。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_rabbitCinema_wallpaper_01": {
+        "id": "furni_rabbitCinema_wallpaper_01",
+        "sortId": 2280,
+        "name": "“悠然长焦”",
+        "iconId": "furni_rabbitCinema_wallpaper_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "WALLPAPER",
+        "subType": "NONE",
+        "location": "NONE",
+        "category": "WALL",
+        "validOnRotate": false,
+        "enableRotate": false,
+        "rarity": 2,
+        "themeId": "furni_set_rabbitCinema",
+        "groupId": "furni_set_rabbitCinema_4",
+        "width": 34,
+        "depth": 1,
+        "height": 10,
+        "comfort": 240,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "播放着绝美自然纪录片的全景显示屏，让人能仿佛瞬间身处于美好的室外环境之中。\n工程部还在加紧开发更高级的显示系统，这样以后就算看腻了这个风景，也能一键进行场景切换，敬请期待哦！",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
+      "furni_rabbitCinema_floor_01": {
+        "id": "furni_rabbitCinema_floor_01",
+        "sortId": 2281,
+        "name": "“同乐剧目”",
+        "iconId": "furni_rabbitCinema_floor_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "FLOOR",
+        "subType": "NONE",
+        "location": "NONE",
+        "category": "FLOOR",
+        "validOnRotate": false,
+        "enableRotate": false,
+        "rarity": 2,
+        "themeId": "furni_set_rabbitCinema",
+        "groupId": "furni_set_rabbitCinema_4",
+        "width": 34,
+        "depth": 10,
+        "height": 1,
+        "comfort": 240,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "影音室采用的布艺纹地板，兼具隔音和防水性能，踩在上面的感觉也十分舒适。\n被突然出现的鬼怪吓出尖叫，或是因热血沸腾的打斗而肆意欢呼，都不用担心影响到他人，影音室的隔音绝对有保障。",
+        "obtainApproach": "家具商店限时购买",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "enableRoomType": 4112,
+        "quantity": 1
+      },
       "furni_oct1st_deckChair_01": {
         "id": "furni_oct1st_deckChair_01",
         "sortId": 9998,
@@ -101795,6 +104146,102 @@
         "enableRoomType": 4112,
         "quantity": 0
       },
+      "furni_foolsDay_photowall_01": {
+        "id": "furni_foolsDay_photowall_01",
+        "sortId": 10257,
+        "name": "米米子与博士士",
+        "iconId": "furni_foolsDay_photowall_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "DECORATION",
+        "subType": "ART_D",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": false,
+        "rarity": 2,
+        "themeId": "",
+        "groupId": "",
+        "width": 5,
+        "depth": 2,
+        "height": 5,
+        "comfort": 200,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "喷刷着奇特的阿米娅与博士形象的大型立牌，博士的位置还特意开有拍照用的洞。\n怎么看都是代表着勇气和希望的两个人......应该没错吧？",
+        "obtainApproach": "活动获得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "enableRoomType": 4112,
+        "quantity": 0
+      },
+      "furni_enemyduel_diceAll_01": {
+        "id": "furni_enemyduel_diceAll_01",
+        "sortId": 10258,
+        "name": "争锋魄力奖杯",
+        "iconId": "furni_enemyduel_diceAll_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "DECORATION",
+        "subType": "ENTERTAINMENT",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "",
+        "groupId": "",
+        "width": 2,
+        "depth": 2,
+        "height": 5,
+        "comfort": 80,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "为争锋频道中展现了竞猜魄力的获胜者准备的奖杯。\n争锋竞技场上风险和机遇并存，赛场外的投注博弈也是如此。",
+        "obtainApproach": "活动获得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "enableRoomType": 4112,
+        "quantity": 0
+      },
+      "furni_act73d0_pizzarug_01": {
+        "id": "furni_act73d0_pizzarug_01",
+        "sortId": 10260,
+        "name": "“美味比萨”地毯",
+        "iconId": "furni_act73d0_pizzarug_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "CARPET",
+        "subType": "NONE",
+        "location": "CARPET",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": true,
+        "rarity": 2,
+        "themeId": "",
+        "groupId": "",
+        "width": 10,
+        "depth": 10,
+        "height": 1,
+        "comfort": 120,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "全球人气连锁比萨餐厅达美乐为罗德岛特别赠送的纪念地毯，印有店铺热卖的招牌款式比萨图案。\n美味速达，乐享更多。",
+        "obtainApproach": "活动获得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "enableRoomType": 4112,
+        "quantity": 0
+      },
       "furni_dropS001_theLittleMermaid_01": {
         "id": "furni_dropS001_theLittleMermaid_01",
         "sortId": 11001,
@@ -105315,6 +107762,70 @@
         "enableRoomType": 4144,
         "quantity": 0
       },
+      "furni_terracommericials_LifeWater_01": {
+        "id": "furni_terracommericials_LifeWater_01",
+        "sortId": 11112,
+        "name": "饰牌《浓醇》",
+        "iconId": "furni_terracommericials_LifeWater_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "WALLDECO",
+        "subType": "PLAQUE",
+        "location": "WALL",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": false,
+        "rarity": 2,
+        "themeId": "",
+        "groupId": "",
+        "width": 4,
+        "depth": 1,
+        "height": 2,
+        "comfort": 75,
+        "usage": "能够用来装扮宿舍、活动室与会客室，可提高前两者的氛围",
+        "description": "知名酒友会诚挚提醒您：不建议直接饮用本品。",
+        "obtainApproach": "活动获得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "enableRoomType": 4144,
+        "quantity": 0
+      },
+      "furni_terracommericials_CrucibleCreamPuff_01": {
+        "id": "furni_terracommericials_CrucibleCreamPuff_01",
+        "sortId": 11113,
+        "name": "饰牌《伴侣》",
+        "iconId": "furni_terracommericials_CrucibleCreamPuff_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "WALLDECO",
+        "subType": "PLAQUE",
+        "location": "WALL",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": false,
+        "rarity": 2,
+        "themeId": "",
+        "groupId": "",
+        "width": 4,
+        "depth": 1,
+        "height": 2,
+        "comfort": 75,
+        "usage": "能够用来装扮宿舍、活动室与会客室，可提高前两者的氛围",
+        "description": "支撑人们游历大地的不只有信仰，还可以有泡芙。",
+        "obtainApproach": "活动获得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "enableRoomType": 4144,
+        "quantity": 0
+      },
       "furni_contract_s0_01": {
         "id": "furni_contract_s0_01",
         "sortId": 12001,
@@ -106809,6 +109320,38 @@
         "comfort": 105,
         "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
         "description": "完成卡兹戴尔炽灼车间剿灭并提交报告后获得的纪念品。炽灼车间的余音似乎还在耳边回响。",
+        "obtainApproach": "剿灭委托奖励",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "enableRoomType": 4112,
+        "quantity": 0
+      },
+      "furni_annihilation_s32_01": {
+        "id": "furni_annihilation_s32_01",
+        "sortId": 13030,
+        "name": "炎国回声-食府",
+        "iconId": "furni_annihilation_s32_01",
+        "interactType": "NONE",
+        "musicId": "",
+        "type": "WALLDECO",
+        "subType": "ANNIHILATION",
+        "location": "WALL",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": false,
+        "rarity": 2,
+        "themeId": "",
+        "groupId": "",
+        "width": 4,
+        "depth": 1,
+        "height": 4,
+        "comfort": 105,
+        "usage": "能够用来装扮宿舍与活动室，提高对应房间的氛围",
+        "description": "完成炎国朱墙食府剿灭并提交报告后获得的纪念品。朱墙食府的余音似乎还在耳边回响。",
         "obtainApproach": "剿灭委托奖励",
         "processedProductId": "3401",
         "processedProductCount": 0,
@@ -108931,6 +111474,38 @@
         "enableRoomType": 32,
         "quantity": 0
       },
+      "furniM_act73d0_messageboard_01": {
+        "id": "furniM_act73d0_messageboard_01",
+        "sortId": 90117,
+        "name": "新型信息终端机",
+        "iconId": "furniM_act73d0_messageboard_01",
+        "interactType": "FUNCTION",
+        "musicId": "",
+        "type": "FUNCTION",
+        "subType": "VISITOR",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": false,
+        "rarity": 2,
+        "themeId": "",
+        "groupId": "",
+        "width": 7,
+        "depth": 4,
+        "height": 8,
+        "comfort": 0,
+        "usage": "【功能家具-信息板】能够用来装扮会客室",
+        "description": "工程部最新设计和改造的高级访客信息终端，能满足各种信息交流需求。\n集留言、赠礼以及访客记录功能为一体，这台便捷的机器得到了不少来访者的赞誉。",
+        "obtainApproach": "活动获得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "enableRoomType": 32,
+        "quantity": 0
+      },
       "furniM_taiko_ropeChandelier_01": {
         "id": "furniM_taiko_ropeChandelier_01",
         "sortId": 80117,
@@ -110585,6 +113160,38 @@
         "comfort": 300,
         "usage": "能够用来装扮宿舍、活动室与会客室，可提高前两者的氛围",
         "description": "契合阿米娅生日主题的美味蛋糕，托盘设计成了能够悬浮于空中的驮车模样。\n美味的蛋糕载着阿米娅许下的愿望飘过所有人身前，大家来一起享受这份甜蜜与祝福吧！",
+        "obtainApproach": "活动获得",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false,
+        "isOnly": 1,
+        "enableRoomType": 4144,
+        "quantity": 0
+      },
+      "furni_act72d6_audioPlayer_01": {
+        "id": "furni_act72d6_audioPlayer_01",
+        "sortId": 20015,
+        "name": "“追想回声”",
+        "iconId": "furni_act72d6_audioPlayer_01",
+        "interactType": "MUSIC",
+        "musicId": "music_furniture_audioPlayer",
+        "type": "INTERACT",
+        "subType": "NONE",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "validOnRotate": false,
+        "enableRotate": false,
+        "rarity": 2,
+        "themeId": "",
+        "groupId": "",
+        "width": 6,
+        "depth": 4,
+        "height": 4,
+        "comfort": 300,
+        "usage": "能够用来装扮宿舍、活动室与会客室，可提高前两者的氛围",
+        "description": "凭Mon3tr的回忆复原的音乐播放器，曾放置在凯尔希办公桌的一角。\n纵使时光匆匆流逝，她在桌前忙碌的身影，依然会在旋律响起时浮现于眼前。",
         "obtainApproach": "活动获得",
         "processedProductId": "3401",
         "processedProductCount": 0,
@@ -129692,6 +132299,452 @@
           "furni_pizzeria_floor_01"
         ]
       },
+      "furni_set_ursusRoom": {
+        "id": "furni_set_ursusRoom",
+        "enableRoomType": 4112,
+        "sortId": 126,
+        "name": "乌萨斯学生自治团活动处",
+        "themeType": "EVENT",
+        "desc": "根据乌萨斯学生自治团在圣骏堡的新活动据点复刻的房间。自治团在大学剧院中找到了一间可供社团活动的屋子，在这片烛火照耀的空间里，驱散附着在身体与心灵上寒意的意志之火永远不会熄灭。",
+        "quickSetup": [
+          {
+            "furnitureId": "furni_ursusRoom_hangrack_01",
+            "pos0": 0,
+            "pos1": 3,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_ursusRoom_ceilingLight_01",
+            "pos0": 0,
+            "pos1": 1,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_ursusRoom_cabinet_01",
+            "pos0": 0,
+            "pos1": 2,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_ursusRoom_hangcloth_01",
+            "pos0": 1,
+            "pos1": 5,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_ursusRoom_woodcarving_01",
+            "pos0": 3,
+            "pos1": 3,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_ursusRoom_fireplace_01",
+            "pos0": 6,
+            "pos1": 0,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_ursusRoom_hangstuff_01",
+            "pos0": 11,
+            "pos1": 3,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_ursusRoom_hangcarpet_01",
+            "pos0": 10,
+            "pos1": 5,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_ursusRoom_woodstake_01",
+            "pos0": 12,
+            "pos1": 1,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_ursusRoom_stool_01",
+            "pos0": 11,
+            "pos1": 5,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_ursusRoom_carpet_01",
+            "pos0": 13,
+            "pos1": 2,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_ursusRoom_stool_02",
+            "pos0": 17,
+            "pos1": 6,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_ursusRoom_window_01",
+            "pos0": 18,
+            "pos1": 2,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_ursusRoom_table_01",
+            "pos0": 19,
+            "pos1": 3,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_ursusRoom_basin_01",
+            "pos0": 26,
+            "pos1": 7,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_ursusRoom_hangcarpet_02",
+            "pos0": 27,
+            "pos1": 1,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_ursusRoom_cabinet_02",
+            "pos0": 31,
+            "pos1": 1,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_ursusRoom_wallpaper_01",
+            "pos0": 0,
+            "pos1": 0,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_ursusRoom_floor_01",
+            "pos0": 0,
+            "pos1": 10,
+            "dir": 0
+          }
+        ],
+        "groups": [
+          "furni_set_ursusRoom_1",
+          "furni_set_ursusRoom_2",
+          "furni_set_ursusRoom_3",
+          "furni_set_ursusRoom_4"
+        ],
+        "furnitures": [
+          "furni_ursusRoom_hangrack_01",
+          "furni_ursusRoom_ceilingLight_01",
+          "furni_ursusRoom_cabinet_01",
+          "furni_ursusRoom_hangcloth_01",
+          "furni_ursusRoom_woodcarving_01",
+          "furni_ursusRoom_fireplace_01",
+          "furni_ursusRoom_hangstuff_01",
+          "furni_ursusRoom_hangcarpet_01",
+          "furni_ursusRoom_woodstake_01",
+          "furni_ursusRoom_stool_01",
+          "furni_ursusRoom_carpet_01",
+          "furni_ursusRoom_stool_02",
+          "furni_ursusRoom_window_01",
+          "furni_ursusRoom_table_01",
+          "furni_ursusRoom_basin_01",
+          "furni_ursusRoom_hangcarpet_02",
+          "furni_ursusRoom_cabinet_02",
+          "furni_ursusRoom_wallpaper_01",
+          "furni_ursusRoom_floor_01"
+        ]
+      },
+      "furni_set_closureRoom": {
+        "id": "furni_set_closureRoom",
+        "enableRoomType": 4112,
+        "sortId": 127,
+        "name": "可露希尔的万能空间",
+        "themeType": "NORMAL",
+        "desc": "根据可露希尔的办公室复刻的房间。不仅能满足工作需求、进行各种娱乐，还配置了兴趣用的手工技术研发工具。觉得功能过于多样化？想想罗德岛的总工程师为什么经常熬夜不休息，就能明白这并不奇怪。",
+        "quickSetup": [
+          {
+            "furnitureId": "furni_closureRoom_shelf_01",
+            "pos0": 0,
+            "pos1": 0,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_closureRoom_collectioncabinet_01",
+            "pos0": 0,
+            "pos1": 2,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_closureRoom_computerdesk_01",
+            "pos0": 7,
+            "pos1": 0,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_closureRoom_ledchair_01",
+            "pos0": 6,
+            "pos1": 6,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_closureRoom_poster_01",
+            "pos0": 11,
+            "pos1": 3,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_closureRoom_poster_02",
+            "pos0": 12,
+            "pos1": 5,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_closureRoom_officedesk_01",
+            "pos0": 13,
+            "pos1": 0,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_closureRoom_chair_01",
+            "pos0": 13,
+            "pos1": 2,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_closureRoom_stool_01",
+            "pos0": 18,
+            "pos1": 5,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_closureRoom_ceilingLight_01",
+            "pos0": 15,
+            "pos1": 4,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_closureRoom_equipmentdesk_01",
+            "pos0": 20,
+            "pos1": 2,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_closureRoom_cabinet_01",
+            "pos0": 24,
+            "pos1": 0,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_closureRoom_table_01",
+            "pos0": 26,
+            "pos1": 5,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_closureRoom_workbench_01",
+            "pos0": 31,
+            "pos1": 0,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_closureRoom_carpet_01",
+            "pos0": 10,
+            "pos1": 0,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_closureRoom_carpet_02",
+            "pos0": 30,
+            "pos1": 0,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_closureRoom_wallpaper_01",
+            "pos0": 0,
+            "pos1": 0,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_closureRoom_floor_01",
+            "pos0": 0,
+            "pos1": 10,
+            "dir": 0
+          }
+        ],
+        "groups": [
+          "furni_set_closureRoom_1",
+          "furni_set_closureRoom_2",
+          "furni_set_closureRoom_3",
+          "furni_set_closureRoom_4"
+        ],
+        "furnitures": [
+          "furni_closureRoom_shelf_01",
+          "furni_closureRoom_collectioncabinet_01",
+          "furni_closureRoom_computerdesk_01",
+          "furni_closureRoom_ledchair_01",
+          "furni_closureRoom_poster_01",
+          "furni_closureRoom_poster_02",
+          "furni_closureRoom_officedesk_01",
+          "furni_closureRoom_chair_01",
+          "furni_closureRoom_stool_01",
+          "furni_closureRoom_ceilingLight_01",
+          "furni_closureRoom_equipmentdesk_01",
+          "furni_closureRoom_cabinet_01",
+          "furni_closureRoom_table_01",
+          "furni_closureRoom_workbench_01",
+          "furni_closureRoom_carpet_01",
+          "furni_closureRoom_carpet_02",
+          "furni_closureRoom_wallpaper_01",
+          "furni_closureRoom_floor_01"
+        ]
+      },
+      "furni_set_rabbitCinema": {
+        "id": "furni_set_rabbitCinema",
+        "enableRoomType": 4112,
+        "sortId": 128,
+        "name": "“兔兔欢声”影音室",
+        "themeType": "EVENT",
+        "desc": "以轻松的兔兔风格装点的罗德岛影音室。工程部为这间房间精心设计了音响系统，配合能够全面展现影像魅力的投影设备，干员们定能在此获得上佳的娱乐体验。",
+        "quickSetup": [
+          {
+            "furnitureId": "furni_rabbitCinema_ceilinglamp_01",
+            "pos0": 0,
+            "pos1": 0,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_rabbitCinema_table_01",
+            "pos0": 0,
+            "pos1": 3,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_rabbitCinema_stool_01",
+            "pos0": 4,
+            "pos1": 6,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_rabbitCinema_ceilinglamp_02",
+            "pos0": 6,
+            "pos1": 6,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_rabbitCinema_shelf_01",
+            "pos0": 5,
+            "pos1": 0,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_rabbitCinema_plant_01",
+            "pos0": 9,
+            "pos1": 1,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_rabbitCinema_table_02",
+            "pos0": 11,
+            "pos1": 7,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_rabbitCinema_desk_01",
+            "pos0": 13,
+            "pos1": 1,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_rabbitCinema_sofa_01",
+            "pos0": 9,
+            "pos1": 3,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_rabbitCinema_carpet_01",
+            "pos0": 12,
+            "pos1": 3,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_rabbitCinema_ceilinglamp_03",
+            "pos0": 11,
+            "pos1": 5,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_rabbitCinema_sofa_02",
+            "pos0": 13,
+            "pos1": 3,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_rabbitCinema_shelf_02",
+            "pos0": 22,
+            "pos1": 1,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_rabbitCinema_curtain_01",
+            "pos0": 22,
+            "pos1": 0,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_rabbitCinema_tv_01",
+            "pos0": 25,
+            "pos1": 0,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_rabbitCinema_coffeeTable_01",
+            "pos0": 17,
+            "pos1": 5,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_rabbitCinema_shelf_03",
+            "pos0": 28,
+            "pos1": 5,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_rabbitCinema_wallpaper_01",
+            "pos0": 0,
+            "pos1": 0,
+            "dir": 0
+          },
+          {
+            "furnitureId": "furni_rabbitCinema_floor_01",
+            "pos0": 0,
+            "pos1": 10,
+            "dir": 0
+          }
+        ],
+        "groups": [
+          "furni_set_rabbitCinema_1",
+          "furni_set_rabbitCinema_2",
+          "furni_set_rabbitCinema_3",
+          "furni_set_rabbitCinema_4"
+        ],
+        "furnitures": [
+          "furni_rabbitCinema_ceilinglamp_01",
+          "furni_rabbitCinema_table_01",
+          "furni_rabbitCinema_stool_01",
+          "furni_rabbitCinema_ceilinglamp_02",
+          "furni_rabbitCinema_shelf_01",
+          "furni_rabbitCinema_plant_01",
+          "furni_rabbitCinema_table_02",
+          "furni_rabbitCinema_desk_01",
+          "furni_rabbitCinema_sofa_01",
+          "furni_rabbitCinema_carpet_01",
+          "furni_rabbitCinema_ceilinglamp_03",
+          "furni_rabbitCinema_sofa_02",
+          "furni_rabbitCinema_shelf_02",
+          "furni_rabbitCinema_curtain_01",
+          "furni_rabbitCinema_tv_01",
+          "furni_rabbitCinema_coffeeTable_01",
+          "furni_rabbitCinema_shelf_03",
+          "furni_rabbitCinema_wallpaper_01",
+          "furni_rabbitCinema_floor_01"
+        ]
+      },
       "furniM_set_basicRoom": {
         "id": "furniM_set_basicRoom",
         "enableRoomType": 32,
@@ -137554,6 +140607,182 @@
           "furni_pizzeria_roundtable_01",
           "furni_pizzeria_sconce_01"
         ]
+      },
+      "furni_set_ursusRoom_1": {
+        "id": "furni_set_ursusRoom_1",
+        "sortId": 1,
+        "name": "“齐心的作品”",
+        "themeId": "furni_set_ursusRoom",
+        "comfort": 270,
+        "count": 5,
+        "furniture": [
+          "furni_ursusRoom_hangrack_01",
+          "furni_ursusRoom_ceilingLight_01",
+          "furni_ursusRoom_cabinet_01",
+          "furni_ursusRoom_hangcloth_01",
+          "furni_ursusRoom_woodcarving_01"
+        ]
+      },
+      "furni_set_ursusRoom_2": {
+        "id": "furni_set_ursusRoom_2",
+        "sortId": 2,
+        "name": "“共聚的休憩”",
+        "themeId": "furni_set_ursusRoom",
+        "comfort": 250,
+        "count": 5,
+        "furniture": [
+          "furni_ursusRoom_fireplace_01",
+          "furni_ursusRoom_hangstuff_01",
+          "furni_ursusRoom_hangcarpet_01",
+          "furni_ursusRoom_woodstake_01",
+          "furni_ursusRoom_stool_01"
+        ]
+      },
+      "furni_set_ursusRoom_3": {
+        "id": "furni_set_ursusRoom_3",
+        "sortId": 3,
+        "name": "“集结的时刻”",
+        "themeId": "furni_set_ursusRoom",
+        "comfort": 230,
+        "count": 5,
+        "furniture": [
+          "furni_ursusRoom_carpet_01",
+          "furni_ursusRoom_stool_02",
+          "furni_ursusRoom_window_01",
+          "furni_ursusRoom_table_01",
+          "furni_ursusRoom_basin_01"
+        ]
+      },
+      "furni_set_ursusRoom_4": {
+        "id": "furni_set_ursusRoom_4",
+        "sortId": 4,
+        "name": "“同享的热意”",
+        "themeId": "furni_set_ursusRoom",
+        "comfort": 200,
+        "count": 4,
+        "furniture": [
+          "furni_ursusRoom_hangcarpet_02",
+          "furni_ursusRoom_cabinet_02",
+          "furni_ursusRoom_wallpaper_01",
+          "furni_ursusRoom_floor_01"
+        ]
+      },
+      "furni_set_closureRoom_1": {
+        "id": "furni_set_closureRoom_1",
+        "sortId": 1,
+        "name": "“主控端”工作区块",
+        "themeId": "furni_set_closureRoom",
+        "comfort": 290,
+        "count": 4,
+        "furniture": [
+          "furni_closureRoom_shelf_01",
+          "furni_closureRoom_collectioncabinet_01",
+          "furni_closureRoom_computerdesk_01",
+          "furni_closureRoom_ledchair_01"
+        ]
+      },
+      "furni_set_closureRoom_2": {
+        "id": "furni_set_closureRoom_2",
+        "sortId": 2,
+        "name": "“计分板”游玩区块",
+        "themeId": "furni_set_closureRoom",
+        "comfort": 210,
+        "count": 5,
+        "furniture": [
+          "furni_closureRoom_poster_01",
+          "furni_closureRoom_poster_02",
+          "furni_closureRoom_officedesk_01",
+          "furni_closureRoom_chair_01",
+          "furni_closureRoom_carpet_01"
+        ]
+      },
+      "furni_set_closureRoom_3": {
+        "id": "furni_set_closureRoom_3",
+        "sortId": 3,
+        "name": "“成就室”展示区块",
+        "themeId": "furni_set_closureRoom",
+        "comfort": 220,
+        "count": 4,
+        "furniture": [
+          "furni_closureRoom_stool_01",
+          "furni_closureRoom_ceilingLight_01",
+          "furni_closureRoom_equipmentdesk_01",
+          "furni_closureRoom_cabinet_01"
+        ]
+      },
+      "furni_set_closureRoom_4": {
+        "id": "furni_set_closureRoom_4",
+        "sortId": 4,
+        "name": "“制图仪”研发区块",
+        "themeId": "furni_set_closureRoom",
+        "comfort": 215,
+        "count": 5,
+        "furniture": [
+          "furni_closureRoom_table_01",
+          "furni_closureRoom_workbench_01",
+          "furni_closureRoom_carpet_02",
+          "furni_closureRoom_wallpaper_01",
+          "furni_closureRoom_floor_01"
+        ]
+      },
+      "furni_set_rabbitCinema_1": {
+        "id": "furni_set_rabbitCinema_1",
+        "sortId": 1,
+        "name": "“小短剧”零食区",
+        "themeId": "furni_set_rabbitCinema",
+        "comfort": 190,
+        "count": 4,
+        "furniture": [
+          "furni_rabbitCinema_ceilinglamp_01",
+          "furni_rabbitCinema_table_01",
+          "furni_rabbitCinema_stool_01",
+          "furni_rabbitCinema_shelf_01"
+        ]
+      },
+      "furni_set_rabbitCinema_2": {
+        "id": "furni_set_rabbitCinema_2",
+        "sortId": 2,
+        "name": "“长镜头”观影区",
+        "themeId": "furni_set_rabbitCinema",
+        "comfort": 230,
+        "count": 5,
+        "furniture": [
+          "furni_rabbitCinema_table_02",
+          "furni_rabbitCinema_sofa_01",
+          "furni_rabbitCinema_carpet_01",
+          "furni_rabbitCinema_sofa_02",
+          "furni_rabbitCinema_coffeeTable_01"
+        ]
+      },
+      "furni_set_rabbitCinema_3": {
+        "id": "furni_set_rabbitCinema_3",
+        "sortId": 3,
+        "name": "“全收录”媒体区",
+        "themeId": "furni_set_rabbitCinema",
+        "comfort": 340,
+        "count": 5,
+        "furniture": [
+          "furni_rabbitCinema_desk_01",
+          "furni_rabbitCinema_shelf_02",
+          "furni_rabbitCinema_tv_01",
+          "furni_rabbitCinema_curtain_01",
+          "furni_rabbitCinema_shelf_03"
+        ]
+      },
+      "furni_set_rabbitCinema_4": {
+        "id": "furni_set_rabbitCinema_4",
+        "sortId": 4,
+        "name": "“立体声”休闲区",
+        "themeId": "furni_set_rabbitCinema",
+        "comfort": 185,
+        "count": 5,
+        "furniture": [
+          "furni_rabbitCinema_wallpaper_01",
+          "furni_rabbitCinema_floor_01",
+          "furni_rabbitCinema_ceilinglamp_02",
+          "furni_rabbitCinema_plant_01",
+          "furni_rabbitCinema_ceilinglamp_03"
+        ]
       }
     },
     "types": {
@@ -139962,6 +143191,16 @@
           "weight": 57,
           "itemId": "31094",
           "itemCount": 1
+        },
+        {
+          "weight": 57,
+          "itemId": "31104",
+          "itemCount": 1
+        },
+        {
+          "weight": 53,
+          "itemId": "31114",
+          "itemCount": 1
         }
       ],
       "costs": [
@@ -140100,6 +143339,16 @@
         {
           "weight": 57,
           "itemId": "31094",
+          "itemCount": 1
+        },
+        {
+          "weight": 57,
+          "itemId": "31104",
+          "itemCount": 1
+        },
+        {
+          "weight": 53,
+          "itemId": "31114",
           "itemCount": 1
         }
       ],
@@ -140240,6 +143489,16 @@
           "weight": 57,
           "itemId": "31094",
           "itemCount": 1
+        },
+        {
+          "weight": 57,
+          "itemId": "31104",
+          "itemCount": 1
+        },
+        {
+          "weight": 53,
+          "itemId": "31114",
+          "itemCount": 1
         }
       ],
       "costs": [
@@ -140379,6 +143638,16 @@
           "weight": 57,
           "itemId": "31094",
           "itemCount": 1
+        },
+        {
+          "weight": 57,
+          "itemId": "31104",
+          "itemCount": 1
+        },
+        {
+          "weight": 53,
+          "itemId": "31114",
+          "itemCount": 1
         }
       ],
       "costs": [
@@ -140513,6 +143782,16 @@
           "weight": 57,
           "itemId": "31094",
           "itemCount": 1
+        },
+        {
+          "weight": 57,
+          "itemId": "31104",
+          "itemCount": 1
+        },
+        {
+          "weight": 53,
+          "itemId": "31114",
+          "itemCount": 1
         }
       ],
       "costs": [
@@ -140642,6 +143921,16 @@
           "weight": 57,
           "itemId": "31094",
           "itemCount": 1
+        },
+        {
+          "weight": 57,
+          "itemId": "31104",
+          "itemCount": 1
+        },
+        {
+          "weight": 53,
+          "itemId": "31114",
+          "itemCount": 1
         }
       ],
       "costs": [
@@ -140669,6 +143958,304 @@
         }
       ],
       "requireStages": []
+    },
+    "68": {
+      "sortId": 2092,
+      "formulaId": "68",
+      "rarity": 0,
+      "itemId": "31114",
+      "count": 1,
+      "goldCost": 300,
+      "apCost": 1440000,
+      "formulaType": "F_EVOLVE",
+      "buffType": "W_EVOLVE",
+      "extraOutcomeRate": 0.1,
+      "extraOutcomeGroup": [
+        {
+          "weight": 50,
+          "itemId": "30013",
+          "itemCount": 1
+        },
+        {
+          "weight": 42,
+          "itemId": "30023",
+          "itemCount": 1
+        },
+        {
+          "weight": 42,
+          "itemId": "30033",
+          "itemCount": 1
+        },
+        {
+          "weight": 36,
+          "itemId": "30043",
+          "itemCount": 1
+        },
+        {
+          "weight": 36,
+          "itemId": "30053",
+          "itemCount": 1
+        },
+        {
+          "weight": 25,
+          "itemId": "30063",
+          "itemCount": 1
+        },
+        {
+          "weight": 42,
+          "itemId": "30073",
+          "itemCount": 1
+        },
+        {
+          "weight": 36,
+          "itemId": "30083",
+          "itemCount": 1
+        },
+        {
+          "weight": 31,
+          "itemId": "30093",
+          "itemCount": 1
+        },
+        {
+          "weight": 25,
+          "itemId": "30103",
+          "itemCount": 1
+        },
+        {
+          "weight": 31,
+          "itemId": "31013",
+          "itemCount": 1
+        },
+        {
+          "weight": 36,
+          "itemId": "31023",
+          "itemCount": 1
+        },
+        {
+          "weight": 36,
+          "itemId": "31033",
+          "itemCount": 1
+        },
+        {
+          "weight": 31,
+          "itemId": "31043",
+          "itemCount": 1
+        },
+        {
+          "weight": 31,
+          "itemId": "31053",
+          "itemCount": 1
+        },
+        {
+          "weight": 28,
+          "itemId": "31063",
+          "itemCount": 1
+        },
+        {
+          "weight": 28,
+          "itemId": "31073",
+          "itemCount": 1
+        },
+        {
+          "weight": 25,
+          "itemId": "31083",
+          "itemCount": 1
+        },
+        {
+          "weight": 31,
+          "itemId": "31093",
+          "itemCount": 1
+        },
+        {
+          "weight": 28,
+          "itemId": "31103",
+          "itemCount": 1
+        },
+        {
+          "weight": 31,
+          "itemId": "31113",
+          "itemCount": 1
+        }
+      ],
+      "costs": [
+        {
+          "id": "30063",
+          "count": 1,
+          "type": "MATERIAL"
+        },
+        {
+          "id": "31103",
+          "count": 1,
+          "type": "MATERIAL"
+        },
+        {
+          "id": "31113",
+          "count": 1,
+          "type": "MATERIAL"
+        }
+      ],
+      "requireRooms": [
+        {
+          "roomId": "WORKSHOP",
+          "roomLevel": 3,
+          "roomCount": 1
+        }
+      ],
+      "requireStages": [
+        {
+          "stageId": "main_17-10",
+          "rank": 2
+        }
+      ]
+    },
+    "67": {
+      "sortId": 2093,
+      "formulaId": "67",
+      "rarity": 0,
+      "itemId": "31104",
+      "count": 1,
+      "goldCost": 300,
+      "apCost": 1440000,
+      "formulaType": "F_EVOLVE",
+      "buffType": "W_EVOLVE",
+      "extraOutcomeRate": 0.1,
+      "extraOutcomeGroup": [
+        {
+          "weight": 50,
+          "itemId": "30013",
+          "itemCount": 1
+        },
+        {
+          "weight": 42,
+          "itemId": "30023",
+          "itemCount": 1
+        },
+        {
+          "weight": 42,
+          "itemId": "30033",
+          "itemCount": 1
+        },
+        {
+          "weight": 36,
+          "itemId": "30043",
+          "itemCount": 1
+        },
+        {
+          "weight": 36,
+          "itemId": "30053",
+          "itemCount": 1
+        },
+        {
+          "weight": 25,
+          "itemId": "30063",
+          "itemCount": 1
+        },
+        {
+          "weight": 42,
+          "itemId": "30073",
+          "itemCount": 1
+        },
+        {
+          "weight": 36,
+          "itemId": "30083",
+          "itemCount": 1
+        },
+        {
+          "weight": 31,
+          "itemId": "30093",
+          "itemCount": 1
+        },
+        {
+          "weight": 25,
+          "itemId": "30103",
+          "itemCount": 1
+        },
+        {
+          "weight": 31,
+          "itemId": "31013",
+          "itemCount": 1
+        },
+        {
+          "weight": 36,
+          "itemId": "31023",
+          "itemCount": 1
+        },
+        {
+          "weight": 36,
+          "itemId": "31033",
+          "itemCount": 1
+        },
+        {
+          "weight": 31,
+          "itemId": "31043",
+          "itemCount": 1
+        },
+        {
+          "weight": 31,
+          "itemId": "31053",
+          "itemCount": 1
+        },
+        {
+          "weight": 28,
+          "itemId": "31063",
+          "itemCount": 1
+        },
+        {
+          "weight": 28,
+          "itemId": "31073",
+          "itemCount": 1
+        },
+        {
+          "weight": 25,
+          "itemId": "31083",
+          "itemCount": 1
+        },
+        {
+          "weight": 31,
+          "itemId": "31093",
+          "itemCount": 1
+        },
+        {
+          "weight": 28,
+          "itemId": "31103",
+          "itemCount": 1
+        },
+        {
+          "weight": 31,
+          "itemId": "31113",
+          "itemCount": 1
+        }
+      ],
+      "costs": [
+        {
+          "id": "30053",
+          "count": 1,
+          "type": "MATERIAL"
+        },
+        {
+          "id": "31093",
+          "count": 1,
+          "type": "MATERIAL"
+        },
+        {
+          "id": "31103",
+          "count": 1,
+          "type": "MATERIAL"
+        }
+      ],
+      "requireRooms": [
+        {
+          "roomId": "WORKSHOP",
+          "roomLevel": 3,
+          "roomCount": 1
+        }
+      ],
+      "requireStages": [
+        {
+          "stageId": "main_17-04",
+          "rank": 2
+        }
+      ]
     },
     "65": {
       "sortId": 2094,
@@ -140775,6 +144362,16 @@
         {
           "weight": 31,
           "itemId": "31093",
+          "itemCount": 1
+        },
+        {
+          "weight": 28,
+          "itemId": "31103",
+          "itemCount": 1
+        },
+        {
+          "weight": 31,
+          "itemId": "31113",
           "itemCount": 1
         }
       ],
@@ -140915,6 +144512,16 @@
           "weight": 31,
           "itemId": "31093",
           "itemCount": 1
+        },
+        {
+          "weight": 28,
+          "itemId": "31103",
+          "itemCount": 1
+        },
+        {
+          "weight": 31,
+          "itemId": "31113",
+          "itemCount": 1
         }
       ],
       "costs": [
@@ -141053,6 +144660,16 @@
         {
           "weight": 31,
           "itemId": "31093",
+          "itemCount": 1
+        },
+        {
+          "weight": 28,
+          "itemId": "31103",
+          "itemCount": 1
+        },
+        {
+          "weight": 31,
+          "itemId": "31113",
           "itemCount": 1
         }
       ],
@@ -141193,6 +144810,16 @@
           "weight": 31,
           "itemId": "31093",
           "itemCount": 1
+        },
+        {
+          "weight": 28,
+          "itemId": "31103",
+          "itemCount": 1
+        },
+        {
+          "weight": 31,
+          "itemId": "31113",
+          "itemCount": 1
         }
       ],
       "costs": [
@@ -141331,6 +144958,16 @@
         {
           "weight": 31,
           "itemId": "31093",
+          "itemCount": 1
+        },
+        {
+          "weight": 28,
+          "itemId": "31103",
+          "itemCount": 1
+        },
+        {
+          "weight": 31,
+          "itemId": "31113",
           "itemCount": 1
         }
       ],
@@ -141471,6 +145108,16 @@
           "weight": 31,
           "itemId": "31093",
           "itemCount": 1
+        },
+        {
+          "weight": 28,
+          "itemId": "31103",
+          "itemCount": 1
+        },
+        {
+          "weight": 31,
+          "itemId": "31113",
+          "itemCount": 1
         }
       ],
       "costs": [
@@ -141609,6 +145256,16 @@
         {
           "weight": 31,
           "itemId": "31093",
+          "itemCount": 1
+        },
+        {
+          "weight": 28,
+          "itemId": "31103",
+          "itemCount": 1
+        },
+        {
+          "weight": 31,
+          "itemId": "31113",
           "itemCount": 1
         }
       ],
@@ -141749,6 +145406,16 @@
           "weight": 31,
           "itemId": "31093",
           "itemCount": 1
+        },
+        {
+          "weight": 28,
+          "itemId": "31103",
+          "itemCount": 1
+        },
+        {
+          "weight": 31,
+          "itemId": "31113",
+          "itemCount": 1
         }
       ],
       "costs": [
@@ -141887,6 +145554,16 @@
         {
           "weight": 31,
           "itemId": "31093",
+          "itemCount": 1
+        },
+        {
+          "weight": 28,
+          "itemId": "31103",
+          "itemCount": 1
+        },
+        {
+          "weight": 31,
+          "itemId": "31113",
           "itemCount": 1
         }
       ],
@@ -142027,6 +145704,16 @@
           "weight": 31,
           "itemId": "31093",
           "itemCount": 1
+        },
+        {
+          "weight": 28,
+          "itemId": "31103",
+          "itemCount": 1
+        },
+        {
+          "weight": 31,
+          "itemId": "31113",
+          "itemCount": 1
         }
       ],
       "costs": [
@@ -142160,6 +145847,16 @@
         {
           "weight": 31,
           "itemId": "31093",
+          "itemCount": 1
+        },
+        {
+          "weight": 28,
+          "itemId": "31103",
+          "itemCount": 1
+        },
+        {
+          "weight": 31,
+          "itemId": "31113",
           "itemCount": 1
         }
       ],
@@ -142295,6 +145992,16 @@
           "weight": 31,
           "itemId": "31093",
           "itemCount": 1
+        },
+        {
+          "weight": 28,
+          "itemId": "31103",
+          "itemCount": 1
+        },
+        {
+          "weight": 31,
+          "itemId": "31113",
+          "itemCount": 1
         }
       ],
       "costs": [
@@ -142428,6 +146135,16 @@
         {
           "weight": 31,
           "itemId": "31093",
+          "itemCount": 1
+        },
+        {
+          "weight": 28,
+          "itemId": "31103",
+          "itemCount": 1
+        },
+        {
+          "weight": 31,
+          "itemId": "31113",
           "itemCount": 1
         }
       ],
@@ -142681,6 +146398,16 @@
           "weight": 31,
           "itemId": "31093",
           "itemCount": 1
+        },
+        {
+          "weight": 28,
+          "itemId": "31103",
+          "itemCount": 1
+        },
+        {
+          "weight": 31,
+          "itemId": "31113",
+          "itemCount": 1
         }
       ],
       "costs": [
@@ -142932,6 +146659,16 @@
         {
           "weight": 31,
           "itemId": "31093",
+          "itemCount": 1
+        },
+        {
+          "weight": 28,
+          "itemId": "31103",
+          "itemCount": 1
+        },
+        {
+          "weight": 31,
+          "itemId": "31113",
           "itemCount": 1
         }
       ],
@@ -143185,6 +146922,16 @@
           "weight": 31,
           "itemId": "31093",
           "itemCount": 1
+        },
+        {
+          "weight": 28,
+          "itemId": "31103",
+          "itemCount": 1
+        },
+        {
+          "weight": 31,
+          "itemId": "31113",
+          "itemCount": 1
         }
       ],
       "costs": [
@@ -143436,6 +147183,16 @@
         {
           "weight": 31,
           "itemId": "31093",
+          "itemCount": 1
+        },
+        {
+          "weight": 28,
+          "itemId": "31103",
+          "itemCount": 1
+        },
+        {
+          "weight": 31,
+          "itemId": "31113",
           "itemCount": 1
         }
       ],
@@ -143689,6 +147446,16 @@
           "weight": 31,
           "itemId": "31093",
           "itemCount": 1
+        },
+        {
+          "weight": 28,
+          "itemId": "31103",
+          "itemCount": 1
+        },
+        {
+          "weight": 31,
+          "itemId": "31113",
+          "itemCount": 1
         }
       ],
       "costs": [
@@ -143940,6 +147707,16 @@
         {
           "weight": 31,
           "itemId": "31093",
+          "itemCount": 1
+        },
+        {
+          "weight": 28,
+          "itemId": "31103",
+          "itemCount": 1
+        },
+        {
+          "weight": 31,
+          "itemId": "31113",
           "itemCount": 1
         }
       ],
@@ -145702,6 +149479,19 @@
         "unlockParams": [
           "bg_rogue_5"
         ]
+      },
+      "bgm_bg_elitelounge_1": {
+        "bgmId": "bgm_bg_elitelounge_1",
+        "bgmSortId": 30,
+        "bgmStartTime": 1777590000,
+        "bgmName": "执着-(Believed Believes) Believing (Instrumental)",
+        "gameMusicId": "music_elitelounge_1",
+        "obtainApproach": "累计签到1500天获得",
+        "bgmDescUnlocked": "背景附赠音乐",
+        "unlockType": "MainBG",
+        "unlockParams": [
+          "bg_elitelounge_1"
+        ]
       }
     }
   },
@@ -145902,6 +149692,20 @@
       "hasEfficiencySort": false,
       "defaultGroupSortId": 0,
       "efficiencyTargetDict": {}
+    }
+  },
+  "tradingRoomInfoData": {
+    "tradingRoomSpecialOrderData": {
+      "char_4058_pepe": {
+        "charId": "char_4058_pepe",
+        "iconId": "orderIcon_trade_ord_pepe",
+        "title": "特别独占订单"
+      },
+      "char_4228_closur": {
+        "charId": "char_4228_closur",
+        "iconId": "orderIcon_trade_ord_closure",
+        "title": "特别订单"
+      }
     }
   }
 }

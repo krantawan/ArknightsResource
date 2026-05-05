@@ -648,7 +648,111 @@
       "picType": "SKIN",
       "logoId": "game_8",
       "color": null
+    },
+    {
+      "picId": "pic71_a_2",
+      "groupId": 16,
+      "sortId": 1,
+      "startTime": 1773475200,
+      "endTime": 1777060799,
+      "textList": null,
+      "picType": "NONE",
+      "logoId": null,
+      "color": null
+    },
+    {
+      "picId": "pic71_a_3",
+      "groupId": 16,
+      "sortId": 3,
+      "startTime": 1775016000,
+      "endTime": 1775591999,
+      "textList": null,
+      "picType": "NONE",
+      "logoId": null,
+      "color": null
+    },
+    {
+      "picId": "pic72_s_1",
+      "groupId": 17,
+      "sortId": 1,
+      "startTime": 1777123800,
+      "endTime": 1778270399,
+      "textList": null,
+      "picType": "NONE",
+      "logoId": null,
+      "color": null
+    },
+    {
+      "picId": "pic72_s_2",
+      "groupId": 17,
+      "sortId": 2,
+      "startTime": 1777123800,
+      "endTime": 1778270399,
+      "textList": null,
+      "picType": "NONE",
+      "logoId": null,
+      "color": null
+    },
+    {
+      "picId": "pic72_s_3",
+      "groupId": 17,
+      "sortId": 3,
+      "startTime": 1777123800,
+      "endTime": 1778270399,
+      "textList": null,
+      "picType": "NONE",
+      "logoId": null,
+      "color": null
+    },
+    {
+      "picId": "pic72_s_4",
+      "groupId": 17,
+      "sortId": 4,
+      "startTime": 1777123800,
+      "endTime": 1778270399,
+      "textList": null,
+      "picType": "NONE",
+      "logoId": null,
+      "color": null
+    },
+    {
+      "picId": "pic72_a_1",
+      "groupId": 17,
+      "sortId": 5,
+      "startTime": 1775516400,
+      "endTime": 1776715199,
+      "textList": null,
+      "picType": "NONE",
+      "logoId": null,
+      "color": null
+    },
+    {
+      "picId": "pic73_a_1",
+      "groupId": 18,
+      "sortId": 2,
+      "startTime": 1777590000,
+      "endTime": 1778788799,
+      "textList": null,
+      "picType": "NONE",
+      "logoId": null,
+      "color": null
+    },
+    {
+      "picId": "pic73_s_1",
+      "groupId": 18,
+      "sortId": 3,
+      "startTime": 1777590000,
+      "endTime": 1779998399,
+      "textList": null,
+      "picType": "SKIN",
+      "logoId": "iteration_boc",
+      "color": null
     }
   ],
-  "movieInfo": null
+  "movieInfo": {
+    "videoId": "main_17_intro",
+    "videoPath": "preMainVideo/main_17_intro.mp4",
+    "endTime": 1778832000,
+    "sortId": 9
+  }
 }

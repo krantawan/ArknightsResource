@@ -1028,6 +1028,226 @@
         ]
       },
       {
+        "avatarId": "avatar_special_76",
+        "avatarType": "SPECIAL",
+        "avatarDesc": "购买礼包获得",
+        "isSecret": false,
+        "avatarStartTs": 1775016000,
+        "avatarLimit": true,
+        "avatarIdSort": 66,
+        "avatarIdDesc": "购买礼包获得\\n“米米子”",
+        "avatarItemName": "“米米子”",
+        "avatarItemDesc": "“最受人喜爱的角色......不许加‘之一’。”",
+        "avatarItemUsage": "用来彰显个性的图案，能够将之设置为头像。",
+        "obtainApproach": "特殊方式获得",
+        "dynAvatarId": null,
+        "limitDatas": [
+          {
+            "avatarId": "avatar_special_76",
+            "descShowTs": 1775016000,
+            "descHideTs": 1776801599
+          }
+        ]
+      },
+      {
+        "avatarId": "avatar_special_77",
+        "avatarType": "SPECIAL",
+        "avatarDesc": "购买礼包获得",
+        "isSecret": false,
+        "avatarStartTs": 1775016000,
+        "avatarLimit": true,
+        "avatarIdSort": 67,
+        "avatarIdDesc": "购买礼包获得\\n“靓眼银灰”",
+        "avatarItemName": "“靓眼银灰”",
+        "avatarItemDesc": "“来见识一下真正的气场与风范。”",
+        "avatarItemUsage": "用来彰显个性的图案，能够将之设置为头像。",
+        "obtainApproach": "特殊方式获得",
+        "dynAvatarId": null,
+        "limitDatas": [
+          {
+            "avatarId": "avatar_special_77",
+            "descShowTs": 1775016000,
+            "descHideTs": 1776801599
+          }
+        ]
+      },
+      {
+        "avatarId": "avatar_special_78",
+        "avatarType": "SPECIAL",
+        "avatarDesc": "购买礼包获得",
+        "isSecret": false,
+        "avatarStartTs": 1775016000,
+        "avatarLimit": true,
+        "avatarIdSort": 68,
+        "avatarIdDesc": "购买礼包获得\\n“解闷德克萨斯”",
+        "avatarItemName": "“解闷德克萨斯”",
+        "avatarItemDesc": "“我打心底里希望这事不会有后续。”",
+        "avatarItemUsage": "用来彰显个性的图案，能够将之设置为头像。",
+        "obtainApproach": "特殊方式获得",
+        "dynAvatarId": null,
+        "limitDatas": [
+          {
+            "avatarId": "avatar_special_78",
+            "descShowTs": 1775016000,
+            "descHideTs": 1776801599
+          }
+        ]
+      },
+      {
+        "avatarId": "avatar_special_79",
+        "avatarType": "SPECIAL",
+        "avatarDesc": "购买礼包获得",
+        "isSecret": false,
+        "avatarStartTs": 1775016000,
+        "avatarLimit": true,
+        "avatarIdSort": 69,
+        "avatarIdDesc": "购买礼包获得\\n“凯尔希炭”",
+        "avatarItemName": "“凯尔希炭”",
+        "avatarItemDesc": "“没有生气。没有生气。没有生气。”",
+        "avatarItemUsage": "用来彰显个性的图案，能够将之设置为头像。",
+        "obtainApproach": "特殊方式获得",
+        "dynAvatarId": null,
+        "limitDatas": [
+          {
+            "avatarId": "avatar_special_79",
+            "descShowTs": 1775016000,
+            "descHideTs": 1776801599
+          }
+        ]
+      },
+      {
+        "avatarId": "avatar_special_80",
+        "avatarType": "SPECIAL",
+        "avatarDesc": "购买礼包获得",
+        "isSecret": false,
+        "avatarStartTs": 1775016000,
+        "avatarLimit": true,
+        "avatarIdSort": 70,
+        "avatarIdDesc": "购买礼包获得\\n“维维美”",
+        "avatarItemName": "“维维美”",
+        "avatarItemDesc": "“交涉有什么作用，还是用武力解决吧！”",
+        "avatarItemUsage": "用来彰显个性的图案，能够将之设置为头像。",
+        "obtainApproach": "特殊方式获得",
+        "dynAvatarId": null,
+        "limitDatas": [
+          {
+            "avatarId": "avatar_special_80",
+            "descShowTs": 1775016000,
+            "descHideTs": 1776801599
+          }
+        ]
+      },
+      {
+        "avatarId": "avatar_special_81",
+        "avatarType": "SPECIAL",
+        "avatarDesc": "购买礼包获得",
+        "isSecret": false,
+        "avatarStartTs": 1775016000,
+        "avatarLimit": true,
+        "avatarIdSort": 71,
+        "avatarIdDesc": "购买礼包获得\\n“闲游能天使”",
+        "avatarItemName": "“闲游能天使”",
+        "avatarItemDesc": "“用爆炸能量烤苹果派能不能行得通啊......”",
+        "avatarItemUsage": "用来彰显个性的图案，能够将之设置为头像。",
+        "obtainApproach": "特殊方式获得",
+        "dynAvatarId": null,
+        "limitDatas": [
+          {
+            "avatarId": "avatar_special_81",
+            "descShowTs": 1775016000,
+            "descHideTs": 1776801599
+          }
+        ]
+      },
+      {
+        "avatarId": "avatar_special_82",
+        "avatarType": "SPECIAL",
+        "avatarDesc": "购买礼包获得",
+        "isSecret": false,
+        "avatarStartTs": 1777123800,
+        "avatarLimit": true,
+        "avatarIdSort": 72,
+        "avatarIdDesc": "购买礼包获得\\n“2026余韵切片”",
+        "avatarItemName": "“2026余韵切片”",
+        "avatarItemDesc": "闭上眼睛，那一日的景象历历在目。",
+        "avatarItemUsage": "用来彰显个性的图案，能够将之设置为头像。",
+        "obtainApproach": "特殊方式获得",
+        "dynAvatarId": null,
+        "limitDatas": [
+          {
+            "avatarId": "avatar_special_82",
+            "descShowTs": 1777123800,
+            "descHideTs": 1779479999
+          }
+        ]
+      },
+      {
+        "avatarId": "avatar_special_83",
+        "avatarType": "SPECIAL",
+        "avatarDesc": "购买礼包获得",
+        "isSecret": false,
+        "avatarStartTs": 1777123800,
+        "avatarLimit": true,
+        "avatarIdSort": 73,
+        "avatarIdDesc": "购买礼包获得\\n“信念共鸣”",
+        "avatarItemName": "“信念共鸣”",
+        "avatarItemDesc": "我们携手走过的每一段路，都铭刻了彼此间从未中断的协和之音。",
+        "avatarItemUsage": "用来彰显个性的图案，能够将之设置为头像。",
+        "obtainApproach": "特殊方式获得",
+        "dynAvatarId": null,
+        "limitDatas": [
+          {
+            "avatarId": "avatar_special_83",
+            "descShowTs": 1777123800,
+            "descHideTs": 1779479999
+          }
+        ]
+      },
+      {
+        "avatarId": "avatar_special_74",
+        "avatarType": "SPECIAL",
+        "avatarDesc": "限时活动获得",
+        "isSecret": true,
+        "avatarStartTs": 1777590000,
+        "avatarLimit": true,
+        "avatarIdSort": 74,
+        "avatarIdDesc": "限时活动获得\\n“相庆”",
+        "avatarItemName": "“相庆”",
+        "avatarItemDesc": "与伙伴们携手，庆祝一段全新旅程的开始。",
+        "avatarItemUsage": "用来彰显个性的图案，能够将之设置为头像。",
+        "obtainApproach": "特殊方式获得",
+        "dynAvatarId": null,
+        "limitDatas": [
+          {
+            "avatarId": "avatar_special_74",
+            "descShowTs": 1777590000,
+            "descHideTs": 1780613999
+          }
+        ]
+      },
+      {
+        "avatarId": "avatar_special_92",
+        "avatarType": "SPECIAL",
+        "avatarDesc": "限时活动获得",
+        "isSecret": true,
+        "avatarStartTs": 1777590000,
+        "avatarLimit": true,
+        "avatarIdSort": 75,
+        "avatarIdDesc": "限时活动获得\\n“同行”",
+        "avatarItemName": "“同行”",
+        "avatarItemDesc": "跨越星海、时光与漫长的记忆，我们仍然同行。",
+        "avatarItemUsage": "用来彰显个性的图案，能够将之设置为头像。",
+        "obtainApproach": "特殊方式获得",
+        "dynAvatarId": null,
+        "limitDatas": [
+          {
+            "avatarId": "avatar_special_92",
+            "descShowTs": 1777590000,
+            "descHideTs": 1780613999
+          }
+        ]
+      },
+      {
         "avatarId": "avatar_activity_OF",
         "avatarType": "ACTIVITY",
         "avatarDesc": "【火蓝之心】记录修复",
@@ -2197,6 +2417,87 @@
         ]
       },
       {
+        "avatarId": "avatar_activity_AC_2",
+        "avatarType": "ACTIVITY",
+        "avatarDesc": "【卫戍协议:盟约】功勋兑换处",
+        "isSecret": true,
+        "avatarStartTs": 1773475200,
+        "avatarLimit": true,
+        "avatarIdSort": 78,
+        "avatarIdDesc": "【卫戍协议:盟约】功勋兑换处\\n“模拟重启！”",
+        "avatarItemName": "“模拟重启！”",
+        "avatarItemDesc": "选好装备，定下策略，整编队伍，再次进发！",
+        "avatarItemUsage": "用来彰显个性的图案，能够将之设置为头像。",
+        "obtainApproach": "在卫戍协议:盟约活动中获得",
+        "dynAvatarId": null,
+        "limitDatas": [
+          {
+            "avatarId": "avatar_activity_AC_2",
+            "descShowTs": 1773475200,
+            "descHideTs": 1777319999
+          }
+        ]
+      },
+      {
+        "avatarId": "avatar_activity_RE",
+        "avatarType": "ACTIVITY",
+        "avatarDesc": "Rhodes Island Epic 黑色博士坠落活动",
+        "isSecret": false,
+        "avatarStartTs": 1775016000,
+        "avatarLimit": true,
+        "avatarIdSort": 79,
+        "avatarIdDesc": "Rhodes Island Epic 黑色博士坠落活动\\n“博士士”",
+        "avatarItemName": "“博士士”",
+        "avatarItemDesc": "“你这家伙是反对罗德岛的吧，饶不了你！”",
+        "avatarItemUsage": "用来彰显个性的图案，能够将之设置为头像。",
+        "obtainApproach": "在Rhodes Island Epic 黑色博士坠落活动中获得",
+        "dynAvatarId": null,
+        "limitDatas": [
+          {
+            "avatarId": "avatar_activity_RE",
+            "descShowTs": 1775016000,
+            "descHideTs": 1775591999
+          }
+        ]
+      },
+      {
+        "avatarId": "avatar_activity_BB",
+        "avatarType": "ACTIVITY",
+        "avatarDesc": "【巴别塔】记录修复",
+        "isSecret": false,
+        "avatarStartTs": 1776715200,
+        "avatarLimit": false,
+        "avatarIdSort": 80,
+        "avatarIdDesc": "【巴别塔】记录修复\\n“巴别塔”",
+        "avatarItemName": "“巴别塔”",
+        "avatarItemDesc": "将绝望与希冀、相逢与别离所铸成的东西称为“生命”。",
+        "avatarItemUsage": "用来彰显个性的图案，能够将之设置为头像。",
+        "obtainApproach": "记录修复获得",
+        "dynAvatarId": null
+      },
+      {
+        "avatarId": "avatar_activity_ED3",
+        "avatarType": "ACTIVITY",
+        "avatarDesc": "【争锋频道：绿藤城】绿藤奖励",
+        "isSecret": true,
+        "avatarStartTs": 1777123800,
+        "avatarLimit": true,
+        "avatarIdSort": 81,
+        "avatarIdDesc": "【争锋频道：绿藤城】绿藤奖励\\n“全投！”",
+        "avatarItemName": "“全投！”",
+        "avatarItemDesc": "没时间犹豫了！机会仅此一次，拿出全部礼物，放手一搏吧！",
+        "avatarItemUsage": "用来彰显个性的图案，能够将之设置为头像。",
+        "obtainApproach": "在争锋频道：绿藤城活动中获得",
+        "dynAvatarId": null,
+        "limitDatas": [
+          {
+            "avatarId": "avatar_activity_ED3",
+            "descShowTs": 1777123800,
+            "descHideTs": 1778529599
+          }
+        ]
+      },
+      {
         "avatarId": "avatar_dyn_01",
         "avatarType": "DYNAMIC",
         "avatarDesc": "【累计签到】奖励",
@@ -2571,7 +2872,17 @@
           "avatar_special_62",
           "avatar_special_63",
           "avatar_special_64",
-          "avatar_special_65"
+          "avatar_special_65",
+          "avatar_special_76",
+          "avatar_special_77",
+          "avatar_special_78",
+          "avatar_special_79",
+          "avatar_special_80",
+          "avatar_special_81",
+          "avatar_special_82",
+          "avatar_special_83",
+          "avatar_special_74",
+          "avatar_special_92"
         ]
       },
       "ACTIVITY": {
@@ -2655,7 +2966,11 @@
           "avatar_activity_pcAct",
           "avatar_activity_HS",
           "avatar_activity_RL5_1",
-          "avatar_activity_RL5_2"
+          "avatar_activity_RL5_2",
+          "avatar_activity_AC_2",
+          "avatar_activity_RE",
+          "avatar_activity_BB",
+          "avatar_activity_ED3"
         ]
       },
       "DEFAULT": {
@@ -3294,6 +3609,28 @@
         "unlockDesList": [
           "[集成战略]岁的界园志异奖励"
         ]
+      },
+      {
+        "bgId": "bg_elitelounge_1",
+        "bgType": "BASE",
+        "bgSortId": 28,
+        "bgStartTime": 1777590000,
+        "isSecret": false,
+        "bgName": "执着",
+        "bgDes": "正因历经无数磨练，回望来时路的那一刻才更令人感慨万千。",
+        "bgUsage": "一张照片，一段回忆，凝聚了泰拉大地的某个瞬间。",
+        "isMultiForm": false,
+        "multiFormList": [
+          {
+            "multiFormBgId": "bg_elitelounge_1",
+            "sortId": 0,
+            "bgMusicId": "music_elitelounge_1"
+          }
+        ],
+        "obtainApproach": "累计签到获得",
+        "unlockDesList": [
+          "累计签到1500天获得"
+        ]
       }
     ],
     "backgroundGroupDatas": [
@@ -3443,6 +3780,11 @@
             "id": "bg_rogue_5",
             "groupType": "BASE",
             "sortId": 27
+          },
+          {
+            "id": "bg_elitelounge_1",
+            "groupType": "BASE",
+            "sortId": 28
           }
         ]
       }
@@ -3793,6 +4135,30 @@
         "hideWhenLimit": true,
         "rarity": 5,
         "multiPicId": "tm_lonetrail_1_all"
+      },
+      {
+        "id": "tm_kaltsit_1",
+        "type": "BASE",
+        "sortId": 15,
+        "startTime": 1777123800,
+        "isSecret": true,
+        "tmName": "重构",
+        "tmDes": "见证了无数的离散与结合，那双一直注视着时光变迁的眼睛，终于得以重构。",
+        "tmUsage": "在不变动功能的情况下，对PRTS界面进行了重新设计。",
+        "isMultiForm": false,
+        "multiFormList": [
+          {
+            "multiFormTmId": "tm_kaltsit_1",
+            "sortId": 0
+          }
+        ],
+        "obtainApproach": "限时登录活动奖励",
+        "unlockDesList": [
+          "回望泰拉限时登录活动奖励"
+        ],
+        "isLimitObtain": true,
+        "hideWhenLimit": true,
+        "rarity": 4
       }
     ],
     "themeGroupDatas": [
@@ -3884,6 +4250,11 @@
             "id": "tm_rogue_5",
             "groupType": "BASE",
             "sortId": 11
+          },
+          {
+            "id": "tm_kaltsit_1",
+            "groupType": "BASE",
+            "sortId": 15
           }
         ]
       }
@@ -4088,6 +4459,16 @@
             "invalidObtainDesc": "暂未开放获取途径"
           }
         ]
+      },
+      "tm_kaltsit_1": {
+        "id": "tm_kaltsit_1",
+        "limitInfos": [
+          {
+            "startTime": 1777123800,
+            "endTime": 1780257599,
+            "invalidObtainDesc": "暂未开放获取途径"
+          }
+        ]
       }
     },
     "multiFormInfoData": [
@@ -4246,7 +4627,7 @@
         "skinTmplCnt": 1,
         "canChangeTmpl": false,
         "isTimeLimit": false,
-        "timeLimitInfoList": []
+        "timeLimitInfoList": {}
       },
       "nc_rhodes_light": {
         "id": "nc_rhodes_light",
@@ -4277,7 +4658,7 @@
         "skinTmplCnt": 1,
         "canChangeTmpl": false,
         "isTimeLimit": false,
-        "timeLimitInfoList": []
+        "timeLimitInfoList": {}
       },
       "nc_sports_1": {
         "id": "nc_sports_1",
@@ -4308,13 +4689,14 @@
         "skinTmplCnt": 1,
         "canChangeTmpl": false,
         "isTimeLimit": true,
-        "timeLimitInfoList": [
-          {
+        "timeLimitInfoList": {
+          "nc_sports_1": {
+            "limitId": "nc_sports_1",
             "id": "nc_sports_1",
             "availStartTime": 1715760000,
             "availEndTime": 1717185600
           }
-        ]
+        }
       },
       "nc_sandbox_1": {
         "id": "nc_sandbox_1",
@@ -4345,7 +4727,7 @@
         "skinTmplCnt": 1,
         "canChangeTmpl": false,
         "isTimeLimit": false,
-        "timeLimitInfoList": []
+        "timeLimitInfoList": {}
       },
       "nc_as2024_dreamer": {
         "id": "nc_as2024_dreamer",
@@ -4375,18 +4757,20 @@
         "skinTmplCnt": 5,
         "canChangeTmpl": true,
         "isTimeLimit": true,
-        "timeLimitInfoList": [
-          {
+        "timeLimitInfoList": {
+          "nc_as2024_dreamer": {
+            "limitId": "nc_as2024_dreamer",
             "id": "nc_as2024_dreamer",
             "availStartTime": 1721894400,
             "availEndTime": 1723060800
           },
-          {
+          "nc_as2024_dreamer_r1": {
+            "limitId": "nc_as2024_dreamer_r1",
             "id": "nc_as2024_dreamer",
             "availStartTime": 1754107200,
             "availEndTime": 1756497599
           }
-        ]
+        }
       },
       "nc_as2024_pilgrim": {
         "id": "nc_as2024_pilgrim",
@@ -4416,18 +4800,20 @@
         "skinTmplCnt": 5,
         "canChangeTmpl": true,
         "isTimeLimit": true,
-        "timeLimitInfoList": [
-          {
+        "timeLimitInfoList": {
+          "nc_as2024_pilgrim": {
+            "limitId": "nc_as2024_pilgrim",
             "id": "nc_as2024_pilgrim",
             "availStartTime": 1721894400,
             "availEndTime": 1723060800
           },
-          {
+          "nc_as2024_pilgrim_r1": {
+            "limitId": "nc_as2024_pilgrim_r1",
             "id": "nc_as2024_pilgrim",
             "availStartTime": 1754107200,
             "availEndTime": 1756497599
           }
-        ]
+        }
       },
       "nc_as2024_throne": {
         "id": "nc_as2024_throne",
@@ -4457,18 +4843,20 @@
         "skinTmplCnt": 5,
         "canChangeTmpl": true,
         "isTimeLimit": true,
-        "timeLimitInfoList": [
-          {
+        "timeLimitInfoList": {
+          "nc_as2024_throne": {
+            "limitId": "nc_as2024_throne",
             "id": "nc_as2024_throne",
             "availStartTime": 1721894400,
             "availEndTime": 1723060800
           },
-          {
+          "nc_as2024_throne_r1": {
+            "limitId": "nc_as2024_throne_r1",
             "id": "nc_as2024_throne",
             "availStartTime": 1754107200,
             "availEndTime": 1756497599
           }
-        ]
+        }
       },
       "nc_as2024_novafive": {
         "id": "nc_as2024_novafive",
@@ -4498,18 +4886,20 @@
         "skinTmplCnt": 5,
         "canChangeTmpl": true,
         "isTimeLimit": true,
-        "timeLimitInfoList": [
-          {
+        "timeLimitInfoList": {
+          "nc_as2024_novafive": {
+            "limitId": "nc_as2024_novafive",
             "id": "nc_as2024_novafive",
             "availStartTime": 1721894400,
             "availEndTime": 1723060800
           },
-          {
+          "nc_as2024_novafive_r1": {
+            "limitId": "nc_as2024_novafive_r1",
             "id": "nc_as2024_novafive",
             "availStartTime": 1754107200,
             "availEndTime": 1756497599
           }
-        ]
+        }
       },
       "nc_landscape_1": {
         "id": "nc_landscape_1",
@@ -4540,13 +4930,14 @@
         "skinTmplCnt": 1,
         "canChangeTmpl": false,
         "isTimeLimit": true,
-        "timeLimitInfoList": [
-          {
+        "timeLimitInfoList": {
+          "nc_landscape_1": {
+            "limitId": "nc_landscape_1",
             "id": "nc_landscape_1",
             "availStartTime": 1723233600,
             "availEndTime": 1724443200
           }
-        ]
+        }
       },
       "nc_moon_1": {
         "id": "nc_moon_1",
@@ -4576,18 +4967,20 @@
         "skinTmplCnt": 5,
         "canChangeTmpl": true,
         "isTimeLimit": true,
-        "timeLimitInfoList": [
-          {
+        "timeLimitInfoList": {
+          "nc_moon_1": {
+            "limitId": "nc_moon_1",
             "id": "nc_moon_1",
             "availStartTime": 1726344000,
             "availEndTime": 1728158400
           },
-          {
+          "nc_moon_1_r1": {
+            "limitId": "nc_moon_1_r1",
             "id": "nc_moon_1",
             "availStartTime": 1759694400,
             "availEndTime": 1760903999
           }
-        ]
+        }
       },
       "nc_undertides_1": {
         "id": "nc_undertides_1",
@@ -4618,13 +5011,14 @@
         "skinTmplCnt": 1,
         "canChangeTmpl": false,
         "isTimeLimit": true,
-        "timeLimitInfoList": [
-          {
+        "timeLimitInfoList": {
+          "nc_undertides_1": {
+            "limitId": "nc_undertides_1",
             "id": "nc_undertides_1",
             "availStartTime": 1728446400,
             "availEndTime": 1798574400
           }
-        ]
+        }
       },
       "nc_5d5_1": {
         "id": "nc_5d5_1",
@@ -4655,13 +5049,14 @@
         "skinTmplCnt": 1,
         "canChangeTmpl": false,
         "isTimeLimit": true,
-        "timeLimitInfoList": [
-          {
+        "timeLimitInfoList": {
+          "nc_5d5_1": {
+            "limitId": "nc_5d5_1",
             "id": "nc_5d5_1",
             "availStartTime": 1729949400,
             "availEndTime": 1730750400
           }
-        ]
+        }
       },
       "nc_movie_1": {
         "id": "nc_movie_1",
@@ -4692,18 +5087,20 @@
         "skinTmplCnt": 1,
         "canChangeTmpl": false,
         "isTimeLimit": true,
-        "timeLimitInfoList": [
-          {
+        "timeLimitInfoList": {
+          "nc_movie_1": {
+            "limitId": "nc_movie_1",
             "id": "nc_movie_1",
             "availStartTime": 1733990400,
             "availEndTime": 1735761599
           },
-          {
+          "nc_movie_1_r1": {
+            "limitId": "nc_movie_1_r1",
             "id": "nc_movie_1",
             "availStartTime": 1764057600,
             "availEndTime": 1765828799
           }
-        ]
+        }
       },
       "nc_sweetness_1": {
         "id": "nc_sweetness_1",
@@ -4734,13 +5131,14 @@
         "skinTmplCnt": 1,
         "canChangeTmpl": false,
         "isTimeLimit": true,
-        "timeLimitInfoList": [
-          {
+        "timeLimitInfoList": {
+          "nc_sweetness_1": {
+            "limitId": "nc_sweetness_1",
             "id": "nc_sweetness_1",
             "availStartTime": 1739476800,
             "availEndTime": 1740686399
           }
-        ]
+        }
       },
       "nc_as2025_EchoesoftheLegends": {
         "id": "nc_as2025_EchoesoftheLegends",
@@ -4770,18 +5168,20 @@
         "skinTmplCnt": 5,
         "canChangeTmpl": true,
         "isTimeLimit": true,
-        "timeLimitInfoList": [
-          {
+        "timeLimitInfoList": {
+          "nc_as2025_EchoesoftheLegends": {
+            "limitId": "nc_as2025_EchoesoftheLegends",
             "id": "nc_as2025_EchoesoftheLegends",
             "availStartTime": 1745481600,
             "availEndTime": 1747857599
           },
-          {
+          "nc_as2025_EchoesoftheLegends_r1": {
+            "limitId": "nc_as2025_EchoesoftheLegends_r1",
             "id": "nc_as2025_EchoesoftheLegends",
             "availStartTime": 1774555200,
             "availEndTime": 1775764799
           }
-        ]
+        }
       },
       "nc_as2025_DivineReverie": {
         "id": "nc_as2025_DivineReverie",
@@ -4811,18 +5211,20 @@
         "skinTmplCnt": 5,
         "canChangeTmpl": true,
         "isTimeLimit": true,
-        "timeLimitInfoList": [
-          {
+        "timeLimitInfoList": {
+          "nc_as2025_DivineReverie": {
+            "limitId": "nc_as2025_DivineReverie",
             "id": "nc_as2025_DivineReverie",
             "availStartTime": 1745481600,
             "availEndTime": 1747857599
           },
-          {
+          "nc_as2025_DivineReverie_r1": {
+            "limitId": "nc_as2025_DivineReverie_r1",
             "id": "nc_as2025_DivineReverie",
             "availStartTime": 1774555200,
             "availEndTime": 1775764799
           }
-        ]
+        }
       },
       "nc_as2025_GlazedGrace": {
         "id": "nc_as2025_GlazedGrace",
@@ -4852,18 +5254,20 @@
         "skinTmplCnt": 5,
         "canChangeTmpl": true,
         "isTimeLimit": true,
-        "timeLimitInfoList": [
-          {
+        "timeLimitInfoList": {
+          "nc_as2025_GlazedGrace": {
+            "limitId": "nc_as2025_GlazedGrace",
             "id": "nc_as2025_GlazedGrace",
             "availStartTime": 1745481600,
             "availEndTime": 1747857599
           },
-          {
+          "nc_as2025_GlazedGrace_r1": {
+            "limitId": "nc_as2025_GlazedGrace_r1",
             "id": "nc_as2025_GlazedGrace",
             "availStartTime": 1774555200,
             "availEndTime": 1775764799
           }
-        ]
+        }
       },
       "nc_as2025_TheWildEra": {
         "id": "nc_as2025_TheWildEra",
@@ -4893,18 +5297,20 @@
         "skinTmplCnt": 5,
         "canChangeTmpl": true,
         "isTimeLimit": true,
-        "timeLimitInfoList": [
-          {
+        "timeLimitInfoList": {
+          "nc_as2025_TheWildEra": {
+            "limitId": "nc_as2025_TheWildEra",
             "id": "nc_as2025_TheWildEra",
             "availStartTime": 1745481600,
             "availEndTime": 1747857599
           },
-          {
+          "nc_as2025_TheWildEra_r1": {
+            "limitId": "nc_as2025_TheWildEra_r1",
             "id": "nc_as2025_TheWildEra",
             "availStartTime": 1774555200,
             "availEndTime": 1775764799
           }
-        ]
+        }
       },
       "nc_as2025_BloomsofTime": {
         "id": "nc_as2025_BloomsofTime",
@@ -4934,18 +5340,20 @@
         "skinTmplCnt": 5,
         "canChangeTmpl": true,
         "isTimeLimit": true,
-        "timeLimitInfoList": [
-          {
+        "timeLimitInfoList": {
+          "nc_as2025_BloomsofTime": {
+            "limitId": "nc_as2025_BloomsofTime",
             "id": "nc_as2025_BloomsofTime",
             "availStartTime": 1745481600,
             "availEndTime": 1747857599
           },
-          {
+          "nc_as2025_BloomsofTime_r1": {
+            "limitId": "nc_as2025_BloomsofTime_r1",
             "id": "nc_as2025_BloomsofTime",
             "availStartTime": 1774555200,
             "availEndTime": 1775764799
           }
-        ]
+        }
       },
       "nc_dragonboat_1": {
         "id": "nc_dragonboat_1",
@@ -4976,13 +5384,14 @@
         "skinTmplCnt": 1,
         "canChangeTmpl": false,
         "isTimeLimit": true,
-        "timeLimitInfoList": [
-          {
+        "timeLimitInfoList": {
+          "nc_dragonboat_1": {
+            "limitId": "nc_dragonboat_1",
             "id": "nc_dragonboat_1",
             "availStartTime": 1748462400,
             "availEndTime": 1749671999
           }
-        ]
+        }
       },
       "nc_taiko_1": {
         "id": "nc_taiko_1",
@@ -5012,13 +5421,14 @@
         "skinTmplCnt": 5,
         "canChangeTmpl": true,
         "isTimeLimit": true,
-        "timeLimitInfoList": [
-          {
+        "timeLimitInfoList": {
+          "nc_taiko_1": {
+            "limitId": "nc_taiko_1",
             "id": "nc_taiko_1",
             "availStartTime": 1753171200,
             "availEndTime": 1754942399
           }
-        ]
+        }
       },
       "nc_avemujica_1": {
         "id": "nc_avemujica_1",
@@ -5048,13 +5458,14 @@
         "skinTmplCnt": 5,
         "canChangeTmpl": true,
         "isTimeLimit": true,
-        "timeLimitInfoList": [
-          {
+        "timeLimitInfoList": {
+          "nc_avemujica_1": {
+            "limitId": "nc_avemujica_1",
             "id": "nc_avemujica_1",
             "availStartTime": 1756958400,
             "availEndTime": 1758743999
           }
-        ]
+        }
       },
       "nc_arc_1": {
         "id": "nc_arc_1",
@@ -5085,13 +5496,14 @@
         "skinTmplCnt": 1,
         "canChangeTmpl": false,
         "isTimeLimit": true,
-        "timeLimitInfoList": [
-          {
+        "timeLimitInfoList": {
+          "nc_arc_1": {
+            "limitId": "nc_arc_1",
             "id": "nc_arc_1",
             "availStartTime": 1760068800,
             "availEndTime": 1830110400
           }
-        ]
+        }
       },
       "nc_6d5_1": {
         "id": "nc_6d5_1",
@@ -5122,13 +5534,14 @@
         "skinTmplCnt": 1,
         "canChangeTmpl": false,
         "isTimeLimit": true,
-        "timeLimitInfoList": [
-          {
+        "timeLimitInfoList": {
+          "nc_6d5_1": {
+            "limitId": "nc_6d5_1",
             "id": "nc_6d5_1",
             "availStartTime": 1761399000,
             "availEndTime": 1762199999
           }
-        ]
+        }
       },
       "nc_rilakkuma_1": {
         "id": "nc_rilakkuma_1",
@@ -5158,13 +5571,162 @@
         "skinTmplCnt": 6,
         "canChangeTmpl": true,
         "isTimeLimit": true,
-        "timeLimitInfoList": [
-          {
+        "timeLimitInfoList": {
+          "nc_rilakkuma_1": {
+            "limitId": "nc_rilakkuma_1",
             "id": "nc_rilakkuma_1",
             "availStartTime": 1768550400,
             "availEndTime": 1770321599
           }
-        ]
+        }
+      },
+      "nc_as2026_TheCongregation": {
+        "id": "nc_as2026_TheCongregation",
+        "name": "布道人",
+        "type": "SPECIAL",
+        "isSecret": false,
+        "sortId": 26,
+        "isSpTheme": true,
+        "defaultShowDetail": false,
+        "themeName": "布道人",
+        "themeEnName": "The Congregation",
+        "skinStartTime": 1777123800,
+        "skinDesc": "为在漫漫长夜中不知所从的迷途者，送上闪耀着引路光芒的信念之声。",
+        "usageDesc": "在不变动功能的情况下，对prts进行了重新设计。",
+        "skinApproach": "布道人组合包",
+        "unlockConditionCnt": 1,
+        "unlockDescList": [
+          "在[采购中心]中购买布道人组合包获得"
+        ],
+        "fixedModuleList": [
+          "module_background",
+          "module_collect",
+          "module_avatar",
+          "module_avatar_simple"
+        ],
+        "rarity": 5,
+        "skinTmplCnt": 5,
+        "canChangeTmpl": true,
+        "isTimeLimit": true,
+        "timeLimitInfoList": {
+          "nc_as2026_TheCongregation": {
+            "limitId": "nc_as2026_TheCongregation",
+            "id": "nc_as2026_TheCongregation",
+            "availStartTime": 1777123800,
+            "availEndTime": 1779479999
+          }
+        }
+      },
+      "nc_as2026_TheScripted": {
+        "id": "nc_as2026_TheScripted",
+        "name": "戏中身",
+        "type": "SPECIAL",
+        "isSecret": false,
+        "sortId": 27,
+        "isSpTheme": true,
+        "defaultShowDetail": false,
+        "themeName": "戏中身",
+        "themeEnName": "The Scripted",
+        "skinStartTime": 1777123800,
+        "skinDesc": "以幕布之后的不羁与痴狂，震碎充斥时空的困顿与迷惘。",
+        "usageDesc": "在不变动功能的情况下，对prts进行了重新设计。",
+        "skinApproach": "戏中身组合包",
+        "unlockConditionCnt": 1,
+        "unlockDescList": [
+          "在[采购中心]中购买戏中身组合包获得"
+        ],
+        "fixedModuleList": [
+          "module_background",
+          "module_collect",
+          "module_avatar",
+          "module_avatar_simple"
+        ],
+        "rarity": 5,
+        "skinTmplCnt": 5,
+        "canChangeTmpl": true,
+        "isTimeLimit": true,
+        "timeLimitInfoList": {
+          "nc_as2026_TheScripted": {
+            "limitId": "nc_as2026_TheScripted",
+            "id": "nc_as2026_TheScripted",
+            "availStartTime": 1777123800,
+            "availEndTime": 1779479999
+          }
+        }
+      },
+      "nc_as2026_NightWatcher": {
+        "id": "nc_as2026_NightWatcher",
+        "name": "渡星客",
+        "type": "SPECIAL",
+        "isSecret": false,
+        "sortId": 28,
+        "isSpTheme": true,
+        "defaultShowDetail": false,
+        "themeName": "渡星客",
+        "themeEnName": "Night Watcher",
+        "skinStartTime": 1777123800,
+        "skinDesc": "沐浴着群星洒下的微光，拨开天鹅绒般的夜幕，聆听亘古不变的求知心编织出的动人回响。",
+        "usageDesc": "在不变动功能的情况下，对prts进行了重新设计。",
+        "skinApproach": "渡星客组合包",
+        "unlockConditionCnt": 1,
+        "unlockDescList": [
+          "在[采购中心]中购买渡星客组合包获得"
+        ],
+        "fixedModuleList": [
+          "module_background",
+          "module_collect",
+          "module_avatar",
+          "module_avatar_simple"
+        ],
+        "rarity": 5,
+        "skinTmplCnt": 5,
+        "canChangeTmpl": true,
+        "isTimeLimit": true,
+        "timeLimitInfoList": {
+          "nc_as2026_NightWatcher": {
+            "limitId": "nc_as2026_NightWatcher",
+            "id": "nc_as2026_NightWatcher",
+            "availStartTime": 1777123800,
+            "availEndTime": 1779479999
+          }
+        }
+      },
+      "nc_as2026_TheAphasic": {
+        "id": "nc_as2026_TheAphasic",
+        "name": "失语者",
+        "type": "SPECIAL",
+        "isSecret": false,
+        "sortId": 29,
+        "isSpTheme": true,
+        "defaultShowDetail": false,
+        "themeName": "失语者",
+        "themeEnName": "The Aphasic",
+        "skinStartTime": 1777123800,
+        "skinDesc": "无需言语构建的理想，无需概念打造的信条。唯有前行的脚步，才是终结沉默的最强力量。",
+        "usageDesc": "在不变动功能的情况下，对prts进行了重新设计。",
+        "skinApproach": "失语者组合包",
+        "unlockConditionCnt": 1,
+        "unlockDescList": [
+          "在[采购中心]中购买失语者组合包获得"
+        ],
+        "fixedModuleList": [
+          "module_background",
+          "module_collect",
+          "module_avatar",
+          "module_avatar_simple"
+        ],
+        "rarity": 5,
+        "skinTmplCnt": 5,
+        "canChangeTmpl": true,
+        "isTimeLimit": true,
+        "timeLimitInfoList": {
+          "nc_as2026_TheAphasic": {
+            "limitId": "nc_as2026_TheAphasic",
+            "id": "nc_as2026_TheAphasic",
+            "availStartTime": 1777123800,
+            "availEndTime": 1779479999
+          }
+        }
       }
     },
     "skinGroupDatas": [
@@ -5237,6 +5799,26 @@
             "id": "nc_rilakkuma_1",
             "groupType": "SPECIAL",
             "sortId": 25
+          },
+          {
+            "id": "nc_as2026_TheCongregation",
+            "groupType": "SPECIAL",
+            "sortId": 26
+          },
+          {
+            "id": "nc_as2026_TheScripted",
+            "groupType": "SPECIAL",
+            "sortId": 27
+          },
+          {
+            "id": "nc_as2026_NightWatcher",
+            "groupType": "SPECIAL",
+            "sortId": 28
+          },
+          {
+            "id": "nc_as2026_TheAphasic",
+            "groupType": "SPECIAL",
+            "sortId": 29
           }
         ]
       },
@@ -7211,6 +7793,48 @@
         "picId": "pic_very_soon_battle",
         "desc": null
       },
+      "slug_duel_battle_nice_work": {
+        "id": "slug_duel_battle_nice_work",
+        "type": "ENEMYDUEL_BATTLE",
+        "sortId": 2001,
+        "picId": "pic_nice_work_battle",
+        "desc": null
+      },
+      "slug_duel_battle_thanks": {
+        "id": "slug_duel_battle_thanks",
+        "type": "ENEMYDUEL_BATTLE",
+        "sortId": 2002,
+        "picId": "pic_thanks_battle",
+        "desc": null
+      },
+      "slug_duel_battle_sorry": {
+        "id": "slug_duel_battle_sorry",
+        "type": "ENEMYDUEL_BATTLE",
+        "sortId": 2003,
+        "picId": "pic_sorry_battle",
+        "desc": null
+      },
+      "slug_duel_battle_bye": {
+        "id": "slug_duel_battle_bye",
+        "type": "ENEMYDUEL_BATTLE",
+        "sortId": 2004,
+        "picId": "pic_bye_battle",
+        "desc": null
+      },
+      "slug_duel_battle_distrust": {
+        "id": "slug_duel_battle_distrust",
+        "type": "ENEMYDUEL_BATTLE",
+        "sortId": 2005,
+        "picId": "pic_distrust_battle",
+        "desc": null
+      },
+      "slug_duel_battle_very_soon": {
+        "id": "slug_duel_battle_very_soon",
+        "type": "ENEMYDUEL_BATTLE",
+        "sortId": 2006,
+        "picId": "pic_very_soon_battle",
+        "desc": null
+      },
       "duel_battle_left": {
         "id": "duel_battle_left",
         "type": "ENEMYDUEL_BATTLE",
@@ -7406,6 +8030,300 @@
         "sortId": 1006,
         "picId": "pic_cooperate_battle",
         "desc": null
+      },
+      "autochess_battle_noproblem": {
+        "id": "autochess_battle_noproblem",
+        "type": "AUTOCHESS_BATTLE",
+        "sortId": 1007,
+        "picId": "pic_noproblem_battle",
+        "desc": null
+      },
+      "autochess_battle_respect": {
+        "id": "autochess_battle_respect",
+        "type": "AUTOCHESS_BATTLE",
+        "sortId": 1008,
+        "picId": "pic_respect_battle",
+        "desc": null
+      },
+      "autochess_battle_call": {
+        "id": "autochess_battle_call",
+        "type": "AUTOCHESS_BATTLE",
+        "sortId": 1009,
+        "picId": "pic_call_battle",
+        "desc": null
+      },
+      "autochess_battle_playingcool": {
+        "id": "autochess_battle_playingcool",
+        "type": "AUTOCHESS_BATTLE",
+        "sortId": 1010,
+        "picId": "pic_playingcool_battle",
+        "desc": null
+      },
+      "autochess_battle_sad": {
+        "id": "autochess_battle_sad",
+        "type": "AUTOCHESS_BATTLE",
+        "sortId": 1011,
+        "picId": "pic_sad_battle",
+        "desc": null
+      },
+      "autochess_battle_dying": {
+        "id": "autochess_battle_dying",
+        "type": "AUTOCHESS_BATTLE",
+        "sortId": 1012,
+        "picId": "pic_dying_battle",
+        "desc": null
+      },
+      "autochess_battle_fooldoctor_01": {
+        "id": "autochess_battle_fooldoctor_01",
+        "type": "AUTOCHESS_BATTLE",
+        "sortId": 1020,
+        "picId": "pic_fooldoctor_01_battle",
+        "desc": null
+      },
+      "autochess_battle_fooldoctor_02": {
+        "id": "autochess_battle_fooldoctor_02",
+        "type": "AUTOCHESS_BATTLE",
+        "sortId": 1021,
+        "picId": "pic_fooldoctor_02_battle",
+        "desc": null
+      },
+      "autochess_battle_fooldoctor_03": {
+        "id": "autochess_battle_fooldoctor_03",
+        "type": "AUTOCHESS_BATTLE",
+        "sortId": 1022,
+        "picId": "pic_fooldoctor_04_battle",
+        "desc": null
+      },
+      "autochess_battle_fooldoctor_04": {
+        "id": "autochess_battle_fooldoctor_04",
+        "type": "AUTOCHESS_BATTLE",
+        "sortId": 1023,
+        "picId": "pic_fooldoctor_05_battle",
+        "desc": null
+      },
+      "autochess_battle_fooldoctor_05": {
+        "id": "autochess_battle_fooldoctor_05",
+        "type": "AUTOCHESS_BATTLE",
+        "sortId": 1024,
+        "picId": "pic_fooldoctor_06_battle",
+        "desc": null
+      },
+      "autochess_battle_fooldoctor_06": {
+        "id": "autochess_battle_fooldoctor_06",
+        "type": "AUTOCHESS_BATTLE",
+        "sortId": 1025,
+        "picId": "pic_fooldoctor_08_battle",
+        "desc": null
+      },
+      "autochess_battle_foolamiya_01": {
+        "id": "autochess_battle_foolamiya_01",
+        "type": "AUTOCHESS_BATTLE",
+        "sortId": 1040,
+        "picId": "pic_foolamiya_01_battle",
+        "desc": null
+      },
+      "autochess_battle_foolamiya_02": {
+        "id": "autochess_battle_foolamiya_02",
+        "type": "AUTOCHESS_BATTLE",
+        "sortId": 1041,
+        "picId": "pic_foolamiya_02_battle",
+        "desc": null
+      },
+      "autochess_battle_foolamiya_03": {
+        "id": "autochess_battle_foolamiya_03",
+        "type": "AUTOCHESS_BATTLE",
+        "sortId": 1042,
+        "picId": "pic_foolamiya_03_battle",
+        "desc": null
+      },
+      "autochess_battle_foolamiya_04": {
+        "id": "autochess_battle_foolamiya_04",
+        "type": "AUTOCHESS_BATTLE",
+        "sortId": 1043,
+        "picId": "pic_foolamiya_04_battle",
+        "desc": null
+      },
+      "autochess_battle_foolamiya_05": {
+        "id": "autochess_battle_foolamiya_05",
+        "type": "AUTOCHESS_BATTLE",
+        "sortId": 1044,
+        "picId": "pic_foolamiya_05_battle",
+        "desc": null
+      },
+      "autochess_battle_foolamiya_06": {
+        "id": "autochess_battle_foolamiya_06",
+        "type": "AUTOCHESS_BATTLE",
+        "sortId": 1045,
+        "picId": "pic_foolamiya_06_battle",
+        "desc": null
+      },
+      "autochess_battle_foolwisdel_01": {
+        "id": "autochess_battle_foolwisdel_01",
+        "type": "AUTOCHESS_BATTLE",
+        "sortId": 1060,
+        "picId": "pic_foolwisdel_01_battle",
+        "desc": null
+      },
+      "autochess_battle_foolwisdel_02": {
+        "id": "autochess_battle_foolwisdel_02",
+        "type": "AUTOCHESS_BATTLE",
+        "sortId": 1061,
+        "picId": "pic_foolwisdel_02_battle",
+        "desc": null
+      },
+      "autochess_battle_foolwisdel_03": {
+        "id": "autochess_battle_foolwisdel_03",
+        "type": "AUTOCHESS_BATTLE",
+        "sortId": 1062,
+        "picId": "pic_foolwisdel_03_battle",
+        "desc": null
+      },
+      "autochess_battle_foolwisdel_04": {
+        "id": "autochess_battle_foolwisdel_04",
+        "type": "AUTOCHESS_BATTLE",
+        "sortId": 1063,
+        "picId": "pic_foolwisdel_04_battle",
+        "desc": null
+      },
+      "autochess_battle_foolwisdel_05": {
+        "id": "autochess_battle_foolwisdel_05",
+        "type": "AUTOCHESS_BATTLE",
+        "sortId": 1064,
+        "picId": "pic_foolwisdel_05_battle",
+        "desc": null
+      },
+      "autochess_battle_foolwisdel_06": {
+        "id": "autochess_battle_foolwisdel_06",
+        "type": "AUTOCHESS_BATTLE",
+        "sortId": 1065,
+        "picId": "pic_foolwisdel_06_battle",
+        "desc": null
+      },
+      "duel_battle_fooldoctor_01": {
+        "id": "duel_battle_fooldoctor_01",
+        "type": "ENEMYDUEL_BATTLE",
+        "sortId": 1020,
+        "picId": "pic_fooldoctor_01_battle",
+        "desc": null
+      },
+      "duel_battle_fooldoctor_02": {
+        "id": "duel_battle_fooldoctor_02",
+        "type": "ENEMYDUEL_BATTLE",
+        "sortId": 1021,
+        "picId": "pic_fooldoctor_02_battle",
+        "desc": null
+      },
+      "duel_battle_fooldoctor_03": {
+        "id": "duel_battle_fooldoctor_03",
+        "type": "ENEMYDUEL_BATTLE",
+        "sortId": 1022,
+        "picId": "pic_fooldoctor_04_battle",
+        "desc": null
+      },
+      "duel_battle_fooldoctor_04": {
+        "id": "duel_battle_fooldoctor_04",
+        "type": "ENEMYDUEL_BATTLE",
+        "sortId": 1023,
+        "picId": "pic_fooldoctor_05_battle",
+        "desc": null
+      },
+      "duel_battle_fooldoctor_05": {
+        "id": "duel_battle_fooldoctor_05",
+        "type": "ENEMYDUEL_BATTLE",
+        "sortId": 1024,
+        "picId": "pic_fooldoctor_06_battle",
+        "desc": null
+      },
+      "duel_battle_fooldoctor_06": {
+        "id": "duel_battle_fooldoctor_06",
+        "type": "ENEMYDUEL_BATTLE",
+        "sortId": 1025,
+        "picId": "pic_fooldoctor_08_battle",
+        "desc": null
+      },
+      "duel_battle_foolamiya_01": {
+        "id": "duel_battle_foolamiya_01",
+        "type": "ENEMYDUEL_BATTLE",
+        "sortId": 1040,
+        "picId": "pic_foolamiya_01_battle",
+        "desc": null
+      },
+      "duel_battle_foolamiya_02": {
+        "id": "duel_battle_foolamiya_02",
+        "type": "ENEMYDUEL_BATTLE",
+        "sortId": 1041,
+        "picId": "pic_foolamiya_02_battle",
+        "desc": null
+      },
+      "duel_battle_foolamiya_03": {
+        "id": "duel_battle_foolamiya_03",
+        "type": "ENEMYDUEL_BATTLE",
+        "sortId": 1042,
+        "picId": "pic_foolamiya_03_battle",
+        "desc": null
+      },
+      "duel_battle_foolamiya_04": {
+        "id": "duel_battle_foolamiya_04",
+        "type": "ENEMYDUEL_BATTLE",
+        "sortId": 1043,
+        "picId": "pic_foolamiya_04_battle",
+        "desc": null
+      },
+      "duel_battle_foolamiya_05": {
+        "id": "duel_battle_foolamiya_05",
+        "type": "ENEMYDUEL_BATTLE",
+        "sortId": 1044,
+        "picId": "pic_foolamiya_05_battle",
+        "desc": null
+      },
+      "duel_battle_foolamiya_06": {
+        "id": "duel_battle_foolamiya_06",
+        "type": "ENEMYDUEL_BATTLE",
+        "sortId": 1045,
+        "picId": "pic_foolamiya_06_battle",
+        "desc": null
+      },
+      "duel_battle_foolwisdel_01": {
+        "id": "duel_battle_foolwisdel_01",
+        "type": "ENEMYDUEL_BATTLE",
+        "sortId": 1060,
+        "picId": "pic_foolwisdel_01_battle",
+        "desc": null
+      },
+      "duel_battle_foolwisdel_02": {
+        "id": "duel_battle_foolwisdel_02",
+        "type": "ENEMYDUEL_BATTLE",
+        "sortId": 1061,
+        "picId": "pic_foolwisdel_02_battle",
+        "desc": null
+      },
+      "duel_battle_foolwisdel_03": {
+        "id": "duel_battle_foolwisdel_03",
+        "type": "ENEMYDUEL_BATTLE",
+        "sortId": 1062,
+        "picId": "pic_foolwisdel_03_battle",
+        "desc": null
+      },
+      "duel_battle_foolwisdel_04": {
+        "id": "duel_battle_foolwisdel_04",
+        "type": "ENEMYDUEL_BATTLE",
+        "sortId": 1063,
+        "picId": "pic_foolwisdel_04_battle",
+        "desc": null
+      },
+      "duel_battle_foolwisdel_05": {
+        "id": "duel_battle_foolwisdel_05",
+        "type": "ENEMYDUEL_BATTLE",
+        "sortId": 1064,
+        "picId": "pic_foolwisdel_05_battle",
+        "desc": null
+      },
+      "duel_battle_foolwisdel_06": {
+        "id": "duel_battle_foolwisdel_06",
+        "type": "ENEMYDUEL_BATTLE",
+        "sortId": 1065,
+        "picId": "pic_foolwisdel_06_battle",
+        "desc": null
       }
     },
     "emoticonThemeDataDict": {
@@ -7463,7 +8381,13 @@
         "slug_autochess_battle_sorry",
         "slug_autochess_battle_bye",
         "slug_autochess_battle_distrust",
-        "slug_autochess_battle_very_soon"
+        "slug_autochess_battle_very_soon",
+        "slug_duel_battle_nice_work",
+        "slug_duel_battle_thanks",
+        "slug_duel_battle_sorry",
+        "slug_duel_battle_bye",
+        "slug_duel_battle_distrust",
+        "slug_duel_battle_very_soon"
       ],
       "emticon_duel_basic": [
         "duel_battle_right",
@@ -7496,6 +8420,56 @@
         "autochess_battle_thanks",
         "autochess_battle_thinking",
         "autochess_battle_nice_cooperate"
+      ],
+      "emoticon_autochess_basic_2": [
+        "autochess_battle_noproblem",
+        "autochess_battle_respect",
+        "autochess_battle_call",
+        "autochess_battle_playingcool",
+        "autochess_battle_sad",
+        "autochess_battle_dying"
+      ],
+      "emoticon_foolsday_doctor": [
+        "autochess_battle_fooldoctor_01",
+        "autochess_battle_fooldoctor_02",
+        "autochess_battle_fooldoctor_03",
+        "autochess_battle_fooldoctor_04",
+        "autochess_battle_fooldoctor_05",
+        "autochess_battle_fooldoctor_06",
+        "duel_battle_fooldoctor_01",
+        "duel_battle_fooldoctor_02",
+        "duel_battle_fooldoctor_03",
+        "duel_battle_fooldoctor_04",
+        "duel_battle_fooldoctor_05",
+        "duel_battle_fooldoctor_06"
+      ],
+      "emoticon_foolsday_amiya": [
+        "autochess_battle_foolamiya_01",
+        "autochess_battle_foolamiya_02",
+        "autochess_battle_foolamiya_03",
+        "autochess_battle_foolamiya_04",
+        "autochess_battle_foolamiya_05",
+        "autochess_battle_foolamiya_06",
+        "duel_battle_foolamiya_01",
+        "duel_battle_foolamiya_02",
+        "duel_battle_foolamiya_03",
+        "duel_battle_foolamiya_04",
+        "duel_battle_foolamiya_05",
+        "duel_battle_foolamiya_06"
+      ],
+      "emoticon_foolsday_wisdel": [
+        "autochess_battle_foolwisdel_01",
+        "autochess_battle_foolwisdel_02",
+        "autochess_battle_foolwisdel_03",
+        "autochess_battle_foolwisdel_04",
+        "autochess_battle_foolwisdel_05",
+        "autochess_battle_foolwisdel_06",
+        "duel_battle_foolwisdel_01",
+        "duel_battle_foolwisdel_02",
+        "duel_battle_foolwisdel_03",
+        "duel_battle_foolwisdel_04",
+        "duel_battle_foolwisdel_05",
+        "duel_battle_foolwisdel_06"
       ]
     }
   },
@@ -7558,6 +8532,7 @@
         "keyId": "num0",
         "keyName": "0",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           50,
           84
@@ -7568,6 +8543,7 @@
         "keyId": "num1",
         "keyName": "1",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           41,
           85
@@ -7578,6 +8554,7 @@
         "keyId": "num2",
         "keyName": "2",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           42,
           86
@@ -7588,6 +8565,7 @@
         "keyId": "num3",
         "keyName": "3",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           43,
           87
@@ -7598,6 +8576,7 @@
         "keyId": "num4",
         "keyName": "4",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           44,
           88
@@ -7608,6 +8587,7 @@
         "keyId": "num5",
         "keyName": "5",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           45,
           89
@@ -7618,6 +8598,7 @@
         "keyId": "num6",
         "keyName": "6",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           46,
           90
@@ -7628,6 +8609,7 @@
         "keyId": "num7",
         "keyName": "7",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           47,
           91
@@ -7638,6 +8620,7 @@
         "keyId": "num8",
         "keyName": "8",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           48,
           92
@@ -7648,6 +8631,7 @@
         "keyId": "num9",
         "keyName": "9",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           49,
           93
@@ -7658,6 +8642,7 @@
         "keyId": "alphaA",
         "keyName": "A",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           15
         ],
@@ -7667,6 +8652,7 @@
         "keyId": "alphaB",
         "keyName": "B",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           16
         ],
@@ -7676,6 +8662,7 @@
         "keyId": "alphaC",
         "keyName": "C",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           17
         ],
@@ -7685,6 +8672,7 @@
         "keyId": "alphaD",
         "keyName": "D",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           18
         ],
@@ -7694,6 +8682,7 @@
         "keyId": "alphaE",
         "keyName": "E",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           19
         ],
@@ -7703,6 +8692,7 @@
         "keyId": "alphaF",
         "keyName": "F",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           20
         ],
@@ -7712,6 +8702,7 @@
         "keyId": "alphaG",
         "keyName": "G",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           21
         ],
@@ -7721,6 +8712,7 @@
         "keyId": "alphaH",
         "keyName": "H",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           22
         ],
@@ -7730,6 +8722,7 @@
         "keyId": "alphaI",
         "keyName": "I",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           23
         ],
@@ -7739,6 +8732,7 @@
         "keyId": "alphaJ",
         "keyName": "J",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           24
         ],
@@ -7748,6 +8742,7 @@
         "keyId": "alphaK",
         "keyName": "K",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           25
         ],
@@ -7757,6 +8752,7 @@
         "keyId": "alphaL",
         "keyName": "L",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           26
         ],
@@ -7766,6 +8762,7 @@
         "keyId": "alphaM",
         "keyName": "M",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           27
         ],
@@ -7775,6 +8772,7 @@
         "keyId": "alphaN",
         "keyName": "N",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           28
         ],
@@ -7784,6 +8782,7 @@
         "keyId": "alphaO",
         "keyName": "O",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           29
         ],
@@ -7793,6 +8792,7 @@
         "keyId": "alphaP",
         "keyName": "P",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           30
         ],
@@ -7802,6 +8802,7 @@
         "keyId": "alphaQ",
         "keyName": "Q",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           31
         ],
@@ -7811,6 +8812,7 @@
         "keyId": "alphaR",
         "keyName": "R",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           32
         ],
@@ -7820,6 +8822,7 @@
         "keyId": "alphaS",
         "keyName": "S",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           33
         ],
@@ -7829,6 +8832,7 @@
         "keyId": "alphaT",
         "keyName": "T",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           34
         ],
@@ -7838,6 +8842,7 @@
         "keyId": "alphaU",
         "keyName": "U",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           35
         ],
@@ -7847,6 +8852,7 @@
         "keyId": "alphaV",
         "keyName": "V",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           36
         ],
@@ -7856,6 +8862,7 @@
         "keyId": "alphaW",
         "keyName": "W",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           37
         ],
@@ -7865,6 +8872,7 @@
         "keyId": "alphaX",
         "keyName": "X",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           38
         ],
@@ -7874,6 +8882,7 @@
         "keyId": "alphaY",
         "keyName": "Y",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           39
         ],
@@ -7883,6 +8892,7 @@
         "keyId": "alphaZ",
         "keyName": "Z",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           40
         ],
@@ -7892,6 +8902,7 @@
         "keyId": "keybackspace",
         "keyName": "⬅",
         "useIcon": true,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           65
         ],
@@ -7901,6 +8912,7 @@
         "keyId": "keyTab",
         "keyName": "Tab",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           3
         ],
@@ -7910,6 +8922,7 @@
         "keyId": "keyEnter",
         "keyName": "Enter",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           2
         ],
@@ -7919,6 +8932,7 @@
         "keyId": "keyShift",
         "keyName": "Shift",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           51,
           52
@@ -7929,6 +8943,7 @@
         "keyId": "keyCtrl",
         "keyName": "Ctrl",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           55,
           56
@@ -7939,6 +8954,7 @@
         "keyId": "keyAlt",
         "keyName": "Alt",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           53,
           54
@@ -7949,6 +8965,7 @@
         "keyId": "charMinus",
         "keyName": "-",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           13
         ],
@@ -7958,6 +8975,7 @@
         "keyId": "charPlus",
         "keyName": "+",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           14
         ],
@@ -7967,6 +8985,7 @@
         "keyId": "charlLeftCurlyBracket",
         "keyName": "[",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           11
         ],
@@ -7976,6 +8995,7 @@
         "keyId": "charRightCurlyBracket",
         "keyName": "]",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           12
         ],
@@ -7985,6 +9005,7 @@
         "keyId": "charPipe",
         "keyName": "\\",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           10
         ],
@@ -7994,6 +9015,7 @@
         "keyId": "charColon",
         "keyName": ":",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           6
         ],
@@ -8003,6 +9025,7 @@
         "keyId": "charQuote",
         "keyName": "‘",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           5
         ],
@@ -8012,6 +9035,7 @@
         "keyId": "charLess",
         "keyName": ",",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           7
         ],
@@ -8021,6 +9045,7 @@
         "keyId": "charGreater",
         "keyName": ".",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           8
         ],
@@ -8030,6 +9055,7 @@
         "keyId": "charQuestion",
         "keyName": "/",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           9
         ],
@@ -8039,6 +9065,7 @@
         "keyId": "keyF1",
         "keyName": "F1",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           94
         ],
@@ -8048,6 +9075,7 @@
         "keyId": "keyF2",
         "keyName": "F2",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           95
         ],
@@ -8057,6 +9085,7 @@
         "keyId": "keyF3",
         "keyName": "F3",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           96
         ],
@@ -8066,6 +9095,7 @@
         "keyId": "keyF4",
         "keyName": "F4",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           97
         ],
@@ -8075,6 +9105,7 @@
         "keyId": "bannedEscape",
         "keyName": "ESC",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           60
         ],
@@ -8084,6 +9115,7 @@
         "keyId": "bannedF5",
         "keyName": "F5",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           98
         ],
@@ -8093,6 +9125,7 @@
         "keyId": "bannedF6",
         "keyName": "F6",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           99
         ],
@@ -8102,6 +9135,7 @@
         "keyId": "bannedF7",
         "keyName": "F7",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           100
         ],
@@ -8111,6 +9145,7 @@
         "keyId": "bannedF8",
         "keyName": "F8",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           101
         ],
@@ -8120,6 +9155,7 @@
         "keyId": "bannedF9",
         "keyName": "F9",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           102
         ],
@@ -8129,6 +9165,7 @@
         "keyId": "bannedF10",
         "keyName": "F10",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           103
         ],
@@ -8138,6 +9175,7 @@
         "keyId": "bannedF11",
         "keyName": "F11",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           104
         ],
@@ -8147,6 +9185,7 @@
         "keyId": "bannedF12",
         "keyName": "F12",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           105
         ],
@@ -8156,6 +9195,7 @@
         "keyId": "bannedprintScreen",
         "keyName": "PrintScreen",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           74
         ],
@@ -8165,6 +9205,7 @@
         "keyId": "bannedscrollLock",
         "keyName": "ScrollLock",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           75
         ],
@@ -8174,6 +9215,7 @@
         "keyId": "bannedPause",
         "keyName": "Pause",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           76
         ],
@@ -8183,6 +9225,7 @@
         "keyId": "bannedTilde",
         "keyName": "~",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           4
         ],
@@ -8192,6 +9235,7 @@
         "keyId": "bannedInsert",
         "keyName": "Insert",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           70
         ],
@@ -8201,6 +9245,7 @@
         "keyId": "bannedHome",
         "keyName": "Home",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           68
         ],
@@ -8210,6 +9255,7 @@
         "keyId": "bannedPageUp",
         "keyName": "PageUp",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           67
         ],
@@ -8219,6 +9265,7 @@
         "keyId": "bannedNumLock",
         "keyName": "数字小键盘NumLock",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           73
         ],
@@ -8228,6 +9275,7 @@
         "keyId": "bannedKeypadDivide",
         "keyName": "数字小键盘/",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           78
         ],
@@ -8237,6 +9285,7 @@
         "keyId": "bannedKeypadMultiply",
         "keyName": "数字小键盘*",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           79
         ],
@@ -8246,6 +9295,7 @@
         "keyId": "bannedKeypadMinus",
         "keyName": "数字小键盘-",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           81
         ],
@@ -8255,6 +9305,7 @@
         "keyId": "bannedDelete",
         "keyName": "Delete",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           71
         ],
@@ -8264,6 +9315,7 @@
         "keyId": "bannedEnd",
         "keyName": "End",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           69
         ],
@@ -8273,6 +9325,7 @@
         "keyId": "bannedPageDown",
         "keyName": "PageDown",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           66
         ],
@@ -8282,6 +9335,7 @@
         "keyId": "bannedkeypadPlus",
         "keyName": "数字小键盘+",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           80
         ],
@@ -8291,6 +9345,7 @@
         "keyId": "bannedCapslock",
         "keyName": "CapsLock",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           72
         ],
@@ -8300,6 +9355,7 @@
         "keyId": "bannedUpArrow",
         "keyName": "↑",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           63
         ],
@@ -8309,6 +9365,7 @@
         "keyId": "bannedKeypadEnter",
         "keyName": "数字小键盘Enter",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           77
         ],
@@ -8318,6 +9375,7 @@
         "keyId": "bannedMenu",
         "keyName": "应用程序键",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           59
         ],
@@ -8327,6 +9385,7 @@
         "keyId": "bannedLeftArrow",
         "keyName": "←",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           61
         ],
@@ -8336,6 +9395,7 @@
         "keyId": "bannedDownArrow",
         "keyName": "↓",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           64
         ],
@@ -8345,6 +9405,7 @@
         "keyId": "bannedRightArrow",
         "keyName": "→",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           62
         ],
@@ -8354,6 +9415,7 @@
         "keyId": "bannedKeypadPeriod",
         "keyName": "数字小键盘.",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           82
         ],
@@ -8363,6 +9425,7 @@
         "keyId": "keySpace",
         "keyName": "空格",
         "useIcon": true,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           1
         ],
@@ -8372,34 +9435,65 @@
         "keyId": "keyWindows",
         "keyName": "Windows",
         "useIcon": false,
+        "keyCodeType": "KEYBOARD",
         "keyCodes": [
           57,
           58
         ],
         "canBeSetted": false
+      },
+      "mouseLeft": {
+        "keyId": "mouseLeft",
+        "keyName": "鼠标左键",
+        "useIcon": true,
+        "keyCodeType": "MOUSE",
+        "keyCodes": [
+          0
+        ],
+        "canBeSetted": false
+      },
+      "mouseRight": {
+        "keyId": "mouseRight",
+        "keyName": "鼠标右键",
+        "useIcon": true,
+        "keyCodeType": "MOUSE",
+        "keyCodes": [
+          1
+        ],
+        "canBeSetted": true
+      },
+      "mouseMiddle": {
+        "keyId": "mouseMiddle",
+        "keyName": "鼠标中键",
+        "useIcon": true,
+        "keyCodeType": "MOUSE",
+        "keyCodes": [
+          2
+        ],
+        "canBeSetted": true
+      },
+      "mouseForward": {
+        "keyId": "mouseForward",
+        "keyName": "鼠标侧键1",
+        "useIcon": true,
+        "keyCodeType": "MOUSE",
+        "keyCodes": [
+          3
+        ],
+        "canBeSetted": true
+      },
+      "mouseBack": {
+        "keyId": "mouseBack",
+        "keyName": "鼠标侧键2",
+        "useIcon": true,
+        "keyCodeType": "MOUSE",
+        "keyCodes": [
+          4
+        ],
+        "canBeSetted": true
       }
     },
     "keySettingData": {
-      "default": {
-        "groupId": "default",
-        "name": "default",
-        "funcType": "NORMAL",
-        "keyEffectGroup": "ALL",
-        "isHidden": true,
-        "relatedActType": "ENUM",
-        "gameModeTag": "",
-        "sortId": 0,
-        "startTs": -1,
-        "itemList": [
-          {
-            "funcId": "defaultReturn",
-            "funcName": "defaultReturn",
-            "canBeSet": false,
-            "defaultKeyId": "bannedEscape",
-            "sortId": 0
-          }
-        ]
-      },
       "normalBattle": {
         "groupId": "normalBattle",
         "name": "基础设置",
@@ -10010,108 +11104,11 @@
       "defaultLeafId": "leaf_default"
     },
     "blackListInDiy": {
-      "PLAYER_AVATAR": {
-        "avatar_special_07": 0,
-        "avatar_special_11": 0,
-        "avatar_special_12": 0,
-        "avatar_special_15": 0,
-        "avatar_special_16": 0,
-        "avatar_special_19": 0,
-        "avatar_special_20": 0,
-        "avatar_special_21": 0,
-        "avatar_special_22": 0,
-        "avatar_special_23": 0,
-        "avatar_special_24": 0,
-        "avatar_special_25": 0,
-        "avatar_special_26": 0,
-        "avatar_special_27": 0,
-        "avatar_special_28": 0,
-        "avatar_special_29": 0,
-        "avatar_special_30": 0,
-        "avatar_special_32": 0,
-        "avatar_special_33": 0,
-        "avatar_special_34": 0,
-        "avatar_special_36": 0,
-        "avatar_special_40": 0,
-        "avatar_special_41": 0,
-        "avatar_special_42": 0,
-        "avatar_special_44": 0,
-        "avatar_special_46": 0,
-        "avatar_special_43": 0,
-        "avatar_special_45": 0,
-        "avatar_special_47": 0,
-        "avatar_special_50": 0,
-        "avatar_special_51": 0,
-        "avatar_special_52": 0,
-        "avatar_special_53": 0,
-        "avatar_special_54": 0,
-        "avatar_special_55": 0,
-        "avatar_special_56": 0,
-        "avatar_special_57": 0,
-        "avatar_special_58": 0,
-        "avatar_special_60": 0,
-        "avatar_special_61": 0,
-        "avatar_special_62": 0,
-        "avatar_special_63": 0,
-        "avatar_special_64": 0,
-        "avatar_special_65": 0
-      },
-      "HOME_BACKGROUND": {
-        "bg_rainbowsix_1": 0,
-        "bg_sanrio_1": 0,
-        "bg_avemujica_1": 0
-      },
-      "HOME_THEME": {
-        "tm_rainbowsix_1": 0,
-        "tm_avemujica_1": 0,
-        "tm_sanrio_1": 0
-      },
-      "NAME_CARD_SKIN": {
-        "nc_movie_1": 0,
-        "nc_taiko_1": 0,
-        "nc_avemujica_1": 0,
-        "nc_rilakkuma_1": 0
-      },
-      "CHAR_SKIN": {
-        "char_103_angel@kfc#1": 0,
-        "char_134_ifrit@kfc#1": 0,
-        "char_201_moeshd@kfc#1": 0,
-        "char_173_slchan@wwf#1": 0,
-        "char_456_ash@rainbow6#1": 0,
-        "char_459_tachak@rainbow6#1": 0,
-        "char_4123_ela@rainbow6#2": 0,
-        "char_4125_rdoc@rainbow6#2": 0,
-        "char_4124_iana@rainbow6#2": 0,
-        "char_293_thorns@it#1": 0,
-        "char_350_surtr@it#1": 0,
-        "char_115_headbr@it#1": 0,
-        "char_358_lisa@lxh#1": 0,
-        "char_4040_rockr@lxh#1": 0,
-        "char_4077_palico@mh#1": 0,
-        "char_1001_amiya2@casc#1": 0,
-        "char_2023_ling@ncg#1": 0,
-        "char_4082_qiubai@ncg#1": 0,
-        "char_106_franka@ncg#1": 0,
-        "char_4019_ncdeer@ncdeer#1": 0,
-        "char_322_lmlee@sanrio#1": 0,
-        "char_377_gdglow@sanrio#1": 0,
-        "char_4091_ulika@sanrio#1": 0,
-        "char_180_amgoat@sanrio#2": 0,
-        "char_1032_excu2@sanrio#2": 0,
-        "char_4042_lumen@sanrio#2": 0,
-        "char_4141_marcil@dungeon#1": 0,
-        "char_1034_jesca2@cfa#1": 0,
-        "char_2014_nian@cfa#1": 0,
-        "char_2024_chyue@cfa#1": 0,
-        "char_151_myrtle@taiko#1": 0,
-        "char_4182_oblvns@avemujica#1": 0,
-        "char_4186_tmoris@avemujica#1": 0,
-        "char_4184_dolris@avemujica#1": 0,
-        "char_4185_amoris@avemujica#1": 0,
-        "char_4183_mortis@avemujica#1": 0,
-        "char_197_poca@rilakkuma#1": 0,
-        "char_134_ifrit@rilakkuma#1": 0
-      }
+      "PLAYER_AVATAR": {},
+      "HOME_BACKGROUND": {},
+      "HOME_THEME": {},
+      "NAME_CARD_SKIN": {},
+      "CHAR_SKIN": {}
     }
   },
   "stickerData": {
@@ -10297,5 +11294,31 @@
         "rarity": 4
       }
     }
+  },
+  "avgDialogSettingData": {
+    "defaultPresetId": 2,
+    "presetList": [
+      {
+        "id": 1,
+        "name": "小",
+        "nameFontSize": 28,
+        "messageFontSize": 22,
+        "messageMinHeight": 0.0
+      },
+      {
+        "id": 2,
+        "name": "中",
+        "nameFontSize": 30,
+        "messageFontSize": 24,
+        "messageMinHeight": 0.0
+      },
+      {
+        "id": 3,
+        "name": "大",
+        "nameFontSize": 30,
+        "messageFontSize": 26,
+        "messageMinHeight": 220.0
+      }
+    ]
   }
 }

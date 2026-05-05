@@ -10,6 +10,7 @@
     "isTrainingLevel": false,
     "isHardTrainingLevel": false,
     "isPredefinedCardsSelectable": false,
+    "displayRestTime": false,
     "maxPlayTime": -1.0,
     "functionDisableMask": 0,
     "configBlackBoard": null,
@@ -816,7 +817,7 @@
   "tilesDisallowToLocate": [],
   "runes": [
     {
-      "difficultyMask": 7,
+      "difficultyMask": 15,
       "key": "env_system_new",
       "professionMask": 1023,
       "buildableMask": 3,
@@ -828,6 +829,7 @@
       ]
     }
   ],
+  "optionalRunes": null,
   "globalBuffs": null,
   "routes": [
     {
@@ -1533,6 +1535,7 @@
               "dontBlockWave": false,
               "forceBlockWaveInBranch": false,
               "isValid": false,
+              "notCountInTotal": false,
               "extraMeta": null,
               "actionId": null
             },
@@ -1557,6 +1560,7 @@
               "dontBlockWave": false,
               "forceBlockWaveInBranch": false,
               "isValid": false,
+              "notCountInTotal": false,
               "extraMeta": null,
               "actionId": null
             },
@@ -1581,6 +1585,7 @@
               "dontBlockWave": false,
               "forceBlockWaveInBranch": false,
               "isValid": false,
+              "notCountInTotal": false,
               "extraMeta": null,
               "actionId": null
             }
@@ -1610,6 +1615,7 @@
               "dontBlockWave": false,
               "forceBlockWaveInBranch": false,
               "isValid": false,
+              "notCountInTotal": false,
               "extraMeta": null,
               "actionId": null
             },
@@ -1634,6 +1640,7 @@
               "dontBlockWave": false,
               "forceBlockWaveInBranch": false,
               "isValid": false,
+              "notCountInTotal": false,
               "extraMeta": null,
               "actionId": null
             },
@@ -1658,6 +1665,7 @@
               "dontBlockWave": false,
               "forceBlockWaveInBranch": false,
               "isValid": false,
+              "notCountInTotal": false,
               "extraMeta": null,
               "actionId": null
             },
@@ -1682,6 +1690,7 @@
               "dontBlockWave": false,
               "forceBlockWaveInBranch": false,
               "isValid": false,
+              "notCountInTotal": false,
               "extraMeta": null,
               "actionId": null
             },
@@ -1706,6 +1715,7 @@
               "dontBlockWave": false,
               "forceBlockWaveInBranch": false,
               "isValid": false,
+              "notCountInTotal": false,
               "extraMeta": null,
               "actionId": null
             },
@@ -1730,6 +1740,7 @@
               "dontBlockWave": false,
               "forceBlockWaveInBranch": false,
               "isValid": false,
+              "notCountInTotal": false,
               "extraMeta": null,
               "actionId": null
             },
@@ -1754,6 +1765,7 @@
               "dontBlockWave": false,
               "forceBlockWaveInBranch": false,
               "isValid": false,
+              "notCountInTotal": false,
               "extraMeta": null,
               "actionId": null
             }
@@ -1790,6 +1802,7 @@
               "dontBlockWave": false,
               "forceBlockWaveInBranch": false,
               "isValid": false,
+              "notCountInTotal": false,
               "extraMeta": null,
               "actionId": null
             }
@@ -1826,6 +1839,7 @@
               "dontBlockWave": false,
               "forceBlockWaveInBranch": false,
               "isValid": false,
+              "notCountInTotal": false,
               "extraMeta": null,
               "actionId": null
             }
@@ -1862,6 +1876,7 @@
               "dontBlockWave": false,
               "forceBlockWaveInBranch": false,
               "isValid": false,
+              "notCountInTotal": false,
               "extraMeta": null,
               "actionId": null
             }
@@ -1885,6 +1900,8 @@
         "hidden": false,
         "alias": "trap_219_fttreant#1",
         "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_219_fttreant",
           "level": 1,
@@ -1901,7 +1918,8 @@
             "key": "branch_id",
             "valueStr": "branch_treant_1"
           }
-        ]
+        ],
+        "overrideTalents": null
       },
       {
         "position": {
@@ -1912,6 +1930,8 @@
         "hidden": false,
         "alias": "trap_219_fttreant#2",
         "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_219_fttreant",
           "level": 1,
@@ -1928,7 +1948,8 @@
             "key": "branch_id",
             "valueStr": "branch_treant_2"
           }
-        ]
+        ],
+        "overrideTalents": null
       },
       {
         "position": {
@@ -1939,6 +1960,8 @@
         "hidden": false,
         "alias": "trap_219_fttreant#3",
         "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_219_fttreant",
           "level": 1,
@@ -1955,7 +1978,8 @@
             "key": "branch_id",
             "valueStr": "branch_treant_3"
           }
-        ]
+        ],
+        "overrideTalents": null
       },
       {
         "position": {
@@ -1966,6 +1990,8 @@
         "hidden": false,
         "alias": "trap_218_fttree#1",
         "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_218_fttree",
           "level": 1,
@@ -1977,7 +2003,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -1988,6 +2015,8 @@
         "hidden": false,
         "alias": "trap_218_fttree#1",
         "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_218_fttree",
           "level": 1,
@@ -1999,7 +2028,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -2010,6 +2040,8 @@
         "hidden": false,
         "alias": "trap_218_fttree#1",
         "uniEquipIds": null,
+        "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "trap_218_fttree",
           "level": 1,
@@ -2021,7 +2053,8 @@
         "mainSkillLvl": 1,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       }
     ],
     "characterCards": [],

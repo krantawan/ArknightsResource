@@ -1048,7 +1048,8 @@
       "professionMask": 0,
       "playerSideMask": 0,
       "useExtraData": false,
-      "extraRuntimeData": null
+      "extraRuntimeData": null,
+      "source": null
     }
   ],
   "routes": [
@@ -5595,7 +5596,8 @@
             "key": "ActiveOutset.alias",
             "valueStr": "trap_126_outset#2"
           }
-        ]
+        ],
+        "overrideTalents": null
       },
       {
         "position": {
@@ -5628,7 +5630,8 @@
             "key": "ActiveOutset.alias",
             "valueStr": "trap_126_outset#3"
           }
-        ]
+        ],
+        "overrideTalents": null
       },
       {
         "position": {
@@ -5661,7 +5664,8 @@
             "key": "ActiveOutset.alias",
             "valueStr": "trap_126_outset#4"
           }
-        ]
+        ],
+        "overrideTalents": null
       },
       {
         "position": {
@@ -5690,7 +5694,8 @@
             "key": "branch_id",
             "valueStr": "bonore_dfello4"
           }
-        ]
+        ],
+        "overrideTalents": null
       },
       {
         "position": {
@@ -5719,7 +5724,8 @@
             "key": "branch_id",
             "valueStr": "bmbcar1"
           }
-        ]
+        ],
+        "overrideTalents": null
       },
       {
         "position": {
@@ -5748,7 +5754,8 @@
             "key": "branch_id",
             "valueStr": "bmbcar2"
           }
-        ]
+        ],
+        "overrideTalents": null
       },
       {
         "position": {
@@ -5777,7 +5784,8 @@
             "key": "branch_id",
             "valueStr": "bmbcar3"
           }
-        ]
+        ],
+        "overrideTalents": null
       },
       {
         "position": {
@@ -5806,7 +5814,8 @@
             "key": "branch_id",
             "valueStr": "bmbcar4"
           }
-        ]
+        ],
+        "overrideTalents": null
       }
     ],
     "characterCards": [],

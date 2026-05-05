@@ -695,7 +695,8 @@
       "professionMask": 0,
       "playerSideMask": 0,
       "useExtraData": false,
-      "extraRuntimeData": null
+      "extraRuntimeData": null,
+      "source": null
     }
   ],
   "routes": [
@@ -5833,7 +5834,8 @@
             "key": "damage",
             "value": 7.0
           }
-        ]
+        ],
+        "overrideTalents": null
       }
     ],
     "characterCards": [],

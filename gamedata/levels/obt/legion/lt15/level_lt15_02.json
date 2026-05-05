@@ -765,7 +765,8 @@
       "professionMask": 0,
       "playerSideMask": 0,
       "useExtraData": false,
-      "extraRuntimeData": null
+      "extraRuntimeData": null,
+      "source": null
     }
   ],
   "routes": [
@@ -5859,7 +5860,8 @@
             "key": "branch_id",
             "valueStr": "bmbcar1"
           }
-        ]
+        ],
+        "overrideTalents": null
       },
       {
         "position": {
@@ -5888,7 +5890,8 @@
             "key": "branch_id",
             "valueStr": "bonore_dfello1"
           }
-        ]
+        ],
+        "overrideTalents": null
       }
     ],
     "characterCards": [],

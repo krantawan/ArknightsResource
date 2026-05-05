@@ -10,6 +10,7 @@
     "isTrainingLevel": false,
     "isHardTrainingLevel": false,
     "isPredefinedCardsSelectable": false,
+    "displayRestTime": false,
     "maxPlayTime": -1.0,
     "functionDisableMask": 0,
     "configBlackBoard": [
@@ -7810,6 +7811,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "epBreakRecoverSpeed": {
+            "m_defined": false,
+            "m_value": 0.0
+          },
           "stunImmune": {
             "m_defined": false,
             "m_value": false
@@ -7839,6 +7844,10 @@
             "m_value": false
           },
           "palsyImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
             "m_defined": false,
             "m_value": false
           }
@@ -8037,6 +8046,10 @@
             "m_defined": false,
             "m_value": 0.0
           },
+          "epBreakRecoverSpeed": {
+            "m_defined": false,
+            "m_value": 0.0
+          },
           "stunImmune": {
             "m_defined": false,
             "m_value": false
@@ -8066,6 +8079,10 @@
             "m_value": false
           },
           "palsyImmune": {
+            "m_defined": false,
+            "m_value": false
+          },
+          "attractImmune": {
             "m_defined": false,
             "m_value": false
           }
@@ -9085,6 +9102,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_151_myrtle",
           "level": 60,
@@ -9096,7 +9114,8 @@
         "mainSkillLvl": 10,
         "skinId": "char_151_myrtle@summer#12",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "position": {
@@ -9108,6 +9127,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_264_f12yin",
           "level": 90,
@@ -9119,7 +9139,8 @@
         "mainSkillLvl": 10,
         "skinId": "char_264_f12yin@epoque#15",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       }
     ],
     "tokenInsts": [],
@@ -9129,6 +9150,7 @@
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_103_angel",
           "level": 90,
@@ -9140,13 +9162,15 @@
         "mainSkillLvl": 10,
         "skinId": "char_103_angel@wild#1",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_4139_papyrs",
           "level": 80,
@@ -9158,13 +9182,15 @@
         "mainSkillLvl": 10,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_136_hsguma",
           "level": 90,
@@ -9176,13 +9202,15 @@
         "mainSkillLvl": 10,
         "skinId": "char_136_hsguma@nian#3",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_1038_whitw2",
           "level": 90,
@@ -9194,13 +9222,15 @@
         "mainSkillLvl": 10,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_377_gdglow",
           "level": 90,
@@ -9212,13 +9242,15 @@
         "mainSkillLvl": 10,
         "skinId": "char_377_gdglow@summer#12",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_4064_mlynar",
           "level": 90,
@@ -9230,13 +9262,15 @@
         "mainSkillLvl": 10,
         "skinId": "char_4064_mlynar@epoque#28",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_4145_ulpia",
           "level": 90,
@@ -9248,13 +9282,15 @@
         "mainSkillLvl": 10,
         "skinId": "",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_1016_agoat2",
           "level": 90,
@@ -9266,13 +9302,15 @@
         "mainSkillLvl": 10,
         "skinId": "char_1016_agoat2@epoque#34",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_2012_typhon",
           "level": 90,
@@ -9284,13 +9322,15 @@
         "mainSkillLvl": 10,
         "skinId": "char_2012_typhon@summer#17",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_202_demkni",
           "level": 90,
@@ -9302,13 +9342,15 @@
         "mainSkillLvl": 10,
         "skinId": "char_202_demkni@boc#1",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_430_fartth",
           "level": 90,
@@ -9320,13 +9362,15 @@
         "mainSkillLvl": 10,
         "skinId": "char_430_fartth@whirlwind#5",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       },
       {
         "hidden": false,
         "alias": null,
         "uniEquipIds": null,
         "showSpIllust": false,
+        "masterInfos": null,
         "inst": {
           "characterKey": "char_4082_qiubai",
           "level": 90,
@@ -9338,7 +9382,8 @@
         "mainSkillLvl": 10,
         "skinId": "char_4082_qiubai@epoque#31",
         "tmplId": null,
-        "overrideSkillBlackboard": null
+        "overrideSkillBlackboard": null,
+        "overrideTalents": null
       }
     ],
     "tokenCards": []
